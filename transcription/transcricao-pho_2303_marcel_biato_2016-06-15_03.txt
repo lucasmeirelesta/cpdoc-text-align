@@ -1,0 +1,2590 @@
+Transcript: fichário da Capricho 
+confidence: 0.5694495439529419 
+
+Word: fichário, start_time: 0.0, end_time: 57.9 
+Word: da, start_time: 57.9, end_time: 58.1 
+Word: Capricho, start_time: 58.1, end_time: 58.3 
+Transcript: your Number tradução what's the many Faces of Creation 14 anos 80 por 120 download because Beatles words of love the civil essa novela A gente entra nos outros tô PowerPoint animations for Field expecting property you are not speak out Your Mind Over Mutant Spring Rammstein 
+confidence: 0.9076254963874817 
+
+Word: your, start_time: 60.2, end_time: 60.8 
+Word: Number, start_time: 60.8, end_time: 61.2 
+Word: tradução, start_time: 61.2, end_time: 62.2 
+Word: what's, start_time: 62.2, end_time: 63.0 
+Word: the, start_time: 63.0, end_time: 63.2 
+Word: many, start_time: 63.2, end_time: 63.8 
+Word: Faces, start_time: 63.8, end_time: 64.3 
+Word: of, start_time: 64.3, end_time: 64.9 
+Word: Creation, start_time: 64.9, end_time: 67.1 
+Word: 14, start_time: 67.1, end_time: 67.7 
+Word: anos, start_time: 67.7, end_time: 69.3 
+Word: 80, start_time: 69.3, end_time: 72.4 
+Word: por, start_time: 72.4, end_time: 73.7 
+Word: 120, start_time: 73.7, end_time: 74.6 
+Word: download, start_time: 74.6, end_time: 77.1 
+Word: because, start_time: 77.1, end_time: 78.6 
+Word: Beatles, start_time: 78.6, end_time: 79.9 
+Word: words, start_time: 79.9, end_time: 81.7 
+Word: of, start_time: 81.7, end_time: 82.4 
+Word: love, start_time: 82.4, end_time: 83.6 
+Word: the, start_time: 83.6, end_time: 84.2 
+Word: civil, start_time: 84.2, end_time: 86.6 
+Word: essa, start_time: 86.6, end_time: 87.8 
+Word: novela, start_time: 87.8, end_time: 88.1 
+Word: A, start_time: 88.1, end_time: 88.3 
+Word: gente, start_time: 88.3, end_time: 88.7 
+Word: entra, start_time: 88.7, end_time: 90.0 
+Word: nos, start_time: 90.0, end_time: 90.1 
+Word: outros, start_time: 90.1, end_time: 90.3 
+Word: tô, start_time: 90.3, end_time: 90.6 
+Word: PowerPoint, start_time: 90.6, end_time: 93.0 
+Word: animations, start_time: 93.0, end_time: 98.6 
+Word: for, start_time: 98.6, end_time: 98.8 
+Word: Field, start_time: 98.8, end_time: 99.2 
+Word: expecting, start_time: 99.2, end_time: 99.3 
+Word: property, start_time: 99.3, end_time: 102.1 
+Word: you, start_time: 102.1, end_time: 108.4 
+Word: are, start_time: 108.4, end_time: 108.5 
+Word: not, start_time: 108.5, end_time: 108.7 
+Word: speak, start_time: 108.7, end_time: 109.0 
+Word: out, start_time: 109.0, end_time: 111.1 
+Word: Your, start_time: 111.1, end_time: 111.2 
+Word: Mind, start_time: 111.2, end_time: 111.5 
+Word: Over, start_time: 111.5, end_time: 112.7 
+Word: Mutant, start_time: 112.7, end_time: 113.4 
+Word: Spring, start_time: 113.4, end_time: 114.4 
+Word: Rammstein, start_time: 114.4, end_time: 114.7 
+Transcript: quando tiver saindo no site os Beatles Love Words apart respostas wordbrain objeto não está na Série A sétima do Raul Brasília para Porto Alegre essa crise energética antes cor bairro Ibirité bairro CD novo xand ex-paquito posologia de presente para projeto Urbano da onda 
+confidence: 0.7772608995437622 
+
+Word: quando, start_time: 120.2, end_time: 121.1 
+Word: tiver, start_time: 121.1, end_time: 121.7 
+Word: saindo, start_time: 121.7, end_time: 122.0 
+Word: no, start_time: 122.0, end_time: 122.4 
+Word: site, start_time: 122.4, end_time: 123.4 
+Word: os, start_time: 123.4, end_time: 123.4 
+Word: Beatles, start_time: 123.4, end_time: 124.1 
+Word: Love, start_time: 124.1, end_time: 124.8 
+Word: Words, start_time: 124.8, end_time: 125.7 
+Word: apart, start_time: 125.7, end_time: 126.2 
+Word: respostas, start_time: 126.2, end_time: 126.9 
+Word: wordbrain, start_time: 126.9, end_time: 128.3 
+Word: objeto, start_time: 128.3, end_time: 130.6 
+Word: não, start_time: 130.6, end_time: 131.8 
+Word: está, start_time: 131.8, end_time: 133.0 
+Word: na, start_time: 133.0, end_time: 133.1 
+Word: Série, start_time: 133.1, end_time: 133.6 
+Word: A, start_time: 133.6, end_time: 133.7 
+Word: sétima, start_time: 133.7, end_time: 134.7 
+Word: do, start_time: 134.7, end_time: 134.8 
+Word: Raul, start_time: 134.8, end_time: 135.3 
+Word: Brasília, start_time: 135.3, end_time: 136.1 
+Word: para, start_time: 136.1, end_time: 136.6 
+Word: Porto, start_time: 136.6, end_time: 137.0 
+Word: Alegre, start_time: 137.0, end_time: 137.1 
+Word: essa, start_time: 137.1, end_time: 137.8 
+Word: crise, start_time: 137.8, end_time: 138.4 
+Word: energética, start_time: 138.4, end_time: 139.8 
+Word: antes, start_time: 139.8, end_time: 140.9 
+Word: cor, start_time: 140.9, end_time: 141.3 
+Word: bairro, start_time: 141.3, end_time: 142.0 
+Word: Ibirité, start_time: 142.0, end_time: 142.4 
+Word: bairro, start_time: 142.4, end_time: 143.3 
+Word: CD, start_time: 143.3, end_time: 143.6 
+Word: novo, start_time: 143.6, end_time: 145.3 
+Word: xand, start_time: 145.3, end_time: 145.8 
+Word: ex-paquito, start_time: 145.8, end_time: 147.0 
+Word: posologia, start_time: 147.0, end_time: 149.9 
+Word: de, start_time: 149.9, end_time: 150.0 
+Word: presente, start_time: 150.0, end_time: 150.4 
+Word: para, start_time: 150.4, end_time: 150.8 
+Word: projeto, start_time: 150.8, end_time: 151.3 
+Word: Urbano, start_time: 151.3, end_time: 151.6 
+Word: da, start_time: 151.6, end_time: 152.8 
+Word: onda, start_time: 152.8, end_time: 153.5 
+Transcript: Ricardo Hardman 118 CEP do Recanto Flor do Windows 7 Ultimate Modelo Sorocaba Deixa eu bagunçar quando me avisa quero esconder Tentei resolver problemas e resolvi trocar mensagem foi Tales of cycling and the Rain Song of Freedom Fighters the best program to say goodbye 
+confidence: 0.8986925482749939 
+
+Word: Ricardo, start_time: 155.0, end_time: 155.9 
+Word: Hardman, start_time: 155.9, end_time: 156.4 
+Word: 118, start_time: 156.4, end_time: 163.5 
+Word: CEP, start_time: 163.5, end_time: 164.0 
+Word: do, start_time: 164.0, end_time: 164.5 
+Word: Recanto, start_time: 164.5, end_time: 165.3 
+Word: Flor, start_time: 165.3, end_time: 165.6 
+Word: do, start_time: 165.6, end_time: 165.7 
+Word: Windows, start_time: 165.7, end_time: 166.9 
+Word: 7, start_time: 166.9, end_time: 167.7 
+Word: Ultimate, start_time: 167.7, end_time: 171.0 
+Word: Modelo, start_time: 171.0, end_time: 171.4 
+Word: Sorocaba, start_time: 171.4, end_time: 173.3 
+Word: Deixa, start_time: 173.3, end_time: 173.9 
+Word: eu, start_time: 173.9, end_time: 174.5 
+Word: bagunçar, start_time: 174.5, end_time: 180.1 
+Word: quando, start_time: 180.1, end_time: 180.4 
+Word: me, start_time: 180.4, end_time: 181.4 
+Word: avisa, start_time: 181.4, end_time: 181.7 
+Word: quero, start_time: 181.7, end_time: 182.7 
+Word: esconder, start_time: 182.7, end_time: 183.2 
+Word: Tentei, start_time: 183.2, end_time: 184.5 
+Word: resolver, start_time: 184.5, end_time: 186.4 
+Word: problemas, start_time: 186.4, end_time: 187.8 
+Word: e, start_time: 187.8, end_time: 187.8 
+Word: resolvi, start_time: 187.8, end_time: 190.4 
+Word: trocar, start_time: 190.4, end_time: 191.4 
+Word: mensagem, start_time: 191.4, end_time: 191.8 
+Word: foi, start_time: 191.8, end_time: 191.9 
+Word: Tales, start_time: 191.9, end_time: 192.3 
+Word: of, start_time: 192.3, end_time: 193.7 
+Word: cycling, start_time: 193.7, end_time: 194.1 
+Word: and, start_time: 194.1, end_time: 194.3 
+Word: the, start_time: 194.3, end_time: 194.8 
+Word: Rain, start_time: 194.8, end_time: 195.1 
+Word: Song, start_time: 195.1, end_time: 195.5 
+Word: of, start_time: 195.5, end_time: 195.6 
+Word: Freedom, start_time: 195.6, end_time: 195.7 
+Word: Fighters, start_time: 195.7, end_time: 199.8 
+Word: the, start_time: 199.8, end_time: 200.7 
+Word: best, start_time: 200.7, end_time: 201.2 
+Word: program, start_time: 201.2, end_time: 201.7 
+Word: to, start_time: 201.7, end_time: 201.9 
+Word: say, start_time: 201.9, end_time: 205.5 
+Word: goodbye, start_time: 205.5, end_time: 214.2 
+Transcript: the americans end up Together and feel love of War 
+confidence: 0.7838833332061768 
+
+Word: the, start_time: 214.9, end_time: 215.2 
+Word: americans, start_time: 215.2, end_time: 215.9 
+Word: end, start_time: 215.9, end_time: 216.6 
+Word: up, start_time: 216.6, end_time: 217.1 
+Word: Together, start_time: 217.1, end_time: 218.0 
+Word: and, start_time: 218.0, end_time: 220.0 
+Word: feel, start_time: 220.0, end_time: 229.4 
+Word: love, start_time: 229.4, end_time: 231.0 
+Word: of, start_time: 231.0, end_time: 231.5 
+Word: War, start_time: 231.5, end_time: 231.7 
+Transcript:  Amorim Cavalcante endocrinologista amor igual Ok sobre os One Piece Going Merry potters Wheel fury of friends wallpaper wallpaper Transformers 
+confidence: 0.8139764070510864 
+
+Word: Amorim, start_time: 233.2, end_time: 234.3 
+Word: Cavalcante, start_time: 234.3, end_time: 235.7 
+Word: endocrinologista, start_time: 235.7, end_time: 236.5 
+Word: amor, start_time: 236.5, end_time: 248.9 
+Word: igual, start_time: 248.9, end_time: 249.2 
+Word: Ok, start_time: 249.2, end_time: 250.3 
+Word: sobre, start_time: 250.3, end_time: 251.4 
+Word: os, start_time: 251.4, end_time: 251.4 
+Word: One, start_time: 251.4, end_time: 252.0 
+Word: Piece, start_time: 252.0, end_time: 253.2 
+Word: Going, start_time: 253.2, end_time: 254.1 
+Word: Merry, start_time: 254.1, end_time: 254.2 
+Word: potters, start_time: 254.2, end_time: 254.7 
+Word: Wheel, start_time: 254.7, end_time: 255.5 
+Word: fury, start_time: 255.5, end_time: 258.1 
+Word: of, start_time: 258.1, end_time: 258.4 
+Word: friends, start_time: 258.4, end_time: 260.6 
+Word: wallpaper, start_time: 260.6, end_time: 262.1 
+Word: wallpaper, start_time: 262.1, end_time: 263.4 
+Word: Transformers, start_time: 263.4, end_time: 263.8 
+Transcript:  Avenida Celso Miguel wisnik o fuzil impossible I ask for refund Argentina and Health technology você está afim 9° game porco secas Beth The Walking Dead negotiations me reaction Engineering conferences distribuidor favorito do tempo eles esqueceram da Hinode boneca descendentes alguns formulários de casados tempo focalizar havia de ser mentiroso meme source of Power sources of You always work 
+confidence: 0.9028623104095459 
+
+Word: Avenida, start_time: 267.7, end_time: 268.5 
+Word: Celso, start_time: 268.5, end_time: 269.1 
+Word: Miguel, start_time: 269.1, end_time: 269.5 
+Word: wisnik, start_time: 269.5, end_time: 270.8 
+Word: o, start_time: 270.8, end_time: 270.9 
+Word: fuzil, start_time: 270.9, end_time: 271.6 
+Word: impossible, start_time: 271.6, end_time: 273.1 
+Word: I, start_time: 273.1, end_time: 273.2 
+Word: ask, start_time: 273.2, end_time: 275.2 
+Word: for, start_time: 275.2, end_time: 275.3 
+Word: refund, start_time: 275.3, end_time: 275.8 
+Word: Argentina, start_time: 275.8, end_time: 276.5 
+Word: and, start_time: 276.5, end_time: 276.7 
+Word: Health, start_time: 276.7, end_time: 277.3 
+Word: technology, start_time: 277.3, end_time: 278.1 
+Word: você, start_time: 278.1, end_time: 281.0 
+Word: está, start_time: 281.0, end_time: 281.2 
+Word: afim, start_time: 281.2, end_time: 281.4 
+Word: 9°, start_time: 281.4, end_time: 281.6 
+Word: game, start_time: 281.6, end_time: 284.1 
+Word: porco, start_time: 284.1, end_time: 285.7 
+Word: secas, start_time: 285.7, end_time: 285.9 
+Word: Beth, start_time: 285.9, end_time: 286.1 
+Word: The, start_time: 286.1, end_time: 286.6 
+Word: Walking, start_time: 286.6, end_time: 286.6 
+Word: Dead, start_time: 286.6, end_time: 287.8 
+Word: negotiations, start_time: 287.8, end_time: 293.8 
+Word: me, start_time: 293.8, end_time: 295.1 
+Word: reaction, start_time: 295.1, end_time: 295.4 
+Word: Engineering, start_time: 295.4, end_time: 296.0 
+Word: conferences, start_time: 296.0, end_time: 301.8 
+Word: distribuidor, start_time: 301.8, end_time: 305.1 
+Word: favorito, start_time: 305.1, end_time: 305.7 
+Word: do, start_time: 305.7, end_time: 305.8 
+Word: tempo, start_time: 305.8, end_time: 306.2 
+Word: eles, start_time: 306.2, end_time: 306.9 
+Word: esqueceram, start_time: 306.9, end_time: 308.1 
+Word: da, start_time: 308.1, end_time: 308.4 
+Word: Hinode, start_time: 308.4, end_time: 309.6 
+Word: boneca, start_time: 309.6, end_time: 310.2 
+Word: descendentes, start_time: 310.2, end_time: 311.5 
+Word: alguns, start_time: 311.5, end_time: 312.8 
+Word: formulários, start_time: 312.8, end_time: 315.6 
+Word: de, start_time: 315.6, end_time: 317.5 
+Word: casados, start_time: 317.5, end_time: 318.0 
+Word: tempo, start_time: 318.0, end_time: 319.1 
+Word: focalizar, start_time: 319.1, end_time: 319.7 
+Word: havia, start_time: 319.7, end_time: 320.3 
+Word: de, start_time: 320.3, end_time: 320.5 
+Word: ser, start_time: 320.5, end_time: 320.6 
+Word: mentiroso, start_time: 320.6, end_time: 322.3 
+Word: meme, start_time: 322.3, end_time: 322.9 
+Word: source, start_time: 322.9, end_time: 323.7 
+Word: of, start_time: 323.7, end_time: 324.2 
+Word: Power, start_time: 324.2, end_time: 324.4 
+Word: sources, start_time: 324.4, end_time: 324.8 
+Word: of, start_time: 324.8, end_time: 325.2 
+Word: You, start_time: 325.2, end_time: 325.4 
+Word: always, start_time: 325.4, end_time: 325.9 
+Word: work, start_time: 325.9, end_time: 327.3 
+Transcript:  andamento de France 2017 ouvir Ivanilda Snap wiggle wiggle wiggle position Absolute Center Omnitrix FX 9.370 transformar em Olimpíadas 2016 negotiation onde se desenvolve a novamente o texto alfajor com flores no cabelo 
+confidence: 0.8332886099815369 
+
+Word: andamento, start_time: 327.7, end_time: 331.6 
+Word: de, start_time: 331.6, end_time: 332.2 
+Word: France, start_time: 332.2, end_time: 332.7 
+Word: 2017, start_time: 332.7, end_time: 334.1 
+Word: ouvir, start_time: 334.1, end_time: 335.1 
+Word: Ivanilda, start_time: 335.1, end_time: 342.2 
+Word: Snap, start_time: 342.2, end_time: 342.8 
+Word: wiggle, start_time: 342.8, end_time: 343.4 
+Word: wiggle, start_time: 343.4, end_time: 343.9 
+Word: wiggle, start_time: 343.9, end_time: 345.4 
+Word: position, start_time: 345.4, end_time: 345.7 
+Word: Absolute, start_time: 345.7, end_time: 346.7 
+Word: Center, start_time: 346.7, end_time: 347.3 
+Word: Omnitrix, start_time: 347.3, end_time: 350.7 
+Word: FX, start_time: 350.7, end_time: 350.8 
+Word: 9.370, start_time: 350.8, end_time: 355.2 
+Word: transformar, start_time: 355.2, end_time: 359.6 
+Word: em, start_time: 359.6, end_time: 359.8 
+Word: Olimpíadas, start_time: 359.8, end_time: 364.8 
+Word: 2016, start_time: 364.8, end_time: 369.8 
+Word: negotiation, start_time: 369.8, end_time: 376.9 
+Word: onde, start_time: 376.9, end_time: 378.2 
+Word: se, start_time: 378.2, end_time: 378.8 
+Word: desenvolve, start_time: 378.8, end_time: 380.6 
+Word: a, start_time: 380.6, end_time: 380.7 
+Word: novamente, start_time: 380.7, end_time: 381.5 
+Word: o, start_time: 381.5, end_time: 382.0 
+Word: texto, start_time: 382.0, end_time: 382.4 
+Word: alfajor, start_time: 382.4, end_time: 383.6 
+Word: com, start_time: 383.6, end_time: 384.3 
+Word: flores, start_time: 384.3, end_time: 385.2 
+Word: no, start_time: 385.2, end_time: 385.5 
+Word: cabelo, start_time: 385.5, end_time: 387.2 
+Transcript:  Moura Clean Slim Samsung full of Sweet love song baby Selena Gomez Whiplash smile and lies between the last of west end Street Fighter game of skate Renato dentista Station Rua 701 prospect 
+confidence: 0.90525883436203 
+
+Word: Moura, start_time: 387.6, end_time: 389.3 
+Word: Clean, start_time: 389.3, end_time: 389.6 
+Word: Slim, start_time: 389.6, end_time: 389.9 
+Word: Samsung, start_time: 389.9, end_time: 390.8 
+Word: full, start_time: 390.8, end_time: 391.3 
+Word: of, start_time: 391.3, end_time: 392.2 
+Word: Sweet, start_time: 392.2, end_time: 392.5 
+Word: love, start_time: 392.5, end_time: 393.3 
+Word: song, start_time: 393.3, end_time: 393.5 
+Word: baby, start_time: 393.5, end_time: 394.1 
+Word: Selena, start_time: 394.1, end_time: 394.2 
+Word: Gomez, start_time: 394.2, end_time: 396.1 
+Word: Whiplash, start_time: 396.1, end_time: 399.7 
+Word: smile, start_time: 399.7, end_time: 401.0 
+Word: and, start_time: 401.0, end_time: 402.8 
+Word: lies, start_time: 402.8, end_time: 403.0 
+Word: between, start_time: 403.0, end_time: 403.2 
+Word: the, start_time: 403.2, end_time: 403.5 
+Word: last, start_time: 403.5, end_time: 404.0 
+Word: of, start_time: 404.0, end_time: 404.6 
+Word: west, start_time: 404.6, end_time: 404.9 
+Word: end, start_time: 404.9, end_time: 405.2 
+Word: Street, start_time: 405.2, end_time: 406.3 
+Word: Fighter, start_time: 406.3, end_time: 407.5 
+Word: game, start_time: 407.5, end_time: 408.0 
+Word: of, start_time: 408.0, end_time: 408.4 
+Word: skate, start_time: 408.4, end_time: 408.8 
+Word: Renato, start_time: 408.8, end_time: 409.9 
+Word: dentista, start_time: 409.9, end_time: 414.2 
+Word: Station, start_time: 414.2, end_time: 414.8 
+Word: Rua, start_time: 414.8, end_time: 415.1 
+Word: 701, start_time: 415.1, end_time: 419.1 
+Word: prospect, start_time: 419.1, end_time: 421.0 
+Transcript:  Unilever tua calma deixa inscrições menor menor fios da força utilizando somente sinthoresp tem Cristiano Alves 
+confidence: 0.8205544352531433 
+
+Word: Unilever, start_time: 422.4, end_time: 423.5 
+Word: tua, start_time: 423.5, end_time: 424.1 
+Word: calma, start_time: 424.1, end_time: 424.5 
+Word: deixa, start_time: 424.5, end_time: 424.8 
+Word: inscrições, start_time: 424.8, end_time: 425.6 
+Word: menor, start_time: 425.6, end_time: 426.1 
+Word: menor, start_time: 426.1, end_time: 426.9 
+Word: fios, start_time: 426.9, end_time: 427.5 
+Word: da, start_time: 427.5, end_time: 427.8 
+Word: força, start_time: 427.8, end_time: 429.4 
+Word: utilizando, start_time: 429.4, end_time: 430.9 
+Word: somente, start_time: 430.9, end_time: 431.3 
+Word: sinthoresp, start_time: 431.3, end_time: 435.6 
+Word: tem, start_time: 435.6, end_time: 435.8 
+Word: Cristiano, start_time: 435.8, end_time: 436.8 
+Word: Alves, start_time: 436.8, end_time: 438.2 
+Transcript:  adição técnica CCE Gilson planalto planície fluviomarinha marca de serviço de negócios hoje não Faro imitando Neve 
+confidence: 0.7753813862800598 
+
+Word: adição, start_time: 445.0, end_time: 446.3 
+Word: técnica, start_time: 446.3, end_time: 447.0 
+Word: CCE, start_time: 447.0, end_time: 447.9 
+Word: Gilson, start_time: 447.9, end_time: 448.2 
+Word: planalto, start_time: 448.2, end_time: 458.8 
+Word: planície, start_time: 458.8, end_time: 459.3 
+Word: fluviomarinha, start_time: 459.3, end_time: 461.9 
+Word: marca, start_time: 461.9, end_time: 471.9 
+Word: de, start_time: 471.9, end_time: 472.9 
+Word: serviço, start_time: 472.9, end_time: 473.8 
+Word: de, start_time: 473.8, end_time: 473.9 
+Word: negócios, start_time: 473.9, end_time: 474.8 
+Word: hoje, start_time: 474.8, end_time: 475.0 
+Word: não, start_time: 475.0, end_time: 475.3 
+Word: Faro, start_time: 475.3, end_time: 475.6 
+Word: imitando, start_time: 475.6, end_time: 476.1 
+Word: Neve, start_time: 476.1, end_time: 476.5 
+Transcript:  comercial pirakids Avenida santidade Anderson de órgãos normativos e industrializados ainda sentimos ouvir todas as faixas 
+confidence: 0.7449767589569092 
+
+Word: comercial, start_time: 478.1, end_time: 480.2 
+Word: pirakids, start_time: 480.2, end_time: 480.8 
+Word: Avenida, start_time: 480.8, end_time: 486.7 
+Word: santidade, start_time: 486.7, end_time: 487.0 
+Word: Anderson, start_time: 487.0, end_time: 487.4 
+Word: de, start_time: 487.4, end_time: 487.9 
+Word: órgãos, start_time: 487.9, end_time: 488.3 
+Word: normativos, start_time: 488.3, end_time: 491.8 
+Word: e, start_time: 491.8, end_time: 492.0 
+Word: industrializados, start_time: 492.0, end_time: 494.4 
+Word: ainda, start_time: 494.4, end_time: 494.9 
+Word: sentimos, start_time: 494.9, end_time: 495.5 
+Word: ouvir, start_time: 495.5, end_time: 496.7 
+Word: todas, start_time: 496.7, end_time: 497.7 
+Word: as, start_time: 497.7, end_time: 498.2 
+Word: faixas, start_time: 498.2, end_time: 498.4 
+Transcript:  hamburguer Gourmet linda que nada o que esses movimentos erradicar os Saiyajins 1993 extra.com wiggle Faltando Eu vou falar com Vivo On Fire grátis WeChat web elas estão chegando ao Brasil cycle Fair 2017 ao vivo no Pacaembu segundo sair da Independência 2012 MP3 night night at freddy's Evolution 
+confidence: 0.8749210834503174 
+
+Word: hamburguer, start_time: 503.4, end_time: 505.3 
+Word: Gourmet, start_time: 505.3, end_time: 505.7 
+Word: linda, start_time: 505.7, end_time: 506.1 
+Word: que, start_time: 506.1, end_time: 506.2 
+Word: nada, start_time: 506.2, end_time: 506.5 
+Word: o, start_time: 506.5, end_time: 506.6 
+Word: que, start_time: 506.6, end_time: 506.6 
+Word: esses, start_time: 506.6, end_time: 507.0 
+Word: movimentos, start_time: 507.0, end_time: 507.2 
+Word: erradicar, start_time: 507.2, end_time: 508.2 
+Word: os, start_time: 508.2, end_time: 509.2 
+Word: Saiyajins, start_time: 509.2, end_time: 509.7 
+Word: 1993, start_time: 509.7, end_time: 510.3 
+Word: extra.com, start_time: 510.3, end_time: 516.3 
+Word: wiggle, start_time: 516.3, end_time: 517.6 
+Word: Faltando, start_time: 517.6, end_time: 518.3 
+Word: Eu, start_time: 518.3, end_time: 518.4 
+Word: vou, start_time: 518.4, end_time: 518.5 
+Word: falar, start_time: 518.5, end_time: 518.9 
+Word: com, start_time: 518.9, end_time: 519.3 
+Word: Vivo, start_time: 519.3, end_time: 520.9 
+Word: On, start_time: 520.9, end_time: 521.0 
+Word: Fire, start_time: 521.0, end_time: 521.9 
+Word: grátis, start_time: 521.9, end_time: 522.0 
+Word: WeChat, start_time: 522.0, end_time: 525.6 
+Word: web, start_time: 525.6, end_time: 527.7 
+Word: elas, start_time: 527.7, end_time: 529.8 
+Word: estão, start_time: 529.8, end_time: 530.0 
+Word: chegando, start_time: 530.0, end_time: 530.1 
+Word: ao, start_time: 530.1, end_time: 531.6 
+Word: Brasil, start_time: 531.6, end_time: 532.4 
+Word: cycle, start_time: 532.4, end_time: 534.7 
+Word: Fair, start_time: 534.7, end_time: 534.7 
+Word: 2017, start_time: 534.7, end_time: 540.9 
+Word: ao, start_time: 540.9, end_time: 541.3 
+Word: vivo, start_time: 541.3, end_time: 541.4 
+Word: no, start_time: 541.4, end_time: 541.8 
+Word: Pacaembu, start_time: 541.8, end_time: 542.2 
+Word: segundo, start_time: 542.2, end_time: 543.5 
+Word: sair, start_time: 543.5, end_time: 543.7 
+Word: da, start_time: 543.7, end_time: 544.1 
+Word: Independência, start_time: 544.1, end_time: 545.9 
+Word: 2012, start_time: 545.9, end_time: 552.7 
+Word: MP3, start_time: 552.7, end_time: 553.7 
+Word: night, start_time: 553.7, end_time: 554.5 
+Word: night, start_time: 554.5, end_time: 554.9 
+Word: at, start_time: 554.9, end_time: 555.2 
+Word: freddy's, start_time: 555.2, end_time: 556.4 
+Word: Evolution, start_time: 556.4, end_time: 558.5 
+Transcript:  até quanto tempo que você não deve fazer a barba porque nordestino é especial for aí o centro de Maricá Inoã times of RJ favor inside volley Fast Furious 8 Soundtrack Halloween shots Studios polia do câmbio alberdi salto metalizado Rose 
+confidence: 0.6488648653030396 
+
+Word: até, start_time: 563.4, end_time: 565.0 
+Word: quanto, start_time: 565.0, end_time: 565.9 
+Word: tempo, start_time: 565.9, end_time: 566.0 
+Word: que, start_time: 566.0, end_time: 567.1 
+Word: você, start_time: 567.1, end_time: 567.8 
+Word: não, start_time: 567.8, end_time: 568.4 
+Word: deve, start_time: 568.4, end_time: 571.2 
+Word: fazer, start_time: 571.2, end_time: 571.7 
+Word: a, start_time: 571.7, end_time: 572.4 
+Word: barba, start_time: 572.4, end_time: 576.5 
+Word: porque, start_time: 576.5, end_time: 576.6 
+Word: nordestino, start_time: 576.6, end_time: 581.8 
+Word: é, start_time: 581.8, end_time: 582.4 
+Word: especial, start_time: 582.4, end_time: 583.6 
+Word: for, start_time: 583.6, end_time: 584.9 
+Word: aí, start_time: 584.9, end_time: 585.9 
+Word: o, start_time: 585.9, end_time: 586.1 
+Word: centro, start_time: 586.1, end_time: 587.6 
+Word: de, start_time: 587.6, end_time: 587.8 
+Word: Maricá, start_time: 587.8, end_time: 588.3 
+Word: Inoã, start_time: 588.3, end_time: 588.7 
+Word: times, start_time: 588.7, end_time: 589.3 
+Word: of, start_time: 589.3, end_time: 589.7 
+Word: RJ, start_time: 589.7, end_time: 590.0 
+Word: favor, start_time: 590.0, end_time: 600.2 
+Word: inside, start_time: 600.2, end_time: 600.7 
+Word: volley, start_time: 600.7, end_time: 601.1 
+Word: Fast, start_time: 601.1, end_time: 601.6 
+Word: Furious, start_time: 601.6, end_time: 602.2 
+Word: 8, start_time: 602.2, end_time: 602.5 
+Word: Soundtrack, start_time: 602.5, end_time: 603.0 
+Word: Halloween, start_time: 603.0, end_time: 603.9 
+Word: shots, start_time: 603.9, end_time: 605.8 
+Word: Studios, start_time: 605.8, end_time: 612.1 
+Word: polia, start_time: 612.1, end_time: 613.7 
+Word: do, start_time: 613.7, end_time: 613.9 
+Word: câmbio, start_time: 613.9, end_time: 614.0 
+Word: alberdi, start_time: 614.0, end_time: 614.6 
+Word: salto, start_time: 614.6, end_time: 617.0 
+Word: metalizado, start_time: 617.0, end_time: 621.8 
+Word: Rose, start_time: 621.8, end_time: 623.2 
+Transcript:  como excluir a quebra da glicose produzidos por Elvis Cavalieri Fluminense x Atlético relações estabelecidas entre álcool isopropílico Curitiba Paraná 2017 nós 50 m Force 
+confidence: 0.8008753657341003 
+
+Word: como, start_time: 623.3, end_time: 624.5 
+Word: excluir, start_time: 624.5, end_time: 624.8 
+Word: a, start_time: 624.8, end_time: 625.1 
+Word: quebra, start_time: 625.1, end_time: 625.3 
+Word: da, start_time: 625.3, end_time: 625.6 
+Word: glicose, start_time: 625.6, end_time: 627.2 
+Word: produzidos, start_time: 627.2, end_time: 630.3 
+Word: por, start_time: 630.3, end_time: 631.4 
+Word: Elvis, start_time: 631.4, end_time: 631.8 
+Word: Cavalieri, start_time: 631.8, end_time: 632.2 
+Word: Fluminense, start_time: 632.2, end_time: 637.1 
+Word: x, start_time: 637.1, end_time: 639.4 
+Word: Atlético, start_time: 639.4, end_time: 640.2 
+Word: relações, start_time: 640.2, end_time: 641.1 
+Word: estabelecidas, start_time: 641.1, end_time: 642.3 
+Word: entre, start_time: 642.3, end_time: 642.5 
+Word: álcool, start_time: 642.5, end_time: 648.3 
+Word: isopropílico, start_time: 648.3, end_time: 648.4 
+Word: Curitiba, start_time: 648.4, end_time: 662.2 
+Word: Paraná, start_time: 662.2, end_time: 664.6 
+Word: 2017, start_time: 664.6, end_time: 678.5 
+Word: nós, start_time: 678.5, end_time: 679.0 
+Word: 50, start_time: 679.0, end_time: 679.7 
+Word: m, start_time: 679.7, end_time: 680.0 
+Word: Force, start_time: 680.0, end_time: 680.4 
+Transcript:  o negócio do século de guerras 9800 Import casa viu em mim então os ouvirei e 17:12 se você for the Moment vulfpeck falando sobre essas duas afirmativas 1604 Sony Xperia L de reflexão 
+confidence: 0.726306676864624 
+
+Word: o, start_time: 682.1, end_time: 682.1 
+Word: negócio, start_time: 682.1, end_time: 683.0 
+Word: do, start_time: 683.0, end_time: 683.2 
+Word: século, start_time: 683.2, end_time: 683.4 
+Word: de, start_time: 683.4, end_time: 684.7 
+Word: guerras, start_time: 684.7, end_time: 685.2 
+Word: 9800, start_time: 685.2, end_time: 693.1 
+Word: Import, start_time: 693.1, end_time: 696.0 
+Word: casa, start_time: 696.0, end_time: 696.3 
+Word: viu, start_time: 696.3, end_time: 696.6 
+Word: em, start_time: 696.6, end_time: 696.7 
+Word: mim, start_time: 696.7, end_time: 696.9 
+Word: então, start_time: 696.9, end_time: 697.3 
+Word: os, start_time: 697.3, end_time: 698.2 
+Word: ouvirei, start_time: 698.2, end_time: 698.9 
+Word: e, start_time: 698.9, end_time: 698.9 
+Word: 17:12, start_time: 698.9, end_time: 712.7 
+Word: se, start_time: 712.7, end_time: 718.7 
+Word: você, start_time: 718.7, end_time: 719.0 
+Word: for, start_time: 719.0, end_time: 719.5 
+Word: the, start_time: 719.5, end_time: 720.3 
+Word: Moment, start_time: 720.3, end_time: 720.9 
+Word: vulfpeck, start_time: 720.9, end_time: 721.0 
+Word: falando, start_time: 721.0, end_time: 722.5 
+Word: sobre, start_time: 722.5, end_time: 723.5 
+Word: essas, start_time: 723.5, end_time: 724.1 
+Word: duas, start_time: 724.1, end_time: 724.8 
+Word: afirmativas, start_time: 724.8, end_time: 726.4 
+Word: 1604, start_time: 726.4, end_time: 731.5 
+Word: Sony, start_time: 731.5, end_time: 731.8 
+Word: Xperia, start_time: 731.8, end_time: 732.3 
+Word: L, start_time: 732.3, end_time: 732.9 
+Word: de, start_time: 732.9, end_time: 733.0 
+Word: reflexão, start_time: 733.0, end_time: 734.1 
+Transcript:  decapitare vídeos de Survivalcraft original do Sandero Stepway news.com.br do camarão 
+confidence: 0.5064463019371033 
+
+Word: decapitare, start_time: 735.3, end_time: 736.8 
+Word: vídeos, start_time: 736.8, end_time: 737.9 
+Word: de, start_time: 737.9, end_time: 738.0 
+Word: Survivalcraft, start_time: 738.0, end_time: 739.1 
+Word: original, start_time: 739.1, end_time: 743.1 
+Word: do, start_time: 743.1, end_time: 745.4 
+Word: Sandero, start_time: 745.4, end_time: 745.9 
+Word: Stepway, start_time: 745.9, end_time: 749.6 
+Word: news.com.br, start_time: 749.6, end_time: 752.6 
+Word: do, start_time: 752.6, end_time: 754.6 
+Word: camarão, start_time: 754.6, end_time: 755.0 
+Transcript:  Facebook Accenture wireless USB adapter na Europa ocidental diga logo por Castro Alves Uberlândia dos tênis masculinos 
+confidence: 0.6801921725273132 
+
+Word: Facebook, start_time: 756.6, end_time: 758.1 
+Word: Accenture, start_time: 758.1, end_time: 758.6 
+Word: wireless, start_time: 758.6, end_time: 760.1 
+Word: USB, start_time: 760.1, end_time: 760.2 
+Word: adapter, start_time: 760.2, end_time: 761.4 
+Word: na, start_time: 761.4, end_time: 761.9 
+Word: Europa, start_time: 761.9, end_time: 764.6 
+Word: ocidental, start_time: 764.6, end_time: 764.8 
+Word: diga, start_time: 764.8, end_time: 767.5 
+Word: logo, start_time: 767.5, end_time: 767.6 
+Word: por, start_time: 767.6, end_time: 768.0 
+Word: Castro, start_time: 768.0, end_time: 772.2 
+Word: Alves, start_time: 772.2, end_time: 772.2 
+Word: Uberlândia, start_time: 772.2, end_time: 774.0 
+Word: dos, start_time: 774.0, end_time: 780.1 
+Word: tênis, start_time: 780.1, end_time: 780.6 
+Word: masculinos, start_time: 780.6, end_time: 781.3 
+Transcript:  becycle Fatality MK9 como se achando a música Eminem Beautiful Girls are bigger Pablo stolze visual do Windows demora quantos minutos antes do treino e o seu carro Vectra GT 710 2GB de processo Maria do Carmo de Souza 1986 fv-5 the world Wine group Engineering Instagram de Camargo 967 - Every Time 
+confidence: 0.961916983127594 
+
+Word: becycle, start_time: 787.3, end_time: 788.2 
+Word: Fatality, start_time: 788.2, end_time: 788.9 
+Word: MK9, start_time: 788.9, end_time: 789.4 
+Word: como, start_time: 789.4, end_time: 789.8 
+Word: se, start_time: 789.8, end_time: 790.0 
+Word: achando, start_time: 790.0, end_time: 790.2 
+Word: a, start_time: 790.2, end_time: 790.8 
+Word: música, start_time: 790.8, end_time: 791.2 
+Word: Eminem, start_time: 791.2, end_time: 793.1 
+Word: Beautiful, start_time: 793.1, end_time: 793.4 
+Word: Girls, start_time: 793.4, end_time: 799.7 
+Word: are, start_time: 799.7, end_time: 799.8 
+Word: bigger, start_time: 799.8, end_time: 800.0 
+Word: Pablo, start_time: 800.0, end_time: 800.9 
+Word: stolze, start_time: 800.9, end_time: 801.3 
+Word: visual, start_time: 801.3, end_time: 803.5 
+Word: do, start_time: 803.5, end_time: 803.6 
+Word: Windows, start_time: 803.6, end_time: 803.7 
+Word: demora, start_time: 803.7, end_time: 804.7 
+Word: quantos, start_time: 804.7, end_time: 805.2 
+Word: minutos, start_time: 805.2, end_time: 805.4 
+Word: antes, start_time: 805.4, end_time: 806.3 
+Word: do, start_time: 806.3, end_time: 806.6 
+Word: treino, start_time: 806.6, end_time: 806.6 
+Word: e, start_time: 806.6, end_time: 807.1 
+Word: o, start_time: 807.1, end_time: 807.2 
+Word: seu, start_time: 807.2, end_time: 807.3 
+Word: carro, start_time: 807.3, end_time: 807.6 
+Word: Vectra, start_time: 807.6, end_time: 813.6 
+Word: GT, start_time: 813.6, end_time: 813.9 
+Word: 710, start_time: 813.9, end_time: 814.9 
+Word: 2GB, start_time: 814.9, end_time: 815.4 
+Word: de, start_time: 815.4, end_time: 816.5 
+Word: processo, start_time: 816.5, end_time: 816.9 
+Word: Maria, start_time: 816.9, end_time: 817.9 
+Word: do, start_time: 817.9, end_time: 818.9 
+Word: Carmo, start_time: 818.9, end_time: 819.5 
+Word: de, start_time: 819.5, end_time: 819.6 
+Word: Souza, start_time: 819.6, end_time: 821.0 
+Word: 1986, start_time: 821.0, end_time: 824.3 
+Word: fv-5, start_time: 824.3, end_time: 825.4 
+Word: the, start_time: 825.4, end_time: 825.9 
+Word: world, start_time: 825.9, end_time: 826.4 
+Word: Wine, start_time: 826.4, end_time: 826.8 
+Word: group, start_time: 826.8, end_time: 828.0 
+Word: Engineering, start_time: 828.0, end_time: 828.5 
+Word: Instagram, start_time: 828.5, end_time: 832.3 
+Word: de, start_time: 832.3, end_time: 833.9 
+Word: Camargo, start_time: 833.9, end_time: 836.3 
+Word: 967, start_time: 836.3, end_time: 842.9 
+Word: -, start_time: 842.9, end_time: 843.1 
+Word: Every, start_time: 843.1, end_time: 844.8 
+Word: Time, start_time: 844.8, end_time: 845.9 
+Transcript:  como transferir vídeos da Factor outro time relacionado a fórmula Renault Duster da Renault Master System failures F4000 remote play with love and love more Open and Close Enough Live log me deixar Resident Evil 4 hacker br processo de choque choquem for Power and friends and influence Snapchat online 
+confidence: 0.8084977269172668 
+
+Word: como, start_time: 847.3, end_time: 847.5 
+Word: transferir, start_time: 847.5, end_time: 850.4 
+Word: vídeos, start_time: 850.4, end_time: 850.9 
+Word: da, start_time: 850.9, end_time: 851.3 
+Word: Factor, start_time: 851.3, end_time: 851.7 
+Word: outro, start_time: 851.7, end_time: 852.3 
+Word: time, start_time: 852.3, end_time: 852.6 
+Word: relacionado, start_time: 852.6, end_time: 854.7 
+Word: a, start_time: 854.7, end_time: 855.0 
+Word: fórmula, start_time: 855.0, end_time: 860.8 
+Word: Renault, start_time: 860.8, end_time: 861.3 
+Word: Duster, start_time: 861.3, end_time: 865.0 
+Word: da, start_time: 865.0, end_time: 865.6 
+Word: Renault, start_time: 865.6, end_time: 867.2 
+Word: Master, start_time: 867.2, end_time: 868.0 
+Word: System, start_time: 868.0, end_time: 872.1 
+Word: failures, start_time: 872.1, end_time: 872.8 
+Word: F4000, start_time: 872.8, end_time: 874.9 
+Word: remote, start_time: 874.9, end_time: 875.4 
+Word: play, start_time: 875.4, end_time: 876.1 
+Word: with, start_time: 876.1, end_time: 876.3 
+Word: love, start_time: 876.3, end_time: 877.3 
+Word: and, start_time: 877.3, end_time: 878.1 
+Word: love, start_time: 878.1, end_time: 878.5 
+Word: more, start_time: 878.5, end_time: 878.9 
+Word: Open, start_time: 878.9, end_time: 879.6 
+Word: and, start_time: 879.6, end_time: 882.0 
+Word: Close, start_time: 882.0, end_time: 882.5 
+Word: Enough, start_time: 882.5, end_time: 883.4 
+Word: Live, start_time: 883.4, end_time: 884.0 
+Word: log, start_time: 884.0, end_time: 884.2 
+Word: me, start_time: 884.2, end_time: 884.4 
+Word: deixar, start_time: 884.4, end_time: 884.9 
+Word: Resident, start_time: 884.9, end_time: 885.7 
+Word: Evil, start_time: 885.7, end_time: 886.3 
+Word: 4, start_time: 886.3, end_time: 887.6 
+Word: hacker, start_time: 887.6, end_time: 888.3 
+Word: br, start_time: 888.3, end_time: 889.1 
+Word: processo, start_time: 889.1, end_time: 889.8 
+Word: de, start_time: 889.8, end_time: 889.8 
+Word: choque, start_time: 889.8, end_time: 890.8 
+Word: choquem, start_time: 890.8, end_time: 896.6 
+Word: for, start_time: 896.6, end_time: 897.1 
+Word: Power, start_time: 897.1, end_time: 897.8 
+Word: and, start_time: 897.8, end_time: 898.2 
+Word: friends, start_time: 898.2, end_time: 898.6 
+Word: and, start_time: 898.6, end_time: 899.8 
+Word: influence, start_time: 899.8, end_time: 899.9 
+Word: Snapchat, start_time: 899.9, end_time: 905.0 
+Word: online, start_time: 905.0, end_time: 905.5 
+Transcript:  Glock 17 19 processo de escravidão online grátis Record em dispositivos Android 2.0 Expression 1.0 fundamentos de futsal 2016 and five of libération Neto leva o suvaco 360 Call of Duty Advanced mobile Interroga as provas melhores jogos dos olhos Ragnarok Nelson Freitas 
+confidence: 0.788155198097229 
+
+Word: Glock, start_time: 907.3, end_time: 909.3 
+Word: 17, start_time: 909.3, end_time: 917.6 
+Word: 19, start_time: 917.6, end_time: 918.0 
+Word: processo, start_time: 918.0, end_time: 918.6 
+Word: de, start_time: 918.6, end_time: 919.2 
+Word: escravidão, start_time: 919.2, end_time: 920.1 
+Word: online, start_time: 920.1, end_time: 920.5 
+Word: grátis, start_time: 920.5, end_time: 922.0 
+Word: Record, start_time: 922.0, end_time: 922.2 
+Word: em, start_time: 922.2, end_time: 923.0 
+Word: dispositivos, start_time: 923.0, end_time: 924.6 
+Word: Android, start_time: 924.6, end_time: 928.6 
+Word: 2.0, start_time: 928.6, end_time: 933.1 
+Word: Expression, start_time: 933.1, end_time: 933.4 
+Word: 1.0, start_time: 933.4, end_time: 934.3 
+Word: fundamentos, start_time: 934.3, end_time: 935.9 
+Word: de, start_time: 935.9, end_time: 936.1 
+Word: futsal, start_time: 936.1, end_time: 936.3 
+Word: 2016, start_time: 936.3, end_time: 940.4 
+Word: and, start_time: 940.4, end_time: 941.0 
+Word: five, start_time: 941.0, end_time: 941.7 
+Word: of, start_time: 941.7, end_time: 941.8 
+Word: libération, start_time: 941.8, end_time: 945.0 
+Word: Neto, start_time: 945.0, end_time: 945.8 
+Word: leva, start_time: 945.8, end_time: 946.6 
+Word: o, start_time: 946.6, end_time: 946.7 
+Word: suvaco, start_time: 946.7, end_time: 947.1 
+Word: 360, start_time: 947.1, end_time: 949.3 
+Word: Call, start_time: 949.3, end_time: 949.5 
+Word: of, start_time: 949.5, end_time: 949.7 
+Word: Duty, start_time: 949.7, end_time: 950.4 
+Word: Advanced, start_time: 950.4, end_time: 951.9 
+Word: mobile, start_time: 951.9, end_time: 954.4 
+Word: Interroga, start_time: 954.4, end_time: 955.5 
+Word: as, start_time: 955.5, end_time: 957.7 
+Word: provas, start_time: 957.7, end_time: 958.3 
+Word: melhores, start_time: 958.3, end_time: 958.7 
+Word: jogos, start_time: 958.7, end_time: 959.1 
+Word: dos, start_time: 959.1, end_time: 959.3 
+Word: olhos, start_time: 959.3, end_time: 959.7 
+Word: Ragnarok, start_time: 959.7, end_time: 960.5 
+Word: Nelson, start_time: 960.5, end_time: 962.0 
+Word: Freitas, start_time: 962.0, end_time: 964.3 
+Transcript:  Diário do Nordeste tem que confiar ou não Explique os fundamentos liner 763/16 as aulas equilíbrio entre luzes e mechas tudo pessoalmente em breve explicação sobre o Igor Qual o próprio Universo em desencanto 
+confidence: 0.8513774275779724 
+
+Word: Diário, start_time: 967.2, end_time: 967.8 
+Word: do, start_time: 967.8, end_time: 968.3 
+Word: Nordeste, start_time: 968.3, end_time: 970.4 
+Word: tem, start_time: 970.4, end_time: 971.0 
+Word: que, start_time: 971.0, end_time: 971.1 
+Word: confiar, start_time: 971.1, end_time: 975.6 
+Word: ou, start_time: 975.6, end_time: 976.6 
+Word: não, start_time: 976.6, end_time: 976.6 
+Word: Explique, start_time: 976.6, end_time: 978.5 
+Word: os, start_time: 978.5, end_time: 980.4 
+Word: fundamentos, start_time: 980.4, end_time: 980.6 
+Word: liner, start_time: 980.6, end_time: 982.3 
+Word: 763/16, start_time: 982.3, end_time: 993.6 
+Word: as, start_time: 993.6, end_time: 994.1 
+Word: aulas, start_time: 994.1, end_time: 995.7 
+Word: equilíbrio, start_time: 995.7, end_time: 997.4 
+Word: entre, start_time: 997.4, end_time: 998.4 
+Word: luzes, start_time: 998.4, end_time: 999.7 
+Word: e, start_time: 999.7, end_time: 999.9 
+Word: mechas, start_time: 999.9, end_time: 1000.8 
+Word: tudo, start_time: 1000.8, end_time: 1005.6 
+Word: pessoalmente, start_time: 1005.6, end_time: 1006.1 
+Word: em, start_time: 1006.1, end_time: 1007.1 
+Word: breve, start_time: 1007.1, end_time: 1008.3 
+Word: explicação, start_time: 1008.3, end_time: 1009.5 
+Word: sobre, start_time: 1009.5, end_time: 1016.7 
+Word: o, start_time: 1016.7, end_time: 1016.9 
+Word: Igor, start_time: 1016.9, end_time: 1017.5 
+Word: Qual, start_time: 1017.5, end_time: 1018.9 
+Word: o, start_time: 1018.9, end_time: 1019.0 
+Word: próprio, start_time: 1019.0, end_time: 1019.3 
+Word: Universo, start_time: 1019.3, end_time: 1019.9 
+Word: em, start_time: 1019.9, end_time: 1020.5 
+Word: desencanto, start_time: 1020.5, end_time: 1021.8 
+Transcript:  League of Legends Patch resto de frango power-play você nem imagina imagina errado era 116 ontem da Mônica diferença entre político e prosperidade for its time.to Volume 7 anos de National atmosphere sinônimo ferro velho em sua maioria das costas o que pode ser 
+confidence: 0.8794359564781189 
+
+Word: League, start_time: 1027.2, end_time: 1030.2 
+Word: of, start_time: 1030.2, end_time: 1030.3 
+Word: Legends, start_time: 1030.3, end_time: 1031.9 
+Word: Patch, start_time: 1031.9, end_time: 1033.9 
+Word: resto, start_time: 1033.9, end_time: 1035.0 
+Word: de, start_time: 1035.0, end_time: 1035.2 
+Word: frango, start_time: 1035.2, end_time: 1038.9 
+Word: power-play, start_time: 1038.9, end_time: 1039.5 
+Word: você, start_time: 1039.5, end_time: 1040.1 
+Word: nem, start_time: 1040.1, end_time: 1040.3 
+Word: imagina, start_time: 1040.3, end_time: 1041.8 
+Word: imagina, start_time: 1041.8, end_time: 1042.5 
+Word: errado, start_time: 1042.5, end_time: 1042.8 
+Word: era, start_time: 1042.8, end_time: 1043.0 
+Word: 116, start_time: 1043.0, end_time: 1045.4 
+Word: ontem, start_time: 1045.4, end_time: 1045.6 
+Word: da, start_time: 1045.6, end_time: 1045.9 
+Word: Mônica, start_time: 1045.9, end_time: 1046.6 
+Word: diferença, start_time: 1046.6, end_time: 1047.2 
+Word: entre, start_time: 1047.2, end_time: 1047.4 
+Word: político, start_time: 1047.4, end_time: 1048.4 
+Word: e, start_time: 1048.4, end_time: 1048.5 
+Word: prosperidade, start_time: 1048.5, end_time: 1053.5 
+Word: for, start_time: 1053.5, end_time: 1054.2 
+Word: its, start_time: 1054.2, end_time: 1055.8 
+Word: time.to, start_time: 1055.8, end_time: 1056.4 
+Word: Volume, start_time: 1056.4, end_time: 1059.6 
+Word: 7, start_time: 1059.6, end_time: 1061.8 
+Word: anos, start_time: 1061.8, end_time: 1062.1 
+Word: de, start_time: 1062.1, end_time: 1062.7 
+Word: National, start_time: 1062.7, end_time: 1064.1 
+Word: atmosphere, start_time: 1064.1, end_time: 1065.5 
+Word: sinônimo, start_time: 1065.5, end_time: 1066.5 
+Word: ferro, start_time: 1066.5, end_time: 1066.9 
+Word: velho, start_time: 1066.9, end_time: 1067.9 
+Word: em, start_time: 1067.9, end_time: 1067.9 
+Word: sua, start_time: 1067.9, end_time: 1068.1 
+Word: maioria, start_time: 1068.1, end_time: 1068.3 
+Word: das, start_time: 1068.3, end_time: 1068.8 
+Word: costas, start_time: 1068.8, end_time: 1070.3 
+Word: o, start_time: 1070.3, end_time: 1070.4 
+Word: que, start_time: 1070.4, end_time: 1070.6 
+Word: pode, start_time: 1070.6, end_time: 1070.8 
+Word: ser, start_time: 1070.8, end_time: 1071.6 
+Transcript:  lança de javali como você que sumiu Smart TV está com infecção no canal da bexiga liberando de cheques antigos pobre Veículos 
+confidence: 0.7855488061904907 
+
+Word: lança, start_time: 1074.1, end_time: 1074.8 
+Word: de, start_time: 1074.8, end_time: 1075.0 
+Word: javali, start_time: 1075.0, end_time: 1076.0 
+Word: como, start_time: 1076.0, end_time: 1077.6 
+Word: você, start_time: 1077.6, end_time: 1077.8 
+Word: que, start_time: 1077.8, end_time: 1078.0 
+Word: sumiu, start_time: 1078.0, end_time: 1078.1 
+Word: Smart, start_time: 1078.1, end_time: 1078.5 
+Word: TV, start_time: 1078.5, end_time: 1080.7 
+Word: está, start_time: 1080.7, end_time: 1081.8 
+Word: com, start_time: 1081.8, end_time: 1082.1 
+Word: infecção, start_time: 1082.1, end_time: 1083.2 
+Word: no, start_time: 1083.2, end_time: 1083.5 
+Word: canal, start_time: 1083.5, end_time: 1083.7 
+Word: da, start_time: 1083.7, end_time: 1085.2 
+Word: bexiga, start_time: 1085.2, end_time: 1085.4 
+Word: liberando, start_time: 1085.4, end_time: 1086.8 
+Word: de, start_time: 1086.8, end_time: 1087.5 
+Word: cheques, start_time: 1087.5, end_time: 1087.9 
+Word: antigos, start_time: 1087.9, end_time: 1088.1 
+Word: pobre, start_time: 1088.1, end_time: 1089.2 
+Word: Veículos, start_time: 1089.2, end_time: 1090.0 
+Transcript:  filho de Caxias X Games skate 2014 Speed Most expensive Girl just wanna Malafaia melhores plataformas nós indagamos nota final 
+confidence: 0.658854603767395 
+
+Word: filho, start_time: 1092.1, end_time: 1092.7 
+Word: de, start_time: 1092.7, end_time: 1092.8 
+Word: Caxias, start_time: 1092.8, end_time: 1093.3 
+Word: X, start_time: 1093.3, end_time: 1093.6 
+Word: Games, start_time: 1093.6, end_time: 1094.4 
+Word: skate, start_time: 1094.4, end_time: 1095.8 
+Word: 2014, start_time: 1095.8, end_time: 1097.8 
+Word: Speed, start_time: 1097.8, end_time: 1098.7 
+Word: Most, start_time: 1098.7, end_time: 1101.7 
+Word: expensive, start_time: 1101.7, end_time: 1120.7 
+Word: Girl, start_time: 1120.7, end_time: 1121.0 
+Word: just, start_time: 1121.0, end_time: 1122.0 
+Word: wanna, start_time: 1122.0, end_time: 1125.5 
+Word: Malafaia, start_time: 1125.5, end_time: 1128.9 
+Word: melhores, start_time: 1128.9, end_time: 1130.3 
+Word: plataformas, start_time: 1130.3, end_time: 1132.3 
+Word: nós, start_time: 1132.3, end_time: 1132.5 
+Word: indagamos, start_time: 1132.5, end_time: 1134.0 
+Word: nota, start_time: 1134.0, end_time: 1134.6 
+Word: final, start_time: 1134.6, end_time: 1136.9 
+Transcript:  vai ser o novo som de aleluia brother Matt Fraser redistribuição morada playback americanos de Game of Thrones Brasil l&s weather for os moleques analisar uma pergunta esse Mercantil em Campinas 
+confidence: 0.769487738609314 
+
+Word: vai, start_time: 1142.1, end_time: 1142.5 
+Word: ser, start_time: 1142.5, end_time: 1142.8 
+Word: o, start_time: 1142.8, end_time: 1142.8 
+Word: novo, start_time: 1142.8, end_time: 1143.9 
+Word: som, start_time: 1143.9, end_time: 1144.1 
+Word: de, start_time: 1144.1, end_time: 1144.3 
+Word: aleluia, start_time: 1144.3, end_time: 1145.3 
+Word: brother, start_time: 1145.3, end_time: 1147.0 
+Word: Matt, start_time: 1147.0, end_time: 1148.1 
+Word: Fraser, start_time: 1148.1, end_time: 1148.4 
+Word: redistribuição, start_time: 1148.4, end_time: 1154.6 
+Word: morada, start_time: 1154.6, end_time: 1156.4 
+Word: playback, start_time: 1156.4, end_time: 1156.7 
+Word: americanos, start_time: 1156.7, end_time: 1157.9 
+Word: de, start_time: 1157.9, end_time: 1158.3 
+Word: Game, start_time: 1158.3, end_time: 1159.2 
+Word: of, start_time: 1159.2, end_time: 1161.3 
+Word: Thrones, start_time: 1161.3, end_time: 1161.9 
+Word: Brasil, start_time: 1161.9, end_time: 1162.0 
+Word: l&s, start_time: 1162.0, end_time: 1163.0 
+Word: weather, start_time: 1163.0, end_time: 1167.0 
+Word: for, start_time: 1167.0, end_time: 1167.3 
+Word: os, start_time: 1167.3, end_time: 1168.7 
+Word: moleques, start_time: 1168.7, end_time: 1170.0 
+Word: analisar, start_time: 1170.0, end_time: 1171.0 
+Word: uma, start_time: 1171.0, end_time: 1172.5 
+Word: pergunta, start_time: 1172.5, end_time: 1173.3 
+Word: esse, start_time: 1173.3, end_time: 1173.8 
+Word: Mercantil, start_time: 1173.8, end_time: 1174.7 
+Word: em, start_time: 1174.7, end_time: 1174.8 
+Word: Campinas, start_time: 1174.8, end_time: 1175.6 
+Transcript:  piercing São Vicente Uberlândia 
+confidence: 0.5846596956253052 
+
+Word: piercing, start_time: 1181.3, end_time: 1182.7 
+Word: São, start_time: 1182.7, end_time: 1185.5 
+Word: Vicente, start_time: 1185.5, end_time: 1185.9 
+Word: Uberlândia, start_time: 1185.9, end_time: 1207.9 
+Transcript:  Primark Lisboa quem sabe bater forte esmaltes Dailus Edvaldo processo Alexandre Castro Alves Qual foi o look back anytime anywhere Sócrates obras Fashion Nova Olinda Tocantins 
+confidence: 0.8497422337532043 
+
+Word: Primark, start_time: 1214.8, end_time: 1215.5 
+Word: Lisboa, start_time: 1215.5, end_time: 1215.7 
+Word: quem, start_time: 1215.7, end_time: 1216.3 
+Word: sabe, start_time: 1216.3, end_time: 1216.8 
+Word: bater, start_time: 1216.8, end_time: 1217.1 
+Word: forte, start_time: 1217.1, end_time: 1217.5 
+Word: esmaltes, start_time: 1217.5, end_time: 1218.3 
+Word: Dailus, start_time: 1218.3, end_time: 1218.7 
+Word: Edvaldo, start_time: 1218.7, end_time: 1219.8 
+Word: processo, start_time: 1219.8, end_time: 1220.4 
+Word: Alexandre, start_time: 1220.4, end_time: 1224.6 
+Word: Castro, start_time: 1224.6, end_time: 1225.4 
+Word: Alves, start_time: 1225.4, end_time: 1226.4 
+Word: Qual, start_time: 1226.4, end_time: 1228.5 
+Word: foi, start_time: 1228.5, end_time: 1228.8 
+Word: o, start_time: 1228.8, end_time: 1228.9 
+Word: look, start_time: 1228.9, end_time: 1229.1 
+Word: back, start_time: 1229.1, end_time: 1229.6 
+Word: anytime, start_time: 1229.6, end_time: 1230.2 
+Word: anywhere, start_time: 1230.2, end_time: 1232.1 
+Word: Sócrates, start_time: 1232.1, end_time: 1232.7 
+Word: obras, start_time: 1232.7, end_time: 1233.9 
+Word: Fashion, start_time: 1233.9, end_time: 1235.1 
+Word: Nova, start_time: 1235.1, end_time: 1238.6 
+Word: Olinda, start_time: 1238.6, end_time: 1239.6 
+Word: Tocantins, start_time: 1239.6, end_time: 1240.2 
+Transcript:  Ricardo nuclear estimular os folículos primordiais estes anos todos os vídeos de namorado ponha na sua semente de chia emagrece rápido stop the music Of War alguma coisa viu eles na guerra dos planetas Perdidos na hora que sai tudo certinho serviu que nos reuniu clomifeno em Tóquio trilha sonora de Rock in Roll anos da reforma do mineirão mineirão 
+confidence: 0.8685314655303955 
+
+Word: Ricardo, start_time: 1242.3, end_time: 1243.2 
+Word: nuclear, start_time: 1243.2, end_time: 1244.5 
+Word: estimular, start_time: 1244.5, end_time: 1245.9 
+Word: os, start_time: 1245.9, end_time: 1246.0 
+Word: folículos, start_time: 1246.0, end_time: 1249.1 
+Word: primordiais, start_time: 1249.1, end_time: 1256.3 
+Word: estes, start_time: 1256.3, end_time: 1256.8 
+Word: anos, start_time: 1256.8, end_time: 1257.5 
+Word: todos, start_time: 1257.5, end_time: 1257.8 
+Word: os, start_time: 1257.8, end_time: 1257.9 
+Word: vídeos, start_time: 1257.9, end_time: 1258.2 
+Word: de, start_time: 1258.2, end_time: 1258.4 
+Word: namorado, start_time: 1258.4, end_time: 1258.9 
+Word: ponha, start_time: 1258.9, end_time: 1259.3 
+Word: na, start_time: 1259.3, end_time: 1259.5 
+Word: sua, start_time: 1259.5, end_time: 1260.2 
+Word: semente, start_time: 1260.2, end_time: 1261.0 
+Word: de, start_time: 1261.0, end_time: 1261.5 
+Word: chia, start_time: 1261.5, end_time: 1263.2 
+Word: emagrece, start_time: 1263.2, end_time: 1263.3 
+Word: rápido, start_time: 1263.3, end_time: 1269.3 
+Word: stop, start_time: 1269.3, end_time: 1269.6 
+Word: the, start_time: 1269.6, end_time: 1269.7 
+Word: music, start_time: 1269.7, end_time: 1270.0 
+Word: Of, start_time: 1270.0, end_time: 1270.9 
+Word: War, start_time: 1270.9, end_time: 1274.5 
+Word: alguma, start_time: 1274.5, end_time: 1278.7 
+Word: coisa, start_time: 1278.7, end_time: 1279.1 
+Word: viu, start_time: 1279.1, end_time: 1279.4 
+Word: eles, start_time: 1279.4, end_time: 1280.3 
+Word: na, start_time: 1280.3, end_time: 1280.5 
+Word: guerra, start_time: 1280.5, end_time: 1280.6 
+Word: dos, start_time: 1280.6, end_time: 1282.3 
+Word: planetas, start_time: 1282.3, end_time: 1282.3 
+Word: Perdidos, start_time: 1282.3, end_time: 1283.6 
+Word: na, start_time: 1283.6, end_time: 1284.2 
+Word: hora, start_time: 1284.2, end_time: 1284.3 
+Word: que, start_time: 1284.3, end_time: 1284.4 
+Word: sai, start_time: 1284.4, end_time: 1284.6 
+Word: tudo, start_time: 1284.6, end_time: 1284.6 
+Word: certinho, start_time: 1284.6, end_time: 1284.9 
+Word: serviu, start_time: 1284.9, end_time: 1286.4 
+Word: que, start_time: 1286.4, end_time: 1286.6 
+Word: nos, start_time: 1286.6, end_time: 1286.8 
+Word: reuniu, start_time: 1286.8, end_time: 1287.6 
+Word: clomifeno, start_time: 1287.6, end_time: 1288.6 
+Word: em, start_time: 1288.6, end_time: 1288.7 
+Word: Tóquio, start_time: 1288.7, end_time: 1289.8 
+Word: trilha, start_time: 1289.8, end_time: 1290.6 
+Word: sonora, start_time: 1290.6, end_time: 1290.8 
+Word: de, start_time: 1290.8, end_time: 1291.5 
+Word: Rock, start_time: 1291.5, end_time: 1292.2 
+Word: in, start_time: 1292.2, end_time: 1292.7 
+Word: Roll, start_time: 1292.7, end_time: 1292.8 
+Word: anos, start_time: 1292.8, end_time: 1293.1 
+Word: da, start_time: 1293.1, end_time: 1293.4 
+Word: reforma, start_time: 1293.4, end_time: 1293.5 
+Word: do, start_time: 1293.5, end_time: 1294.9 
+Word: mineirão, start_time: 1294.9, end_time: 1295.0 
+Word: mineirão, start_time: 1295.0, end_time: 1296.6 
+Transcript:  AD Blocker ei ei ei Vanderlei Espaço Gourmet no YouTube por nutricionista esportivo explicando o inexplicável de Skype condicionado de Campos dança dos técnicos de outubro Iguatu Space today Everything everything is not be sent you and I Should have won Wonder 
+confidence: 0.9065077304840088 
+
+Word: AD, start_time: 1302.3, end_time: 1302.9 
+Word: Blocker, start_time: 1302.9, end_time: 1303.3 
+Word: ei, start_time: 1303.3, end_time: 1303.6 
+Word: ei, start_time: 1303.6, end_time: 1303.8 
+Word: ei, start_time: 1303.8, end_time: 1304.1 
+Word: Vanderlei, start_time: 1304.1, end_time: 1305.0 
+Word: Espaço, start_time: 1305.0, end_time: 1306.7 
+Word: Gourmet, start_time: 1306.7, end_time: 1307.2 
+Word: no, start_time: 1307.2, end_time: 1307.6 
+Word: YouTube, start_time: 1307.6, end_time: 1312.0 
+Word: por, start_time: 1312.0, end_time: 1315.9 
+Word: nutricionista, start_time: 1315.9, end_time: 1318.9 
+Word: esportivo, start_time: 1318.9, end_time: 1319.8 
+Word: explicando, start_time: 1319.8, end_time: 1321.1 
+Word: o, start_time: 1321.1, end_time: 1324.8 
+Word: inexplicável, start_time: 1324.8, end_time: 1326.7 
+Word: de, start_time: 1326.7, end_time: 1327.3 
+Word: Skype, start_time: 1327.3, end_time: 1328.3 
+Word: condicionado, start_time: 1328.3, end_time: 1329.1 
+Word: de, start_time: 1329.1, end_time: 1330.6 
+Word: Campos, start_time: 1330.6, end_time: 1330.8 
+Word: dança, start_time: 1330.8, end_time: 1331.1 
+Word: dos, start_time: 1331.1, end_time: 1332.6 
+Word: técnicos, start_time: 1332.6, end_time: 1332.8 
+Word: de, start_time: 1332.8, end_time: 1333.2 
+Word: outubro, start_time: 1333.2, end_time: 1333.7 
+Word: Iguatu, start_time: 1333.7, end_time: 1333.9 
+Word: Space, start_time: 1333.9, end_time: 1335.4 
+Word: today, start_time: 1335.4, end_time: 1335.6 
+Word: Everything, start_time: 1335.6, end_time: 1336.6 
+Word: everything, start_time: 1336.6, end_time: 1338.1 
+Word: is, start_time: 1338.1, end_time: 1339.9 
+Word: not, start_time: 1339.9, end_time: 1340.2 
+Word: be, start_time: 1340.2, end_time: 1340.5 
+Word: sent, start_time: 1340.5, end_time: 1340.6 
+Word: you, start_time: 1340.6, end_time: 1340.9 
+Word: and, start_time: 1340.9, end_time: 1341.2 
+Word: I, start_time: 1341.2, end_time: 1341.2 
+Word: Should, start_time: 1341.2, end_time: 1342.2 
+Word: have, start_time: 1342.2, end_time: 1342.3 
+Word: won, start_time: 1342.3, end_time: 1342.5 
+Word: Wonder, start_time: 1342.5, end_time: 1343.8 
+Transcript:  Windows assistir Dragon Ball Z nova série da HBO Live Cidade Nova Rio do Rastro de Augusto Aleixo sendin l173sa Mendler makeup your life intercâmbios aeroporto Londres tem 268 viajar and not Love is a crime organizado no Xbox Dragon Ball Z 
+confidence: 0.8210699558258057 
+
+Word: Windows, start_time: 1346.0, end_time: 1348.0 
+Word: assistir, start_time: 1348.0, end_time: 1348.4 
+Word: Dragon, start_time: 1348.4, end_time: 1348.8 
+Word: Ball, start_time: 1348.8, end_time: 1349.0 
+Word: Z, start_time: 1349.0, end_time: 1349.9 
+Word: nova, start_time: 1349.9, end_time: 1350.5 
+Word: série, start_time: 1350.5, end_time: 1350.6 
+Word: da, start_time: 1350.6, end_time: 1350.8 
+Word: HBO, start_time: 1350.8, end_time: 1352.0 
+Word: Live, start_time: 1352.0, end_time: 1352.3 
+Word: Cidade, start_time: 1352.3, end_time: 1352.8 
+Word: Nova, start_time: 1352.8, end_time: 1354.4 
+Word: Rio, start_time: 1354.4, end_time: 1358.7 
+Word: do, start_time: 1358.7, end_time: 1358.9 
+Word: Rastro, start_time: 1358.9, end_time: 1359.4 
+Word: de, start_time: 1359.4, end_time: 1359.4 
+Word: Augusto, start_time: 1359.4, end_time: 1360.0 
+Word: Aleixo, start_time: 1360.0, end_time: 1360.3 
+Word: sendin, start_time: 1360.3, end_time: 1361.1 
+Word: l173sa, start_time: 1361.1, end_time: 1365.7 
+Word: Mendler, start_time: 1365.7, end_time: 1366.6 
+Word: makeup, start_time: 1366.6, end_time: 1367.2 
+Word: your, start_time: 1367.2, end_time: 1368.5 
+Word: life, start_time: 1368.5, end_time: 1369.3 
+Word: intercâmbios, start_time: 1369.3, end_time: 1371.6 
+Word: aeroporto, start_time: 1371.6, end_time: 1375.0 
+Word: Londres, start_time: 1375.0, end_time: 1375.4 
+Word: tem, start_time: 1375.4, end_time: 1375.6 
+Word: 268, start_time: 1375.6, end_time: 1377.1 
+Word: viajar, start_time: 1377.1, end_time: 1380.2 
+Word: and, start_time: 1380.2, end_time: 1380.7 
+Word: not, start_time: 1380.7, end_time: 1381.4 
+Word: Love, start_time: 1381.4, end_time: 1382.4 
+Word: is, start_time: 1382.4, end_time: 1382.6 
+Word: a, start_time: 1382.6, end_time: 1382.7 
+Word: crime, start_time: 1382.7, end_time: 1383.8 
+Word: organizado, start_time: 1383.8, end_time: 1384.6 
+Word: no, start_time: 1384.6, end_time: 1384.9 
+Word: Xbox, start_time: 1384.9, end_time: 1385.5 
+Word: Dragon, start_time: 1385.5, end_time: 1386.2 
+Word: Ball, start_time: 1386.2, end_time: 1386.4 
+Word: Z, start_time: 1386.4, end_time: 1386.7 
+Transcript:  WhatsApp WhatsApp web tudo Comércio e a disputa entre o processo Industrial tudo Colégio fica esperando a perícia criminal case mysteries of Legends of tomorrow belongs to lessen Sportage Kia Weekend fazer Shuriken Sei é bem assim tão diferente 
+confidence: 0.7970375418663025 
+
+Word: WhatsApp, start_time: 1392.6, end_time: 1394.8 
+Word: WhatsApp, start_time: 1394.8, end_time: 1395.6 
+Word: web, start_time: 1395.6, end_time: 1401.6 
+Word: tudo, start_time: 1401.6, end_time: 1406.2 
+Word: Comércio, start_time: 1406.2, end_time: 1406.3 
+Word: e, start_time: 1406.3, end_time: 1407.5 
+Word: a, start_time: 1407.5, end_time: 1407.7 
+Word: disputa, start_time: 1407.7, end_time: 1407.8 
+Word: entre, start_time: 1407.8, end_time: 1409.8 
+Word: o, start_time: 1409.8, end_time: 1413.6 
+Word: processo, start_time: 1413.6, end_time: 1414.5 
+Word: Industrial, start_time: 1414.5, end_time: 1417.8 
+Word: tudo, start_time: 1417.8, end_time: 1418.2 
+Word: Colégio, start_time: 1418.2, end_time: 1418.7 
+Word: fica, start_time: 1418.7, end_time: 1419.4 
+Word: esperando, start_time: 1419.4, end_time: 1421.4 
+Word: a, start_time: 1421.4, end_time: 1425.1 
+Word: perícia, start_time: 1425.1, end_time: 1429.9 
+Word: criminal, start_time: 1429.9, end_time: 1430.3 
+Word: case, start_time: 1430.3, end_time: 1432.9 
+Word: mysteries, start_time: 1432.9, end_time: 1433.6 
+Word: of, start_time: 1433.6, end_time: 1434.1 
+Word: Legends, start_time: 1434.1, end_time: 1435.3 
+Word: of, start_time: 1435.3, end_time: 1435.6 
+Word: tomorrow, start_time: 1435.6, end_time: 1436.6 
+Word: belongs, start_time: 1436.6, end_time: 1439.1 
+Word: to, start_time: 1439.1, end_time: 1439.6 
+Word: lessen, start_time: 1439.6, end_time: 1442.3 
+Word: Sportage, start_time: 1442.3, end_time: 1443.7 
+Word: Kia, start_time: 1443.7, end_time: 1444.1 
+Word: Weekend, start_time: 1444.1, end_time: 1445.5 
+Word: fazer, start_time: 1445.5, end_time: 1445.8 
+Word: Shuriken, start_time: 1445.8, end_time: 1447.7 
+Word: Sei, start_time: 1447.7, end_time: 1447.9 
+Word: é, start_time: 1447.9, end_time: 1448.1 
+Word: bem, start_time: 1448.1, end_time: 1448.5 
+Word: assim, start_time: 1448.5, end_time: 1448.7 
+Word: tão, start_time: 1448.7, end_time: 1450.2 
+Word: diferente, start_time: 1450.2, end_time: 1450.4 
+Transcript:  Globo Play Phil Collins one more more more love with you download for negotiations globais e autismo Curitiba restaurante nozawa autoridades Project visual handebol 2069 e seus efeitos 
+confidence: 0.8669190406799316 
+
+Word: Globo, start_time: 1452.5, end_time: 1453.0 
+Word: Play, start_time: 1453.0, end_time: 1453.7 
+Word: Phil, start_time: 1453.7, end_time: 1454.0 
+Word: Collins, start_time: 1454.0, end_time: 1454.3 
+Word: one, start_time: 1454.3, end_time: 1454.5 
+Word: more, start_time: 1454.5, end_time: 1454.6 
+Word: more, start_time: 1454.6, end_time: 1465.0 
+Word: more, start_time: 1465.0, end_time: 1466.0 
+Word: love, start_time: 1466.0, end_time: 1466.9 
+Word: with, start_time: 1466.9, end_time: 1467.7 
+Word: you, start_time: 1467.7, end_time: 1467.8 
+Word: download, start_time: 1467.8, end_time: 1468.4 
+Word: for, start_time: 1468.4, end_time: 1469.0 
+Word: negotiations, start_time: 1469.0, end_time: 1470.0 
+Word: globais, start_time: 1470.0, end_time: 1471.2 
+Word: e, start_time: 1471.2, end_time: 1471.3 
+Word: autismo, start_time: 1471.3, end_time: 1471.4 
+Word: Curitiba, start_time: 1471.4, end_time: 1473.1 
+Word: restaurante, start_time: 1473.1, end_time: 1475.6 
+Word: nozawa, start_time: 1475.6, end_time: 1477.1 
+Word: autoridades, start_time: 1477.1, end_time: 1481.2 
+Word: Project, start_time: 1481.2, end_time: 1483.0 
+Word: visual, start_time: 1483.0, end_time: 1492.0 
+Word: handebol, start_time: 1492.0, end_time: 1492.6 
+Word: 2069, start_time: 1492.6, end_time: 1496.5 
+Word: e, start_time: 1496.5, end_time: 1496.7 
+Word: seus, start_time: 1496.7, end_time: 1497.6 
+Word: efeitos, start_time: 1497.6, end_time: 1497.8 
+Transcript:  kurzweil SP2 antioxidantes Cássia 
+confidence: 0.47704800963401794 
+
+Word: kurzweil, start_time: 1499.6, end_time: 1500.3 
+Word: SP2, start_time: 1500.3, end_time: 1501.0 
+Word: antioxidantes, start_time: 1501.0, end_time: 1501.7 
+Word: Cássia, start_time: 1501.7, end_time: 1502.1 
+Transcript:  útero em contato com a filha do presidente cheio de Caxias Espírita aqui em Brasília 2014 notas viu me deixar alguém curioso meu repouso Teresópolis / pouso de super-herói destruidor série como defender for 19 Deluxe makeup by centro de Goiânia 
+confidence: 0.8784458637237549 
+
+Word: útero, start_time: 1503.7, end_time: 1504.4 
+Word: em, start_time: 1504.4, end_time: 1504.5 
+Word: contato, start_time: 1504.5, end_time: 1505.0 
+Word: com, start_time: 1505.0, end_time: 1505.1 
+Word: a, start_time: 1505.1, end_time: 1505.4 
+Word: filha, start_time: 1505.4, end_time: 1506.9 
+Word: do, start_time: 1506.9, end_time: 1507.1 
+Word: presidente, start_time: 1507.1, end_time: 1507.2 
+Word: cheio, start_time: 1507.2, end_time: 1508.0 
+Word: de, start_time: 1508.0, end_time: 1508.1 
+Word: Caxias, start_time: 1508.1, end_time: 1508.9 
+Word: Espírita, start_time: 1508.9, end_time: 1510.1 
+Word: aqui, start_time: 1510.1, end_time: 1510.8 
+Word: em, start_time: 1510.8, end_time: 1511.9 
+Word: Brasília, start_time: 1511.9, end_time: 1512.6 
+Word: 2014, start_time: 1512.6, end_time: 1518.7 
+Word: notas, start_time: 1518.7, end_time: 1530.3 
+Word: viu, start_time: 1530.3, end_time: 1530.8 
+Word: me, start_time: 1530.8, end_time: 1532.3 
+Word: deixar, start_time: 1532.3, end_time: 1532.8 
+Word: alguém, start_time: 1532.8, end_time: 1533.7 
+Word: curioso, start_time: 1533.7, end_time: 1534.4 
+Word: meu, start_time: 1534.4, end_time: 1536.5 
+Word: repouso, start_time: 1536.5, end_time: 1537.3 
+Word: Teresópolis, start_time: 1537.3, end_time: 1537.6 
+Word: /, start_time: 1537.6, end_time: 1540.6 
+Word: pouso, start_time: 1540.6, end_time: 1541.2 
+Word: de, start_time: 1541.2, end_time: 1541.7 
+Word: super-herói, start_time: 1541.7, end_time: 1541.9 
+Word: destruidor, start_time: 1541.9, end_time: 1543.6 
+Word: série, start_time: 1543.6, end_time: 1547.8 
+Word: como, start_time: 1547.8, end_time: 1548.9 
+Word: defender, start_time: 1548.9, end_time: 1554.4 
+Word: for, start_time: 1554.4, end_time: 1555.6 
+Word: 19, start_time: 1555.6, end_time: 1557.4 
+Word: Deluxe, start_time: 1557.4, end_time: 1558.1 
+Word: makeup, start_time: 1558.1, end_time: 1559.2 
+Word: by, start_time: 1559.2, end_time: 1560.9 
+Word: centro, start_time: 1560.9, end_time: 1561.5 
+Word: de, start_time: 1561.5, end_time: 1561.6 
+Word: Goiânia, start_time: 1561.6, end_time: 1562.0 
+Transcript:  brinquedo antigo de Cruzeiro ao vivo Live pop Andrade andrequicé fica visualmente aposentadoria melhor posicionada Mato Grosso do Sul Betim Advanced Adventure PT BR 116 sentido Curitiba 
+confidence: 0.8387770056724548 
+
+Word: brinquedo, start_time: 1563.7, end_time: 1564.9 
+Word: antigo, start_time: 1564.9, end_time: 1565.7 
+Word: de, start_time: 1565.7, end_time: 1565.8 
+Word: Cruzeiro, start_time: 1565.8, end_time: 1566.1 
+Word: ao, start_time: 1566.1, end_time: 1566.4 
+Word: vivo, start_time: 1566.4, end_time: 1566.6 
+Word: Live, start_time: 1566.6, end_time: 1566.9 
+Word: pop, start_time: 1566.9, end_time: 1567.2 
+Word: Andrade, start_time: 1567.2, end_time: 1568.2 
+Word: andrequicé, start_time: 1568.2, end_time: 1569.4 
+Word: fica, start_time: 1569.4, end_time: 1570.0 
+Word: visualmente, start_time: 1570.0, end_time: 1570.4 
+Word: aposentadoria, start_time: 1570.4, end_time: 1575.2 
+Word: melhor, start_time: 1575.2, end_time: 1576.4 
+Word: posicionada, start_time: 1576.4, end_time: 1578.9 
+Word: Mato, start_time: 1578.9, end_time: 1579.1 
+Word: Grosso, start_time: 1579.1, end_time: 1579.3 
+Word: do, start_time: 1579.3, end_time: 1579.6 
+Word: Sul, start_time: 1579.6, end_time: 1580.4 
+Word: Betim, start_time: 1580.4, end_time: 1580.6 
+Word: Advanced, start_time: 1580.6, end_time: 1583.4 
+Word: Adventure, start_time: 1583.4, end_time: 1586.2 
+Word: PT, start_time: 1586.2, end_time: 1588.3 
+Word: BR, start_time: 1588.3, end_time: 1588.6 
+Word: 116, start_time: 1588.6, end_time: 1591.5 
+Word: sentido, start_time: 1591.5, end_time: 1592.0 
+Word: Curitiba, start_time: 1592.0, end_time: 1603.1 
+Transcript:  tem que fazer exame médico esportivo Verde pequeno 
+confidence: 0.6092336177825928 
+
+Word: tem, start_time: 1624.0, end_time: 1625.5 
+Word: que, start_time: 1625.5, end_time: 1625.6 
+Word: fazer, start_time: 1625.6, end_time: 1625.9 
+Word: exame, start_time: 1625.9, end_time: 1626.9 
+Word: médico, start_time: 1626.9, end_time: 1627.0 
+Word: esportivo, start_time: 1627.0, end_time: 1627.8 
+Word: Verde, start_time: 1627.8, end_time: 1629.0 
+Word: pequeno, start_time: 1629.0, end_time: 1630.8 
+Transcript:  a minha glória e os homens e uma sentença é necessário fornecer informações do Rio 
+confidence: 0.4513166546821594 
+
+Word: a, start_time: 1635.4, end_time: 1635.5 
+Word: minha, start_time: 1635.5, end_time: 1636.1 
+Word: glória, start_time: 1636.1, end_time: 1636.3 
+Word: e, start_time: 1636.3, end_time: 1638.3 
+Word: os, start_time: 1638.3, end_time: 1638.7 
+Word: homens, start_time: 1638.7, end_time: 1639.1 
+Word: e, start_time: 1639.1, end_time: 1639.1 
+Word: uma, start_time: 1639.1, end_time: 1639.3 
+Word: sentença, start_time: 1639.3, end_time: 1639.5 
+Word: é, start_time: 1639.5, end_time: 1642.1 
+Word: necessário, start_time: 1642.1, end_time: 1644.5 
+Word: fornecer, start_time: 1644.5, end_time: 1644.9 
+Word: informações, start_time: 1644.9, end_time: 1647.7 
+Word: do, start_time: 1647.7, end_time: 1647.8 
+Word: Rio, start_time: 1647.8, end_time: 1648.1 
+Transcript:  tudo bem eu também vou assistir um pouco cansado sempre 
+confidence: 0.6744781136512756 
+
+Word: tudo, start_time: 1650.5, end_time: 1651.0 
+Word: bem, start_time: 1651.0, end_time: 1651.2 
+Word: eu, start_time: 1651.2, end_time: 1651.7 
+Word: também, start_time: 1651.7, end_time: 1651.9 
+Word: vou, start_time: 1651.9, end_time: 1652.1 
+Word: assistir, start_time: 1652.1, end_time: 1653.1 
+Word: um, start_time: 1653.1, end_time: 1653.2 
+Word: pouco, start_time: 1653.2, end_time: 1653.3 
+Word: cansado, start_time: 1653.3, end_time: 1655.0 
+Word: sempre, start_time: 1655.0, end_time: 1655.7 
+Transcript:  desembarque do cubo original mix Outubro Rosa Novembro pega o câncer With Everything Changes Color Note Windows 7 and always War 
+confidence: 0.7399106621742249 
+
+Word: desembarque, start_time: 1657.9, end_time: 1659.1 
+Word: do, start_time: 1659.1, end_time: 1659.2 
+Word: cubo, start_time: 1659.2, end_time: 1659.6 
+Word: original, start_time: 1659.6, end_time: 1659.9 
+Word: mix, start_time: 1659.9, end_time: 1663.7 
+Word: Outubro, start_time: 1663.7, end_time: 1666.6 
+Word: Rosa, start_time: 1666.6, end_time: 1667.5 
+Word: Novembro, start_time: 1667.5, end_time: 1667.7 
+Word: pega, start_time: 1667.7, end_time: 1670.8 
+Word: o, start_time: 1670.8, end_time: 1670.8 
+Word: câncer, start_time: 1670.8, end_time: 1671.3 
+Word: With, start_time: 1671.3, end_time: 1672.0 
+Word: Everything, start_time: 1672.0, end_time: 1674.1 
+Word: Changes, start_time: 1674.1, end_time: 1677.0 
+Word: Color, start_time: 1677.0, end_time: 1677.6 
+Word: Note, start_time: 1677.6, end_time: 1678.0 
+Word: Windows, start_time: 1678.0, end_time: 1679.5 
+Word: 7, start_time: 1679.5, end_time: 1680.4 
+Word: and, start_time: 1680.4, end_time: 1681.1 
+Word: always, start_time: 1681.1, end_time: 1685.0 
+Word: War, start_time: 1685.0, end_time: 1686.4 
+Transcript:  ex-assessor Vanderlan 
+confidence: 0.6765361428260803 
+
+Word: ex-assessor, start_time: 1688.0, end_time: 1689.2 
+Word: Vanderlan, start_time: 1689.2, end_time: 1690.5 
+Transcript:  conjuntivite soro ringer Ignore all the things we have to do is have some Discovery Home 
+confidence: 0.7116503119468689 
+
+Word: conjuntivite, start_time: 1691.6, end_time: 1692.8 
+Word: soro, start_time: 1692.8, end_time: 1693.4 
+Word: ringer, start_time: 1693.4, end_time: 1694.1 
+Word: Ignore, start_time: 1694.1, end_time: 1695.6 
+Word: all, start_time: 1695.6, end_time: 1696.2 
+Word: the, start_time: 1696.2, end_time: 1696.8 
+Word: things, start_time: 1696.8, end_time: 1697.2 
+Word: we, start_time: 1697.2, end_time: 1697.3 
+Word: have, start_time: 1697.3, end_time: 1697.9 
+Word: to, start_time: 1697.9, end_time: 1698.1 
+Word: do, start_time: 1698.1, end_time: 1698.4 
+Word: is, start_time: 1698.4, end_time: 1698.4 
+Word: have, start_time: 1698.4, end_time: 1698.6 
+Word: some, start_time: 1698.6, end_time: 1698.9 
+Word: Discovery, start_time: 1698.9, end_time: 1701.7 
+Word: Home, start_time: 1701.7, end_time: 1703.4 
+Transcript:  Ponto Frio Bonzão estrangeirismos Oléria today many peoples are you do not have don't close your name of An Object oriented abrindo estrada do Guanumbi final finance project 64 metros tripolar Amorim Lula sbt.com Breaking through Glass ceiling and select on our Generation of organizing Aliens isolation seralago Suites Nacional de saúde 
+confidence: 0.8785514831542969 
+
+Word: Ponto, start_time: 1705.0, end_time: 1705.5 
+Word: Frio, start_time: 1705.5, end_time: 1705.7 
+Word: Bonzão, start_time: 1705.7, end_time: 1705.9 
+Word: estrangeirismos, start_time: 1705.9, end_time: 1707.8 
+Word: Oléria, start_time: 1707.8, end_time: 1708.6 
+Word: today, start_time: 1708.6, end_time: 1709.2 
+Word: many, start_time: 1709.2, end_time: 1709.4 
+Word: peoples, start_time: 1709.4, end_time: 1709.8 
+Word: are, start_time: 1709.8, end_time: 1710.2 
+Word: you, start_time: 1710.2, end_time: 1710.6 
+Word: do, start_time: 1710.6, end_time: 1711.0 
+Word: not, start_time: 1711.0, end_time: 1711.3 
+Word: have, start_time: 1711.3, end_time: 1711.5 
+Word: don't, start_time: 1711.5, end_time: 1711.8 
+Word: close, start_time: 1711.8, end_time: 1712.2 
+Word: your, start_time: 1712.2, end_time: 1712.4 
+Word: name, start_time: 1712.4, end_time: 1713.2 
+Word: of, start_time: 1713.2, end_time: 1714.4 
+Word: An, start_time: 1714.4, end_time: 1714.5 
+Word: Object, start_time: 1714.5, end_time: 1715.2 
+Word: oriented, start_time: 1715.2, end_time: 1717.4 
+Word: abrindo, start_time: 1717.4, end_time: 1717.9 
+Word: estrada, start_time: 1717.9, end_time: 1718.2 
+Word: do, start_time: 1718.2, end_time: 1719.7 
+Word: Guanumbi, start_time: 1719.7, end_time: 1720.0 
+Word: final, start_time: 1720.0, end_time: 1721.4 
+Word: finance, start_time: 1721.4, end_time: 1721.9 
+Word: project, start_time: 1721.9, end_time: 1722.4 
+Word: 64, start_time: 1722.4, end_time: 1723.1 
+Word: metros, start_time: 1723.1, end_time: 1725.0 
+Word: tripolar, start_time: 1725.0, end_time: 1733.3 
+Word: Amorim, start_time: 1733.3, end_time: 1734.3 
+Word: Lula, start_time: 1734.3, end_time: 1735.3 
+Word: sbt.com, start_time: 1735.3, end_time: 1739.9 
+Word: Breaking, start_time: 1739.9, end_time: 1741.6 
+Word: through, start_time: 1741.6, end_time: 1741.8 
+Word: Glass, start_time: 1741.8, end_time: 1742.2 
+Word: ceiling, start_time: 1742.2, end_time: 1742.7 
+Word: and, start_time: 1742.7, end_time: 1742.8 
+Word: select, start_time: 1742.8, end_time: 1744.0 
+Word: on, start_time: 1744.0, end_time: 1744.1 
+Word: our, start_time: 1744.1, end_time: 1744.9 
+Word: Generation, start_time: 1744.9, end_time: 1746.1 
+Word: of, start_time: 1746.1, end_time: 1746.3 
+Word: organizing, start_time: 1746.3, end_time: 1750.5 
+Word: Aliens, start_time: 1750.5, end_time: 1751.3 
+Word: isolation, start_time: 1751.3, end_time: 1751.5 
+Word: seralago, start_time: 1751.5, end_time: 1753.6 
+Word: Suites, start_time: 1753.6, end_time: 1753.8 
+Word: Nacional, start_time: 1753.8, end_time: 1756.9 
+Word: de, start_time: 1756.9, end_time: 1757.0 
+Word: saúde, start_time: 1757.0, end_time: 1757.1 
+Transcript:  tripulantes power one globo.com www.globo.com www Natura preciso de ferragens camerino Object of grimrock forte quando quer dizer para todos os valores de Andrade rizzini é Daiane Shopping Lula ahmadinejad zona leste leste Fluminense 
+confidence: 0.8651279807090759 
+
+Word: tripulantes, start_time: 1757.8, end_time: 1759.0 
+Word: power, start_time: 1759.0, end_time: 1759.5 
+Word: one, start_time: 1759.5, end_time: 1759.7 
+Word: globo.com, start_time: 1759.7, end_time: 1761.6 
+Word: www.globo.com, start_time: 1761.6, end_time: 1769.3 
+Word: www, start_time: 1769.3, end_time: 1773.3 
+Word: Natura, start_time: 1773.3, end_time: 1783.1 
+Word: preciso, start_time: 1783.1, end_time: 1783.7 
+Word: de, start_time: 1783.7, end_time: 1783.8 
+Word: ferragens, start_time: 1783.8, end_time: 1785.2 
+Word: camerino, start_time: 1785.2, end_time: 1785.6 
+Word: Object, start_time: 1785.6, end_time: 1787.6 
+Word: of, start_time: 1787.6, end_time: 1788.1 
+Word: grimrock, start_time: 1788.1, end_time: 1789.0 
+Word: forte, start_time: 1789.0, end_time: 1794.5 
+Word: quando, start_time: 1794.5, end_time: 1794.7 
+Word: quer, start_time: 1794.7, end_time: 1794.8 
+Word: dizer, start_time: 1794.8, end_time: 1795.0 
+Word: para, start_time: 1795.0, end_time: 1796.0 
+Word: todos, start_time: 1796.0, end_time: 1796.6 
+Word: os, start_time: 1796.6, end_time: 1796.6 
+Word: valores, start_time: 1796.6, end_time: 1796.9 
+Word: de, start_time: 1796.9, end_time: 1798.7 
+Word: Andrade, start_time: 1798.7, end_time: 1799.6 
+Word: rizzini, start_time: 1799.6, end_time: 1800.2 
+Word: é, start_time: 1800.2, end_time: 1800.6 
+Word: Daiane, start_time: 1800.6, end_time: 1802.1 
+Word: Shopping, start_time: 1802.1, end_time: 1802.3 
+Word: Lula, start_time: 1802.3, end_time: 1804.6 
+Word: ahmadinejad, start_time: 1804.6, end_time: 1807.3 
+Word: zona, start_time: 1807.3, end_time: 1808.9 
+Word: leste, start_time: 1808.9, end_time: 1809.4 
+Word: leste, start_time: 1809.4, end_time: 1811.4 
+Word: Fluminense, start_time: 1811.4, end_time: 1813.6 
+Transcript:  não dá no plano de fundo de combate de Bruce Springsteen Bruce Willis Love is a Temple tradução we have restored restaurante Giuseppe access-control-allow-origin Facebook Nokia next Tocantins tem alguém aí você vai aguentar Alves Agripino cerveja Wee heavy 10 mandamentos Record RJ agendamento Bistek 
+confidence: 0.8720657229423523 
+
+Word: não, start_time: 1817.8, end_time: 1820.0 
+Word: dá, start_time: 1820.0, end_time: 1820.9 
+Word: no, start_time: 1820.9, end_time: 1821.4 
+Word: plano, start_time: 1821.4, end_time: 1821.9 
+Word: de, start_time: 1821.9, end_time: 1822.1 
+Word: fundo, start_time: 1822.1, end_time: 1822.8 
+Word: de, start_time: 1822.8, end_time: 1824.2 
+Word: combate, start_time: 1824.2, end_time: 1824.9 
+Word: de, start_time: 1824.9, end_time: 1826.2 
+Word: Bruce, start_time: 1826.2, end_time: 1826.4 
+Word: Springsteen, start_time: 1826.4, end_time: 1827.1 
+Word: Bruce, start_time: 1827.1, end_time: 1830.3 
+Word: Willis, start_time: 1830.3, end_time: 1831.2 
+Word: Love, start_time: 1831.2, end_time: 1831.5 
+Word: is, start_time: 1831.5, end_time: 1831.8 
+Word: a, start_time: 1831.8, end_time: 1833.7 
+Word: Temple, start_time: 1833.7, end_time: 1834.0 
+Word: tradução, start_time: 1834.0, end_time: 1835.4 
+Word: we, start_time: 1835.4, end_time: 1835.6 
+Word: have, start_time: 1835.6, end_time: 1835.9 
+Word: restored, start_time: 1835.9, end_time: 1836.2 
+Word: restaurante, start_time: 1836.2, end_time: 1837.6 
+Word: Giuseppe, start_time: 1837.6, end_time: 1838.0 
+Word: access-control-allow-origin, start_time: 1838.0, end_time: 1842.1 
+Word: Facebook, start_time: 1842.1, end_time: 1843.6 
+Word: Nokia, start_time: 1843.6, end_time: 1844.0 
+Word: next, start_time: 1844.0, end_time: 1844.6 
+Word: Tocantins, start_time: 1844.6, end_time: 1848.0 
+Word: tem, start_time: 1848.0, end_time: 1848.4 
+Word: alguém, start_time: 1848.4, end_time: 1849.4 
+Word: aí, start_time: 1849.4, end_time: 1850.1 
+Word: você, start_time: 1850.1, end_time: 1850.2 
+Word: vai, start_time: 1850.2, end_time: 1850.6 
+Word: aguentar, start_time: 1850.6, end_time: 1851.1 
+Word: Alves, start_time: 1851.1, end_time: 1854.5 
+Word: Agripino, start_time: 1854.5, end_time: 1854.9 
+Word: cerveja, start_time: 1854.9, end_time: 1855.5 
+Word: Wee, start_time: 1855.5, end_time: 1856.1 
+Word: heavy, start_time: 1856.1, end_time: 1856.4 
+Word: 10, start_time: 1856.4, end_time: 1856.7 
+Word: mandamentos, start_time: 1856.7, end_time: 1857.5 
+Word: Record, start_time: 1857.5, end_time: 1857.8 
+Word: RJ, start_time: 1857.8, end_time: 1860.8 
+Word: agendamento, start_time: 1860.8, end_time: 1871.2 
+Word: Bistek, start_time: 1871.2, end_time: 1871.5 
+Transcript:  que câncer é viva a nossa localização para tanto ele quebrou ele na 5ª Temporada BluRay ouvir louvor Espírito Santo Viana Teles Ferreira número 7 usa óculos Blue Space Cowboy Vagabundo só volantes site da seleção descanso sliter.io identificador de óculos na Óticas vídeos da Barbie novos comandos para o internacional cashback World at War protection Engineering at Green Power 
+confidence: 0.8967605829238892 
+
+Word: que, start_time: 1872.9, end_time: 1873.3 
+Word: câncer, start_time: 1873.3, end_time: 1873.8 
+Word: é, start_time: 1873.8, end_time: 1873.9 
+Word: viva, start_time: 1873.9, end_time: 1874.4 
+Word: a, start_time: 1874.4, end_time: 1874.4 
+Word: nossa, start_time: 1874.4, end_time: 1875.7 
+Word: localização, start_time: 1875.7, end_time: 1876.4 
+Word: para, start_time: 1876.4, end_time: 1877.4 
+Word: tanto, start_time: 1877.4, end_time: 1877.6 
+Word: ele, start_time: 1877.6, end_time: 1878.0 
+Word: quebrou, start_time: 1878.0, end_time: 1878.5 
+Word: ele, start_time: 1878.5, end_time: 1879.6 
+Word: na, start_time: 1879.6, end_time: 1880.1 
+Word: 5ª, start_time: 1880.1, end_time: 1880.4 
+Word: Temporada, start_time: 1880.4, end_time: 1880.6 
+Word: BluRay, start_time: 1880.6, end_time: 1881.8 
+Word: ouvir, start_time: 1881.8, end_time: 1883.2 
+Word: louvor, start_time: 1883.2, end_time: 1884.7 
+Word: Espírito, start_time: 1884.7, end_time: 1886.8 
+Word: Santo, start_time: 1886.8, end_time: 1887.2 
+Word: Viana, start_time: 1887.2, end_time: 1888.8 
+Word: Teles, start_time: 1888.8, end_time: 1889.6 
+Word: Ferreira, start_time: 1889.6, end_time: 1890.4 
+Word: número, start_time: 1890.4, end_time: 1891.2 
+Word: 7, start_time: 1891.2, end_time: 1893.3 
+Word: usa, start_time: 1893.3, end_time: 1894.6 
+Word: óculos, start_time: 1894.6, end_time: 1895.9 
+Word: Blue, start_time: 1895.9, end_time: 1896.6 
+Word: Space, start_time: 1896.6, end_time: 1898.0 
+Word: Cowboy, start_time: 1898.0, end_time: 1899.0 
+Word: Vagabundo, start_time: 1899.0, end_time: 1900.0 
+Word: só, start_time: 1900.0, end_time: 1900.4 
+Word: volantes, start_time: 1900.4, end_time: 1900.9 
+Word: site, start_time: 1900.9, end_time: 1901.7 
+Word: da, start_time: 1901.7, end_time: 1901.9 
+Word: seleção, start_time: 1901.9, end_time: 1902.2 
+Word: descanso, start_time: 1902.2, end_time: 1903.3 
+Word: sliter.io, start_time: 1903.3, end_time: 1906.8 
+Word: identificador, start_time: 1906.8, end_time: 1910.2 
+Word: de, start_time: 1910.2, end_time: 1910.3 
+Word: óculos, start_time: 1910.3, end_time: 1910.8 
+Word: na, start_time: 1910.8, end_time: 1911.5 
+Word: Óticas, start_time: 1911.5, end_time: 1911.9 
+Word: vídeos, start_time: 1911.9, end_time: 1913.6 
+Word: da, start_time: 1913.6, end_time: 1913.7 
+Word: Barbie, start_time: 1913.7, end_time: 1914.2 
+Word: novos, start_time: 1914.2, end_time: 1914.5 
+Word: comandos, start_time: 1914.5, end_time: 1915.2 
+Word: para, start_time: 1915.2, end_time: 1915.2 
+Word: o, start_time: 1915.2, end_time: 1916.2 
+Word: internacional, start_time: 1916.2, end_time: 1921.2 
+Word: cashback, start_time: 1921.2, end_time: 1924.0 
+Word: World, start_time: 1924.0, end_time: 1925.6 
+Word: at, start_time: 1925.6, end_time: 1926.3 
+Word: War, start_time: 1926.3, end_time: 1927.5 
+Word: protection, start_time: 1927.5, end_time: 1928.1 
+Word: Engineering, start_time: 1928.1, end_time: 1930.1 
+Word: at, start_time: 1930.1, end_time: 1931.3 
+Word: Green, start_time: 1931.3, end_time: 1931.9 
+Word: Power, start_time: 1931.9, end_time: 1932.6 
+Transcript:  perfume Britney ever known Better Than Sacrifice at me up the speakers de Soleil executivos e legislativos tênis holográfico amplificadores antigos 
+confidence: 0.6949951648712158 
+
+Word: perfume, start_time: 1932.9, end_time: 1934.3 
+Word: Britney, start_time: 1934.3, end_time: 1935.0 
+Word: ever, start_time: 1935.0, end_time: 1935.9 
+Word: known, start_time: 1935.9, end_time: 1936.5 
+Word: Better, start_time: 1936.5, end_time: 1936.8 
+Word: Than, start_time: 1936.8, end_time: 1937.0 
+Word: Sacrifice, start_time: 1937.0, end_time: 1937.4 
+Word: at, start_time: 1937.4, end_time: 1938.7 
+Word: me, start_time: 1938.7, end_time: 1939.3 
+Word: up, start_time: 1939.3, end_time: 1939.5 
+Word: the, start_time: 1939.5, end_time: 1939.7 
+Word: speakers, start_time: 1939.7, end_time: 1939.8 
+Word: de, start_time: 1939.8, end_time: 1940.6 
+Word: Soleil, start_time: 1940.6, end_time: 1942.1 
+Word: executivos, start_time: 1942.1, end_time: 1944.6 
+Word: e, start_time: 1944.6, end_time: 1944.7 
+Word: legislativos, start_time: 1944.7, end_time: 1947.8 
+Word: tênis, start_time: 1947.8, end_time: 1948.3 
+Word: holográfico, start_time: 1948.3, end_time: 1949.8 
+Word: amplificadores, start_time: 1949.8, end_time: 1951.8 
+Word: antigos, start_time: 1951.8, end_time: 1952.2 
+Transcript:  Strada Cabine Dupla em Fúria 2016 castelo de crochê diferentes 
+confidence: 0.8403022885322571 
+
+Word: Strada, start_time: 1960.3, end_time: 1962.2 
+Word: Cabine, start_time: 1962.2, end_time: 1973.2 
+Word: Dupla, start_time: 1973.2, end_time: 1973.5 
+Word: em, start_time: 1973.5, end_time: 1974.4 
+Word: Fúria, start_time: 1974.4, end_time: 1974.7 
+Word: 2016, start_time: 1974.7, end_time: 1979.3 
+Word: castelo, start_time: 1979.3, end_time: 1985.2 
+Word: de, start_time: 1985.2, end_time: 1985.5 
+Word: crochê, start_time: 1985.5, end_time: 1985.8 
+Word: diferentes, start_time: 1985.8, end_time: 1990.1 
+Transcript:  inocente sabe was born to be gay de negão cheirinho processo 08 falando da mãe três vezes amor não leva o Plasil por bairros bonitos e Santiago chegamos desejo salvar no Apolo e flecha hexato tecnologia em mecânica amador site do Turbo L200 Triton modelo de força 
+confidence: 0.8113043904304504 
+
+Word: inocente, start_time: 1999.9, end_time: 2001.7 
+Word: sabe, start_time: 2001.7, end_time: 2001.8 
+Word: was, start_time: 2001.8, end_time: 2002.2 
+Word: born, start_time: 2002.2, end_time: 2002.6 
+Word: to, start_time: 2002.6, end_time: 2002.9 
+Word: be, start_time: 2002.9, end_time: 2003.0 
+Word: gay, start_time: 2003.0, end_time: 2004.7 
+Word: de, start_time: 2004.7, end_time: 2013.1 
+Word: negão, start_time: 2013.1, end_time: 2013.7 
+Word: cheirinho, start_time: 2013.7, end_time: 2014.2 
+Word: processo, start_time: 2014.2, end_time: 2014.9 
+Word: 08, start_time: 2014.9, end_time: 2015.9 
+Word: falando, start_time: 2015.9, end_time: 2017.1 
+Word: da, start_time: 2017.1, end_time: 2017.3 
+Word: mãe, start_time: 2017.3, end_time: 2017.8 
+Word: três, start_time: 2017.8, end_time: 2019.9 
+Word: vezes, start_time: 2019.9, end_time: 2020.1 
+Word: amor, start_time: 2020.1, end_time: 2021.7 
+Word: não, start_time: 2021.7, end_time: 2023.0 
+Word: leva, start_time: 2023.0, end_time: 2024.2 
+Word: o, start_time: 2024.2, end_time: 2024.4 
+Word: Plasil, start_time: 2024.4, end_time: 2025.0 
+Word: por, start_time: 2025.0, end_time: 2025.5 
+Word: bairros, start_time: 2025.5, end_time: 2025.9 
+Word: bonitos, start_time: 2025.9, end_time: 2027.2 
+Word: e, start_time: 2027.2, end_time: 2027.7 
+Word: Santiago, start_time: 2027.7, end_time: 2028.3 
+Word: chegamos, start_time: 2028.3, end_time: 2029.4 
+Word: desejo, start_time: 2029.4, end_time: 2029.7 
+Word: salvar, start_time: 2029.7, end_time: 2030.0 
+Word: no, start_time: 2030.0, end_time: 2030.4 
+Word: Apolo, start_time: 2030.4, end_time: 2030.7 
+Word: e, start_time: 2030.7, end_time: 2030.8 
+Word: flecha, start_time: 2030.8, end_time: 2031.3 
+Word: hexato, start_time: 2031.3, end_time: 2032.3 
+Word: tecnologia, start_time: 2032.3, end_time: 2032.3 
+Word: em, start_time: 2032.3, end_time: 2033.7 
+Word: mecânica, start_time: 2033.7, end_time: 2035.9 
+Word: amador, start_time: 2035.9, end_time: 2038.5 
+Word: site, start_time: 2038.5, end_time: 2039.5 
+Word: do, start_time: 2039.5, end_time: 2039.6 
+Word: Turbo, start_time: 2039.6, end_time: 2040.2 
+Word: L200, start_time: 2040.2, end_time: 2041.2 
+Word: Triton, start_time: 2041.2, end_time: 2043.3 
+Word: modelo, start_time: 2043.3, end_time: 2045.3 
+Word: de, start_time: 2045.3, end_time: 2046.4 
+Word: força, start_time: 2046.4, end_time: 2046.8 
+Transcript:  torcida gay maior possível entre os muros são de Vênus there's not a function 1874 Datasheet l7805cv entendeu fuzil em especial levantar igual eu levo nada Cifra Club Your Love filmes de terror seu Banco Itaú Itajubá eu sou delinquente em nossas caminhadas tédio por isso eu levo no perfil é bolivarianismo Olhos Famintos 
+confidence: 0.9002608060836792 
+
+Word: torcida, start_time: 2048.6, end_time: 2050.5 
+Word: gay, start_time: 2050.5, end_time: 2051.2 
+Word: maior, start_time: 2051.2, end_time: 2051.2 
+Word: possível, start_time: 2051.2, end_time: 2052.9 
+Word: entre, start_time: 2052.9, end_time: 2054.2 
+Word: os, start_time: 2054.2, end_time: 2054.4 
+Word: muros, start_time: 2054.4, end_time: 2054.5 
+Word: são, start_time: 2054.5, end_time: 2054.7 
+Word: de, start_time: 2054.7, end_time: 2054.8 
+Word: Vênus, start_time: 2054.8, end_time: 2055.1 
+Word: there's, start_time: 2055.1, end_time: 2055.7 
+Word: not, start_time: 2055.7, end_time: 2055.9 
+Word: a, start_time: 2055.9, end_time: 2056.6 
+Word: function, start_time: 2056.6, end_time: 2057.5 
+Word: 1874, start_time: 2057.5, end_time: 2063.3 
+Word: Datasheet, start_time: 2063.3, end_time: 2064.2 
+Word: l7805cv, start_time: 2064.2, end_time: 2070.3 
+Word: entendeu, start_time: 2070.3, end_time: 2073.1 
+Word: fuzil, start_time: 2073.1, end_time: 2073.5 
+Word: em, start_time: 2073.5, end_time: 2073.6 
+Word: especial, start_time: 2073.6, end_time: 2074.2 
+Word: levantar, start_time: 2074.2, end_time: 2074.3 
+Word: igual, start_time: 2074.3, end_time: 2075.3 
+Word: eu, start_time: 2075.3, end_time: 2076.3 
+Word: levo, start_time: 2076.3, end_time: 2076.8 
+Word: nada, start_time: 2076.8, end_time: 2077.6 
+Word: Cifra, start_time: 2077.6, end_time: 2078.9 
+Word: Club, start_time: 2078.9, end_time: 2079.2 
+Word: Your, start_time: 2079.2, end_time: 2081.4 
+Word: Love, start_time: 2081.4, end_time: 2082.3 
+Word: filmes, start_time: 2082.3, end_time: 2084.9 
+Word: de, start_time: 2084.9, end_time: 2085.0 
+Word: terror, start_time: 2085.0, end_time: 2085.5 
+Word: seu, start_time: 2085.5, end_time: 2085.8 
+Word: Banco, start_time: 2085.8, end_time: 2086.2 
+Word: Itaú, start_time: 2086.2, end_time: 2086.8 
+Word: Itajubá, start_time: 2086.8, end_time: 2087.2 
+Word: eu, start_time: 2087.2, end_time: 2088.0 
+Word: sou, start_time: 2088.0, end_time: 2088.1 
+Word: delinquente, start_time: 2088.1, end_time: 2088.3 
+Word: em, start_time: 2088.3, end_time: 2089.1 
+Word: nossas, start_time: 2089.1, end_time: 2089.6 
+Word: caminhadas, start_time: 2089.6, end_time: 2090.3 
+Word: tédio, start_time: 2090.3, end_time: 2090.8 
+Word: por, start_time: 2090.8, end_time: 2091.2 
+Word: isso, start_time: 2091.2, end_time: 2091.6 
+Word: eu, start_time: 2091.6, end_time: 2091.8 
+Word: levo, start_time: 2091.8, end_time: 2092.3 
+Word: no, start_time: 2092.3, end_time: 2092.6 
+Word: perfil, start_time: 2092.6, end_time: 2093.6 
+Word: é, start_time: 2093.6, end_time: 2093.7 
+Word: bolivarianismo, start_time: 2093.7, end_time: 2095.0 
+Word: Olhos, start_time: 2095.0, end_time: 2096.0 
+Word: Famintos, start_time: 2096.0, end_time: 2096.4 
+Transcript:  no tablet how to take photos of Sleeping Beauty beautiful Glory online Os Guerreiros Lendários em Itainópolis viu vários não deixa a roupa molhada Cristian e Ralf Valdirene and two minutes more trouble just And Beautiful of World without you no YouTube Gusttavo Lima investe em Guarulhos no centro de atendimento ao cliente corporativo 
+confidence: 0.9530157446861267 
+
+Word: no, start_time: 2098.3, end_time: 2098.7 
+Word: tablet, start_time: 2098.7, end_time: 2099.4 
+Word: how, start_time: 2099.4, end_time: 2099.7 
+Word: to, start_time: 2099.7, end_time: 2099.9 
+Word: take, start_time: 2099.9, end_time: 2100.2 
+Word: photos, start_time: 2100.2, end_time: 2100.5 
+Word: of, start_time: 2100.5, end_time: 2101.6 
+Word: Sleeping, start_time: 2101.6, end_time: 2102.7 
+Word: Beauty, start_time: 2102.7, end_time: 2102.8 
+Word: beautiful, start_time: 2102.8, end_time: 2105.2 
+Word: Glory, start_time: 2105.2, end_time: 2105.9 
+Word: online, start_time: 2105.9, end_time: 2107.2 
+Word: Os, start_time: 2107.2, end_time: 2108.6 
+Word: Guerreiros, start_time: 2108.6, end_time: 2109.1 
+Word: Lendários, start_time: 2109.1, end_time: 2110.1 
+Word: em, start_time: 2110.1, end_time: 2110.1 
+Word: Itainópolis, start_time: 2110.1, end_time: 2111.1 
+Word: viu, start_time: 2111.1, end_time: 2112.6 
+Word: vários, start_time: 2112.6, end_time: 2113.1 
+Word: não, start_time: 2113.1, end_time: 2113.3 
+Word: deixa, start_time: 2113.3, end_time: 2114.5 
+Word: a, start_time: 2114.5, end_time: 2115.0 
+Word: roupa, start_time: 2115.0, end_time: 2115.4 
+Word: molhada, start_time: 2115.4, end_time: 2116.0 
+Word: Cristian, start_time: 2116.0, end_time: 2118.1 
+Word: e, start_time: 2118.1, end_time: 2118.4 
+Word: Ralf, start_time: 2118.4, end_time: 2119.2 
+Word: Valdirene, start_time: 2119.2, end_time: 2120.3 
+Word: and, start_time: 2120.3, end_time: 2120.5 
+Word: two, start_time: 2120.5, end_time: 2121.5 
+Word: minutes, start_time: 2121.5, end_time: 2123.0 
+Word: more, start_time: 2123.0, end_time: 2123.6 
+Word: trouble, start_time: 2123.6, end_time: 2124.9 
+Word: just, start_time: 2124.9, end_time: 2125.8 
+Word: And, start_time: 2125.8, end_time: 2126.4 
+Word: Beautiful, start_time: 2126.4, end_time: 2128.6 
+Word: of, start_time: 2128.6, end_time: 2129.1 
+Word: World, start_time: 2129.1, end_time: 2129.7 
+Word: without, start_time: 2129.7, end_time: 2130.3 
+Word: you, start_time: 2130.3, end_time: 2130.7 
+Word: no, start_time: 2130.7, end_time: 2131.0 
+Word: YouTube, start_time: 2131.0, end_time: 2131.5 
+Word: Gusttavo, start_time: 2131.5, end_time: 2133.5 
+Word: Lima, start_time: 2133.5, end_time: 2136.2 
+Word: investe, start_time: 2136.2, end_time: 2137.8 
+Word: em, start_time: 2137.8, end_time: 2138.0 
+Word: Guarulhos, start_time: 2138.0, end_time: 2139.1 
+Word: no, start_time: 2139.1, end_time: 2139.4 
+Word: centro, start_time: 2139.4, end_time: 2139.5 
+Word: de, start_time: 2139.5, end_time: 2139.9 
+Word: atendimento, start_time: 2139.9, end_time: 2140.4 
+Word: ao, start_time: 2140.4, end_time: 2142.1 
+Word: cliente, start_time: 2142.1, end_time: 2142.2 
+Word: corporativo, start_time: 2142.2, end_time: 2150.6 
+Transcript:  amor Sublime tem no núcleo que é tecnológico e Belutti Ronaldo sendo filtro de cabine Volvo qualificado para casar bennie And Forever My brother is much bigger the better better better better off just finished cheio de paz saúde prosperidade e o menor 
+confidence: 0.7895649075508118 
+
+Word: amor, start_time: 2158.2, end_time: 2161.2 
+Word: Sublime, start_time: 2161.2, end_time: 2163.1 
+Word: tem, start_time: 2163.1, end_time: 2163.6 
+Word: no, start_time: 2163.6, end_time: 2163.9 
+Word: núcleo, start_time: 2163.9, end_time: 2165.8 
+Word: que, start_time: 2165.8, end_time: 2166.1 
+Word: é, start_time: 2166.1, end_time: 2166.1 
+Word: tecnológico, start_time: 2166.1, end_time: 2167.6 
+Word: e, start_time: 2167.6, end_time: 2168.4 
+Word: Belutti, start_time: 2168.4, end_time: 2171.8 
+Word: Ronaldo, start_time: 2171.8, end_time: 2172.5 
+Word: sendo, start_time: 2172.5, end_time: 2172.8 
+Word: filtro, start_time: 2172.8, end_time: 2173.2 
+Word: de, start_time: 2173.2, end_time: 2174.4 
+Word: cabine, start_time: 2174.4, end_time: 2174.6 
+Word: Volvo, start_time: 2174.6, end_time: 2175.3 
+Word: qualificado, start_time: 2175.3, end_time: 2175.6 
+Word: para, start_time: 2175.6, end_time: 2176.3 
+Word: casar, start_time: 2176.3, end_time: 2177.7 
+Word: bennie, start_time: 2177.7, end_time: 2181.4 
+Word: And, start_time: 2181.4, end_time: 2182.0 
+Word: Forever, start_time: 2182.0, end_time: 2193.1 
+Word: My, start_time: 2193.1, end_time: 2195.3 
+Word: brother, start_time: 2195.3, end_time: 2197.5 
+Word: is, start_time: 2197.5, end_time: 2197.8 
+Word: much, start_time: 2197.8, end_time: 2198.3 
+Word: bigger, start_time: 2198.3, end_time: 2198.4 
+Word: the, start_time: 2198.4, end_time: 2198.9 
+Word: better, start_time: 2198.9, end_time: 2199.0 
+Word: better, start_time: 2199.0, end_time: 2201.6 
+Word: better, start_time: 2201.6, end_time: 2202.6 
+Word: better, start_time: 2202.6, end_time: 2204.0 
+Word: off, start_time: 2204.0, end_time: 2206.9 
+Word: just, start_time: 2206.9, end_time: 2207.4 
+Word: finished, start_time: 2207.4, end_time: 2208.9 
+Word: cheio, start_time: 2208.9, end_time: 2209.8 
+Word: de, start_time: 2209.8, end_time: 2209.9 
+Word: paz, start_time: 2209.9, end_time: 2210.7 
+Word: saúde, start_time: 2210.7, end_time: 2211.0 
+Word: prosperidade, start_time: 2211.0, end_time: 2213.9 
+Word: e, start_time: 2213.9, end_time: 2216.5 
+Word: o, start_time: 2216.5, end_time: 2216.7 
+Word: menor, start_time: 2216.7, end_time: 2217.8 
+Transcript:  Napoli vizinho tá tendo internet entendeu por sorte n inicialmente por cento e suas forças estabelecido no Tratado de Petrópolis 19 Maceió 
+confidence: 0.5349367260932922 
+
+Word: Napoli, start_time: 2218.2, end_time: 2219.3 
+Word: vizinho, start_time: 2219.3, end_time: 2220.0 
+Word: tá, start_time: 2220.0, end_time: 2220.0 
+Word: tendo, start_time: 2220.0, end_time: 2220.2 
+Word: internet, start_time: 2220.2, end_time: 2221.5 
+Word: entendeu, start_time: 2221.5, end_time: 2222.0 
+Word: por, start_time: 2222.0, end_time: 2222.3 
+Word: sorte, start_time: 2222.3, end_time: 2222.8 
+Word: n, start_time: 2222.8, end_time: 2223.4 
+Word: inicialmente, start_time: 2223.4, end_time: 2224.1 
+Word: por, start_time: 2224.1, end_time: 2225.3 
+Word: cento, start_time: 2225.3, end_time: 2225.9 
+Word: e, start_time: 2225.9, end_time: 2225.9 
+Word: suas, start_time: 2225.9, end_time: 2227.1 
+Word: forças, start_time: 2227.1, end_time: 2227.7 
+Word: estabelecido, start_time: 2227.7, end_time: 2242.2 
+Word: no, start_time: 2242.2, end_time: 2243.6 
+Word: Tratado, start_time: 2243.6, end_time: 2244.9 
+Word: de, start_time: 2244.9, end_time: 2245.5 
+Word: Petrópolis, start_time: 2245.5, end_time: 2246.8 
+Word: 19, start_time: 2246.8, end_time: 2251.6 
+Word: Maceió, start_time: 2251.6, end_time: 2251.9 
+Transcript:  resultado da sul-americana Coritiba 2013 Friedrich froebel and select boot mode never fails Hillsong Worship you for System pause relacionamento 
+confidence: 0.8989772796630859 
+
+Word: resultado, start_time: 2254.6, end_time: 2256.3 
+Word: da, start_time: 2256.3, end_time: 2256.7 
+Word: sul-americana, start_time: 2256.7, end_time: 2257.1 
+Word: Coritiba, start_time: 2257.1, end_time: 2258.8 
+Word: 2013, start_time: 2258.8, end_time: 2267.2 
+Word: Friedrich, start_time: 2267.2, end_time: 2269.6 
+Word: froebel, start_time: 2269.6, end_time: 2270.1 
+Word: and, start_time: 2270.1, end_time: 2271.8 
+Word: select, start_time: 2271.8, end_time: 2275.5 
+Word: boot, start_time: 2275.5, end_time: 2277.2 
+Word: mode, start_time: 2277.2, end_time: 2280.0 
+Word: never, start_time: 2280.0, end_time: 2280.3 
+Word: fails, start_time: 2280.3, end_time: 2281.6 
+Word: Hillsong, start_time: 2281.6, end_time: 2282.5 
+Word: Worship, start_time: 2282.5, end_time: 2283.0 
+Word: you, start_time: 2283.0, end_time: 2283.5 
+Word: for, start_time: 2283.5, end_time: 2283.9 
+Word: System, start_time: 2283.9, end_time: 2284.8 
+Word: pause, start_time: 2284.8, end_time: 2285.1 
+Word: relacionamento, start_time: 2285.1, end_time: 2288.1 
+Transcript:  download da música Mc node request wait did you have Anymore Let It Go 
+confidence: 0.67233806848526 
+
+Word: download, start_time: 2295.3, end_time: 2297.7 
+Word: da, start_time: 2297.7, end_time: 2302.9 
+Word: música, start_time: 2302.9, end_time: 2303.9 
+Word: Mc, start_time: 2303.9, end_time: 2333.8 
+Word: node, start_time: 2333.8, end_time: 2334.4 
+Word: request, start_time: 2334.4, end_time: 2337.5 
+Word: wait, start_time: 2337.5, end_time: 2338.5 
+Word: did, start_time: 2338.5, end_time: 2342.2 
+Word: you, start_time: 2342.2, end_time: 2342.8 
+Word: have, start_time: 2342.8, end_time: 2343.5 
+Word: Anymore, start_time: 2343.5, end_time: 2344.4 
+Word: Let, start_time: 2344.4, end_time: 2344.5 
+Word: It, start_time: 2344.5, end_time: 2344.9 
+Word: Go, start_time: 2344.9, end_time: 2346.2 
+Transcript:  UOL have you ever heard about that you have any you have Fun Fun Fun última thule tem que ser fazer cocô no trecho a última trifil do not have em memoria 16 anos da queda do império generator frustration Mortífera série online Cristóvão Alves livre desbloqueado envolve em negócios por internet 
+confidence: 0.8893653750419617 
+
+Word: UOL, start_time: 2355.2, end_time: 2356.4 
+Word: have, start_time: 2356.4, end_time: 2356.8 
+Word: you, start_time: 2356.8, end_time: 2356.9 
+Word: ever, start_time: 2356.9, end_time: 2357.3 
+Word: heard, start_time: 2357.3, end_time: 2357.7 
+Word: about, start_time: 2357.7, end_time: 2359.3 
+Word: that, start_time: 2359.3, end_time: 2374.5 
+Word: you, start_time: 2374.5, end_time: 2374.9 
+Word: have, start_time: 2374.9, end_time: 2375.1 
+Word: any, start_time: 2375.1, end_time: 2376.4 
+Word: you, start_time: 2376.4, end_time: 2376.9 
+Word: have, start_time: 2376.9, end_time: 2377.2 
+Word: Fun, start_time: 2377.2, end_time: 2377.4 
+Word: Fun, start_time: 2377.4, end_time: 2377.8 
+Word: Fun, start_time: 2377.8, end_time: 2379.6 
+Word: última, start_time: 2379.6, end_time: 2381.1 
+Word: thule, start_time: 2381.1, end_time: 2381.2 
+Word: tem, start_time: 2381.2, end_time: 2381.6 
+Word: que, start_time: 2381.6, end_time: 2381.7 
+Word: ser, start_time: 2381.7, end_time: 2381.8 
+Word: fazer, start_time: 2381.8, end_time: 2382.0 
+Word: cocô, start_time: 2382.0, end_time: 2382.7 
+Word: no, start_time: 2382.7, end_time: 2383.0 
+Word: trecho, start_time: 2383.0, end_time: 2383.5 
+Word: a, start_time: 2383.5, end_time: 2383.9 
+Word: última, start_time: 2383.9, end_time: 2384.3 
+Word: trifil, start_time: 2384.3, end_time: 2385.2 
+Word: do, start_time: 2385.2, end_time: 2385.4 
+Word: not, start_time: 2385.4, end_time: 2385.7 
+Word: have, start_time: 2385.7, end_time: 2386.0 
+Word: em, start_time: 2386.0, end_time: 2386.1 
+Word: memoria, start_time: 2386.1, end_time: 2388.4 
+Word: 16, start_time: 2388.4, end_time: 2392.1 
+Word: anos, start_time: 2392.1, end_time: 2392.4 
+Word: da, start_time: 2392.4, end_time: 2392.5 
+Word: queda, start_time: 2392.5, end_time: 2393.4 
+Word: do, start_time: 2393.4, end_time: 2393.5 
+Word: império, start_time: 2393.5, end_time: 2393.7 
+Word: generator, start_time: 2393.7, end_time: 2395.5 
+Word: frustration, start_time: 2395.5, end_time: 2396.5 
+Word: Mortífera, start_time: 2396.5, end_time: 2398.1 
+Word: série, start_time: 2398.1, end_time: 2398.8 
+Word: online, start_time: 2398.8, end_time: 2399.1 
+Word: Cristóvão, start_time: 2399.1, end_time: 2401.3 
+Word: Alves, start_time: 2401.3, end_time: 2401.9 
+Word: livre, start_time: 2401.9, end_time: 2402.7 
+Word: desbloqueado, start_time: 2402.7, end_time: 2408.0 
+Word: envolve, start_time: 2408.0, end_time: 2411.0 
+Word: em, start_time: 2411.0, end_time: 2411.6 
+Word: negócios, start_time: 2411.6, end_time: 2411.9 
+Word: por, start_time: 2411.9, end_time: 2413.3 
+Word: internet, start_time: 2413.3, end_time: 2414.2 
+Transcript:  viva Glam for you somos falhos e errantes processo urbanil generated em comercialização de Peres paniágua toque da buzina original do Cobalt automático 1017 automático LXS Como escreve automaticamente 
+confidence: 0.8533193469047546 
+
+Word: viva, start_time: 2415.2, end_time: 2415.7 
+Word: Glam, start_time: 2415.7, end_time: 2416.1 
+Word: for, start_time: 2416.1, end_time: 2416.7 
+Word: you, start_time: 2416.7, end_time: 2416.8 
+Word: somos, start_time: 2416.8, end_time: 2417.4 
+Word: falhos, start_time: 2417.4, end_time: 2417.8 
+Word: e, start_time: 2417.8, end_time: 2417.9 
+Word: errantes, start_time: 2417.9, end_time: 2417.9 
+Word: processo, start_time: 2417.9, end_time: 2420.8 
+Word: urbanil, start_time: 2420.8, end_time: 2421.9 
+Word: generated, start_time: 2421.9, end_time: 2423.0 
+Word: em, start_time: 2423.0, end_time: 2423.0 
+Word: comercialização, start_time: 2423.0, end_time: 2424.8 
+Word: de, start_time: 2424.8, end_time: 2428.2 
+Word: Peres, start_time: 2428.2, end_time: 2428.9 
+Word: paniágua, start_time: 2428.9, end_time: 2429.2 
+Word: toque, start_time: 2429.2, end_time: 2429.9 
+Word: da, start_time: 2429.9, end_time: 2430.1 
+Word: buzina, start_time: 2430.1, end_time: 2430.6 
+Word: original, start_time: 2430.6, end_time: 2431.1 
+Word: do, start_time: 2431.1, end_time: 2432.5 
+Word: Cobalt, start_time: 2432.5, end_time: 2437.0 
+Word: automático, start_time: 2437.0, end_time: 2441.1 
+Word: 1017, start_time: 2441.1, end_time: 2447.8 
+Word: automático, start_time: 2447.8, end_time: 2450.4 
+Word: LXS, start_time: 2450.4, end_time: 2453.7 
+Word: Como, start_time: 2453.7, end_time: 2454.8 
+Word: escreve, start_time: 2454.8, end_time: 2457.8 
+Word: automaticamente, start_time: 2457.8, end_time: 2464.7 
+Transcript:  vídeo assalto de novembro2017 da Integração Mineirão Minas benefícios do futebol para ouvir vídeos dos Power Rangers Ninja Steel Frame 
+confidence: 0.7544406056404114 
+
+Word: vídeo, start_time: 2466.5, end_time: 2467.7 
+Word: assalto, start_time: 2467.7, end_time: 2468.1 
+Word: de, start_time: 2468.1, end_time: 2468.3 
+Word: novembro2017, start_time: 2468.3, end_time: 2470.9 
+Word: da, start_time: 2470.9, end_time: 2472.3 
+Word: Integração, start_time: 2472.3, end_time: 2473.2 
+Word: Mineirão, start_time: 2473.2, end_time: 2474.9 
+Word: Minas, start_time: 2474.9, end_time: 2475.4 
+Word: benefícios, start_time: 2475.4, end_time: 2476.5 
+Word: do, start_time: 2476.5, end_time: 2480.8 
+Word: futebol, start_time: 2480.8, end_time: 2481.7 
+Word: para, start_time: 2481.7, end_time: 2481.9 
+Word: ouvir, start_time: 2481.9, end_time: 2482.7 
+Word: vídeos, start_time: 2482.7, end_time: 2484.3 
+Word: dos, start_time: 2484.3, end_time: 2484.5 
+Word: Power, start_time: 2484.5, end_time: 2484.8 
+Word: Rangers, start_time: 2484.8, end_time: 2485.6 
+Word: Ninja, start_time: 2485.6, end_time: 2487.5 
+Word: Steel, start_time: 2487.5, end_time: 2488.4 
+Word: Frame, start_time: 2488.4, end_time: 2490.1 
+Transcript:  exemplos de Exposições Uivantes tempestades tropicais Devo sair processo da Thássia e neolítico periféricos Ask naelyan 
+confidence: 0.7536866664886475 
+
+Word: exemplos, start_time: 2492.5, end_time: 2493.3 
+Word: de, start_time: 2493.3, end_time: 2493.5 
+Word: Exposições, start_time: 2493.5, end_time: 2495.5 
+Word: Uivantes, start_time: 2495.5, end_time: 2496.3 
+Word: tempestades, start_time: 2496.3, end_time: 2497.5 
+Word: tropicais, start_time: 2497.5, end_time: 2497.6 
+Word: Devo, start_time: 2497.6, end_time: 2498.6 
+Word: sair, start_time: 2498.6, end_time: 2498.8 
+Word: processo, start_time: 2498.8, end_time: 2499.1 
+Word: da, start_time: 2499.1, end_time: 2500.4 
+Word: Thássia, start_time: 2500.4, end_time: 2500.9 
+Word: e, start_time: 2500.9, end_time: 2501.0 
+Word: neolítico, start_time: 2501.0, end_time: 2501.8 
+Word: periféricos, start_time: 2501.8, end_time: 2504.3 
+Word: Ask, start_time: 2504.3, end_time: 2504.8 
+Word: naelyan, start_time: 2504.8, end_time: 2505.2 
+Transcript:  webcam microboard nb123x Minecraft for What mala e o resto 77 anos se aí site da Multiplus o louvor mais volta é de resto continua dando positivo estado islâmico girona ao movimento estudantil Era o fio do fone da Apple Craft 9minecraft chineses aula de canto dos advérbios só dá desligado 
+confidence: 0.8733996748924255 
+
+Word: webcam, start_time: 2507.3, end_time: 2508.0 
+Word: microboard, start_time: 2508.0, end_time: 2508.6 
+Word: nb123x, start_time: 2508.6, end_time: 2509.5 
+Word: Minecraft, start_time: 2509.5, end_time: 2512.5 
+Word: for, start_time: 2512.5, end_time: 2512.8 
+Word: What, start_time: 2512.8, end_time: 2513.4 
+Word: mala, start_time: 2513.4, end_time: 2513.7 
+Word: e, start_time: 2513.7, end_time: 2514.5 
+Word: o, start_time: 2514.5, end_time: 2515.1 
+Word: resto, start_time: 2515.1, end_time: 2515.5 
+Word: 77, start_time: 2515.5, end_time: 2516.3 
+Word: anos, start_time: 2516.3, end_time: 2516.9 
+Word: se, start_time: 2516.9, end_time: 2520.8 
+Word: aí, start_time: 2520.8, end_time: 2521.0 
+Word: site, start_time: 2521.0, end_time: 2521.6 
+Word: da, start_time: 2521.6, end_time: 2521.8 
+Word: Multiplus, start_time: 2521.8, end_time: 2522.7 
+Word: o, start_time: 2522.7, end_time: 2523.4 
+Word: louvor, start_time: 2523.4, end_time: 2524.5 
+Word: mais, start_time: 2524.5, end_time: 2525.0 
+Word: volta, start_time: 2525.0, end_time: 2526.0 
+Word: é, start_time: 2526.0, end_time: 2526.4 
+Word: de, start_time: 2526.4, end_time: 2526.5 
+Word: resto, start_time: 2526.5, end_time: 2526.8 
+Word: continua, start_time: 2526.8, end_time: 2527.4 
+Word: dando, start_time: 2527.4, end_time: 2527.9 
+Word: positivo, start_time: 2527.9, end_time: 2528.2 
+Word: estado, start_time: 2528.2, end_time: 2529.4 
+Word: islâmico, start_time: 2529.4, end_time: 2531.6 
+Word: girona, start_time: 2531.6, end_time: 2531.9 
+Word: ao, start_time: 2531.9, end_time: 2532.0 
+Word: movimento, start_time: 2532.0, end_time: 2533.8 
+Word: estudantil, start_time: 2533.8, end_time: 2534.1 
+Word: Era, start_time: 2534.1, end_time: 2534.8 
+Word: o, start_time: 2534.8, end_time: 2534.8 
+Word: fio, start_time: 2534.8, end_time: 2535.0 
+Word: do, start_time: 2535.0, end_time: 2536.3 
+Word: fone, start_time: 2536.3, end_time: 2536.4 
+Word: da, start_time: 2536.4, end_time: 2536.6 
+Word: Apple, start_time: 2536.6, end_time: 2536.8 
+Word: Craft, start_time: 2536.8, end_time: 2537.2 
+Word: 9minecraft, start_time: 2537.2, end_time: 2540.2 
+Word: chineses, start_time: 2540.2, end_time: 2543.1 
+Word: aula, start_time: 2543.1, end_time: 2543.7 
+Word: de, start_time: 2543.7, end_time: 2543.8 
+Word: canto, start_time: 2543.8, end_time: 2544.2 
+Word: dos, start_time: 2544.2, end_time: 2544.4 
+Word: advérbios, start_time: 2544.4, end_time: 2547.4 
+Word: só, start_time: 2547.4, end_time: 2547.4 
+Word: dá, start_time: 2547.4, end_time: 2550.1 
+Word: desligado, start_time: 2550.1, end_time: 2550.9 
+Transcript:  baixar drive notebook Positivo reiniciando Play Store Google Web Store 
+confidence: 0.7372203469276428 
+
+Word: baixar, start_time: 2557.7, end_time: 2558.3 
+Word: drive, start_time: 2558.3, end_time: 2558.9 
+Word: notebook, start_time: 2558.9, end_time: 2559.2 
+Word: Positivo, start_time: 2559.2, end_time: 2559.8 
+Word: reiniciando, start_time: 2559.8, end_time: 2562.1 
+Word: Play, start_time: 2562.1, end_time: 2564.9 
+Word: Store, start_time: 2564.9, end_time: 2565.9 
+Word: Google, start_time: 2565.9, end_time: 2566.2 
+Word: Web, start_time: 2566.2, end_time: 2566.7 
+Word: Store, start_time: 2566.7, end_time: 2570.6 
+Transcript:  fica comigo amor e você em inglês 
+confidence: 0.6534643769264221 
+
+Word: fica, start_time: 2577.2, end_time: 2578.8 
+Word: comigo, start_time: 2578.8, end_time: 2579.3 
+Word: amor, start_time: 2579.3, end_time: 2592.9 
+Word: e, start_time: 2592.9, end_time: 2593.0 
+Word: você, start_time: 2593.0, end_time: 2593.9 
+Word: em, start_time: 2593.9, end_time: 2594.0 
+Word: inglês, start_time: 2594.0, end_time: 2594.6 
+Transcript:  justificativa 
+confidence: 0.4649151563644409 
+
+Word: justificativa, start_time: 2597.6, end_time: 2599.3 
+Transcript:  Deus nos batimentos Kitty Kitty em chinês morrer de admissão da palavra pioneiro.com Caxias em Capitão Pitoco 
+confidence: 0.6643747091293335 
+
+Word: Deus, start_time: 2606.2, end_time: 2606.8 
+Word: nos, start_time: 2606.8, end_time: 2607.0 
+Word: batimentos, start_time: 2607.0, end_time: 2607.8 
+Word: Kitty, start_time: 2607.8, end_time: 2608.5 
+Word: Kitty, start_time: 2608.5, end_time: 2610.4 
+Word: em, start_time: 2610.4, end_time: 2610.5 
+Word: chinês, start_time: 2610.5, end_time: 2610.7 
+Word: morrer, start_time: 2610.7, end_time: 2611.9 
+Word: de, start_time: 2611.9, end_time: 2612.0 
+Word: admissão, start_time: 2612.0, end_time: 2612.6 
+Word: da, start_time: 2612.6, end_time: 2612.7 
+Word: palavra, start_time: 2612.7, end_time: 2613.0 
+Word: pioneiro.com, start_time: 2613.0, end_time: 2614.9 
+Word: Caxias, start_time: 2614.9, end_time: 2620.2 
+Word: em, start_time: 2620.2, end_time: 2620.7 
+Word: Capitão, start_time: 2620.7, end_time: 2620.9 
+Word: Pitoco, start_time: 2620.9, end_time: 2623.3 
+Transcript:  more or less and fewer 
+confidence: 0.687859833240509 
+
+Word: more, start_time: 2625.5, end_time: 2626.6 
+Word: or, start_time: 2626.6, end_time: 2626.7 
+Word: less, start_time: 2626.7, end_time: 2626.7 
+Word: and, start_time: 2626.7, end_time: 2627.0 
+Word: fewer, start_time: 2627.0, end_time: 2627.4 
+Transcript:  My Girls Generation não muda de remédio que pare de querer engravidar 
+confidence: 0.8213158845901489 
+
+Word: My, start_time: 2628.7, end_time: 2629.2 
+Word: Girls, start_time: 2629.2, end_time: 2629.5 
+Word: Generation, start_time: 2629.5, end_time: 2630.4 
+Word: não, start_time: 2630.4, end_time: 2630.7 
+Word: muda, start_time: 2630.7, end_time: 2631.1 
+Word: de, start_time: 2631.1, end_time: 2631.2 
+Word: remédio, start_time: 2631.2, end_time: 2631.5 
+Word: que, start_time: 2631.5, end_time: 2632.8 
+Word: pare, start_time: 2632.8, end_time: 2633.4 
+Word: de, start_time: 2633.4, end_time: 2633.6 
+Word: querer, start_time: 2633.6, end_time: 2633.7 
+Word: engravidar, start_time: 2633.7, end_time: 2634.3 
+Transcript:  desfragmentar disco' Have a Bad Day when the Given name is it necessary legenda Dexter Dexter em português de Paulo antes de subir ela disse não ela me adicionar no suporte do vice-presidente da Turkish Airlines e unilateral e squash 
+confidence: 0.835800290107727 
+
+Word: desfragmentar, start_time: 2638.7, end_time: 2640.0 
+Word: disco', start_time: 2640.0, end_time: 2640.3 
+Word: Have, start_time: 2640.3, end_time: 2641.6 
+Word: a, start_time: 2641.6, end_time: 2642.0 
+Word: Bad, start_time: 2642.0, end_time: 2644.3 
+Word: Day, start_time: 2644.3, end_time: 2644.7 
+Word: when, start_time: 2644.7, end_time: 2645.1 
+Word: the, start_time: 2645.1, end_time: 2645.5 
+Word: Given, start_time: 2645.5, end_time: 2645.7 
+Word: name, start_time: 2645.7, end_time: 2645.9 
+Word: is, start_time: 2645.9, end_time: 2646.2 
+Word: it, start_time: 2646.2, end_time: 2646.4 
+Word: necessary, start_time: 2646.4, end_time: 2647.0 
+Word: legenda, start_time: 2647.0, end_time: 2648.0 
+Word: Dexter, start_time: 2648.0, end_time: 2648.2 
+Word: Dexter, start_time: 2648.2, end_time: 2649.9 
+Word: em, start_time: 2649.9, end_time: 2654.0 
+Word: português, start_time: 2654.0, end_time: 2654.7 
+Word: de, start_time: 2654.7, end_time: 2655.5 
+Word: Paulo, start_time: 2655.5, end_time: 2655.9 
+Word: antes, start_time: 2655.9, end_time: 2656.2 
+Word: de, start_time: 2656.2, end_time: 2656.4 
+Word: subir, start_time: 2656.4, end_time: 2656.7 
+Word: ela, start_time: 2656.7, end_time: 2657.0 
+Word: disse, start_time: 2657.0, end_time: 2657.0 
+Word: não, start_time: 2657.0, end_time: 2657.5 
+Word: ela, start_time: 2657.5, end_time: 2657.7 
+Word: me, start_time: 2657.7, end_time: 2658.0 
+Word: adicionar, start_time: 2658.0, end_time: 2662.5 
+Word: no, start_time: 2662.5, end_time: 2662.7 
+Word: suporte, start_time: 2662.7, end_time: 2663.4 
+Word: do, start_time: 2663.4, end_time: 2664.4 
+Word: vice-presidente, start_time: 2664.4, end_time: 2665.1 
+Word: da, start_time: 2665.1, end_time: 2665.7 
+Word: Turkish, start_time: 2665.7, end_time: 2666.1 
+Word: Airlines, start_time: 2666.1, end_time: 2668.3 
+Word: e, start_time: 2668.3, end_time: 2668.5 
+Word: unilateral, start_time: 2668.5, end_time: 2669.8 
+Word: e, start_time: 2669.8, end_time: 2669.8 
+Word: squash, start_time: 2669.8, end_time: 2671.5 
+Transcript:  unimontes Academia Equilíbrio do corpo difícil 
+confidence: 0.7444289326667786 
+
+Word: unimontes, start_time: 2678.9, end_time: 2680.9 
+Word: Academia, start_time: 2680.9, end_time: 2681.6 
+Word: Equilíbrio, start_time: 2681.6, end_time: 2692.2 
+Word: do, start_time: 2692.2, end_time: 2692.3 
+Word: corpo, start_time: 2692.3, end_time: 2692.4 
+Word: difícil, start_time: 2692.4, end_time: 2693.6 
+Transcript:  WhatsApp web motors endereço Avenida Leme cartaz meio diferente entre 1980 ao câncer e pobres no podemos dicas de vendas de moto é perigoso deixar o nariz mais causa dentro do Point 70 milímetros ajudam a desculpa mas tem nome de ônibus aqui no bairro do Jaguaré 
+confidence: 0.9035524725914001 
+
+Word: WhatsApp, start_time: 2695.3, end_time: 2697.6 
+Word: web, start_time: 2697.6, end_time: 2698.4 
+Word: motors, start_time: 2698.4, end_time: 2699.2 
+Word: endereço, start_time: 2699.2, end_time: 2699.8 
+Word: Avenida, start_time: 2699.8, end_time: 2701.5 
+Word: Leme, start_time: 2701.5, end_time: 2708.4 
+Word: cartaz, start_time: 2708.4, end_time: 2708.9 
+Word: meio, start_time: 2708.9, end_time: 2709.9 
+Word: diferente, start_time: 2709.9, end_time: 2710.7 
+Word: entre, start_time: 2710.7, end_time: 2712.0 
+Word: 1980, start_time: 2712.0, end_time: 2715.0 
+Word: ao, start_time: 2715.0, end_time: 2715.3 
+Word: câncer, start_time: 2715.3, end_time: 2715.9 
+Word: e, start_time: 2715.9, end_time: 2716.7 
+Word: pobres, start_time: 2716.7, end_time: 2717.3 
+Word: no, start_time: 2717.3, end_time: 2717.6 
+Word: podemos, start_time: 2717.6, end_time: 2717.9 
+Word: dicas, start_time: 2717.9, end_time: 2718.5 
+Word: de, start_time: 2718.5, end_time: 2718.6 
+Word: vendas, start_time: 2718.6, end_time: 2718.9 
+Word: de, start_time: 2718.9, end_time: 2719.0 
+Word: moto, start_time: 2719.0, end_time: 2719.5 
+Word: é, start_time: 2719.5, end_time: 2719.8 
+Word: perigoso, start_time: 2719.8, end_time: 2720.9 
+Word: deixar, start_time: 2720.9, end_time: 2724.2 
+Word: o, start_time: 2724.2, end_time: 2724.8 
+Word: nariz, start_time: 2724.8, end_time: 2727.7 
+Word: mais, start_time: 2727.7, end_time: 2728.1 
+Word: causa, start_time: 2728.1, end_time: 2731.5 
+Word: dentro, start_time: 2731.5, end_time: 2731.6 
+Word: do, start_time: 2731.6, end_time: 2731.9 
+Word: Point, start_time: 2731.9, end_time: 2732.3 
+Word: 70, start_time: 2732.3, end_time: 2734.1 
+Word: milímetros, start_time: 2734.1, end_time: 2735.2 
+Word: ajudam, start_time: 2735.2, end_time: 2735.8 
+Word: a, start_time: 2735.8, end_time: 2736.2 
+Word: desculpa, start_time: 2736.2, end_time: 2744.1 
+Word: mas, start_time: 2744.1, end_time: 2744.4 
+Word: tem, start_time: 2744.4, end_time: 2744.7 
+Word: nome, start_time: 2744.7, end_time: 2747.4 
+Word: de, start_time: 2747.4, end_time: 2747.9 
+Word: ônibus, start_time: 2747.9, end_time: 2748.2 
+Word: aqui, start_time: 2748.2, end_time: 2748.4 
+Word: no, start_time: 2748.4, end_time: 2748.8 
+Word: bairro, start_time: 2748.8, end_time: 2749.2 
+Word: do, start_time: 2749.2, end_time: 2749.7 
+Word: Jaguaré, start_time: 2749.7, end_time: 2750.0 
+Transcript:  This is not clean master Express Diamond Suites Hortifruti Express x86 download para usar os três Macacos O Confronto da imaginaçao exercises gols do fundo da grota é normalmente são Bernardo do Campo Hypervenom 
+confidence: 0.8762302994728088 
+
+Word: This, start_time: 2755.3, end_time: 2756.7 
+Word: is, start_time: 2756.7, end_time: 2756.9 
+Word: not, start_time: 2756.9, end_time: 2757.1 
+Word: clean, start_time: 2757.1, end_time: 2758.3 
+Word: master, start_time: 2758.3, end_time: 2759.8 
+Word: Express, start_time: 2759.8, end_time: 2760.1 
+Word: Diamond, start_time: 2760.1, end_time: 2761.2 
+Word: Suites, start_time: 2761.2, end_time: 2761.7 
+Word: Hortifruti, start_time: 2761.7, end_time: 2762.8 
+Word: Express, start_time: 2762.8, end_time: 2764.9 
+Word: x86, start_time: 2764.9, end_time: 2768.4 
+Word: download, start_time: 2768.4, end_time: 2769.2 
+Word: para, start_time: 2769.2, end_time: 2770.1 
+Word: usar, start_time: 2770.1, end_time: 2770.4 
+Word: os, start_time: 2770.4, end_time: 2770.5 
+Word: três, start_time: 2770.5, end_time: 2770.7 
+Word: Macacos, start_time: 2770.7, end_time: 2775.3 
+Word: O, start_time: 2775.3, end_time: 2780.3 
+Word: Confronto, start_time: 2780.3, end_time: 2781.0 
+Word: da, start_time: 2781.0, end_time: 2781.3 
+Word: imaginaçao, start_time: 2781.3, end_time: 2782.8 
+Word: exercises, start_time: 2782.8, end_time: 2783.6 
+Word: gols, start_time: 2783.6, end_time: 2784.0 
+Word: do, start_time: 2784.0, end_time: 2785.4 
+Word: fundo, start_time: 2785.4, end_time: 2785.8 
+Word: da, start_time: 2785.8, end_time: 2786.0 
+Word: grota, start_time: 2786.0, end_time: 2786.2 
+Word: é, start_time: 2786.2, end_time: 2787.4 
+Word: normalmente, start_time: 2787.4, end_time: 2788.6 
+Word: são, start_time: 2788.6, end_time: 2789.6 
+Word: Bernardo, start_time: 2789.6, end_time: 2790.2 
+Word: do, start_time: 2790.2, end_time: 2791.0 
+Word: Campo, start_time: 2791.0, end_time: 2791.4 
+Word: Hypervenom, start_time: 2791.4, end_time: 2792.1 
+Transcript:  Nextel planos eleitorais 
+confidence: 0.5780528783798218 
+
+Word: Nextel, start_time: 2795.0, end_time: 2796.0 
+Word: planos, start_time: 2796.0, end_time: 2797.1 
+Word: eleitorais, start_time: 2797.1, end_time: 2798.6 
+Transcript:  Amy Winehouse Love is with great degree Freedom Fighters PS2 em Campestre 
+confidence: 0.5811318755149841 
+
+Word: Amy, start_time: 2800.1, end_time: 2801.0 
+Word: Winehouse, start_time: 2801.0, end_time: 2802.2 
+Word: Love, start_time: 2802.2, end_time: 2802.4 
+Word: is, start_time: 2802.4, end_time: 2802.7 
+Word: with, start_time: 2802.7, end_time: 2804.2 
+Word: great, start_time: 2804.2, end_time: 2806.0 
+Word: degree, start_time: 2806.0, end_time: 2806.4 
+Word: Freedom, start_time: 2806.4, end_time: 2806.8 
+Word: Fighters, start_time: 2806.8, end_time: 2807.5 
+Word: PS2, start_time: 2807.5, end_time: 2812.3 
+Word: em, start_time: 2812.3, end_time: 2813.8 
+Word: Campestre, start_time: 2813.8, end_time: 2816.5 
+Transcript:  telefone da Eletrolux 
+confidence: 0.5692160129547119 
+
+Word: telefone, start_time: 2847.8, end_time: 2850.2 
+Word: da, start_time: 2850.2, end_time: 2850.3 
+Word: Eletrolux, start_time: 2850.3, end_time: 2851.1 
+Transcript:  download Charlie Brown Jr sketchbook pro build soraka support driver Booster bmtv-9700dvusbt responde Space Fox para repelir Mosca e aviso logo suas 
+confidence: 0.868752658367157 
+
+Word: download, start_time: 2853.9, end_time: 2854.5 
+Word: Charlie, start_time: 2854.5, end_time: 2856.8 
+Word: Brown, start_time: 2856.8, end_time: 2857.0 
+Word: Jr, start_time: 2857.0, end_time: 2857.5 
+Word: sketchbook, start_time: 2857.5, end_time: 2860.2 
+Word: pro, start_time: 2860.2, end_time: 2866.0 
+Word: build, start_time: 2866.0, end_time: 2868.1 
+Word: soraka, start_time: 2868.1, end_time: 2868.8 
+Word: support, start_time: 2868.8, end_time: 2869.2 
+Word: driver, start_time: 2869.2, end_time: 2879.3 
+Word: Booster, start_time: 2879.3, end_time: 2880.4 
+Word: bmtv-9700dvusbt, start_time: 2880.4, end_time: 2891.9 
+Word: responde, start_time: 2891.9, end_time: 2907.1 
+Word: Space, start_time: 2907.1, end_time: 2907.4 
+Word: Fox, start_time: 2907.4, end_time: 2908.2 
+Word: para, start_time: 2908.2, end_time: 2908.5 
+Word: repelir, start_time: 2908.5, end_time: 2909.5 
+Word: Mosca, start_time: 2909.5, end_time: 2909.9 
+Word: e, start_time: 2909.9, end_time: 2910.3 
+Word: aviso, start_time: 2910.3, end_time: 2911.8 
+Word: logo, start_time: 2911.8, end_time: 2912.0 
+Word: suas, start_time: 2912.0, end_time: 2912.7 
+Transcript:  Ministério da Fazenda notícias americanas cantando Fire Let's going to Moscow 
+confidence: 0.61710524559021 
+
+Word: Ministério, start_time: 2913.8, end_time: 2915.7 
+Word: da, start_time: 2915.7, end_time: 2916.7 
+Word: Fazenda, start_time: 2916.7, end_time: 2918.7 
+Word: notícias, start_time: 2918.7, end_time: 2920.7 
+Word: americanas, start_time: 2920.7, end_time: 2927.3 
+Word: cantando, start_time: 2927.3, end_time: 2927.9 
+Word: Fire, start_time: 2927.9, end_time: 2928.4 
+Word: Let's, start_time: 2928.4, end_time: 2929.1 
+Word: going, start_time: 2929.1, end_time: 2930.3 
+Word: to, start_time: 2930.3, end_time: 2930.8 
+Word: Moscow, start_time: 2930.8, end_time: 2931.2 
+Transcript:  Netflix Netflix tracking Grimaldi por nextplus harley-davidson 1200 fundamental decepcionou hoje descansando site da Johnson 2017 depósito e o rastreio rastreio Spectrum local de lavar as mãos por meio desta camada de sairmos Hidden like Inácio Lula expectativa definiu das Águas do São Francisco 
+confidence: 0.8310111165046692 
+
+Word: Netflix, start_time: 2932.8, end_time: 2933.8 
+Word: Netflix, start_time: 2933.8, end_time: 2935.9 
+Word: tracking, start_time: 2935.9, end_time: 2936.3 
+Word: Grimaldi, start_time: 2936.3, end_time: 2937.4 
+Word: por, start_time: 2937.4, end_time: 2938.1 
+Word: nextplus, start_time: 2938.1, end_time: 2938.4 
+Word: harley-davidson, start_time: 2938.4, end_time: 2953.0 
+Word: 1200, start_time: 2953.0, end_time: 2956.4 
+Word: fundamental, start_time: 2956.4, end_time: 2957.3 
+Word: decepcionou, start_time: 2957.3, end_time: 2960.0 
+Word: hoje, start_time: 2960.0, end_time: 2960.5 
+Word: descansando, start_time: 2960.5, end_time: 2963.8 
+Word: site, start_time: 2963.8, end_time: 2964.2 
+Word: da, start_time: 2964.2, end_time: 2964.6 
+Word: Johnson, start_time: 2964.6, end_time: 2967.0 
+Word: 2017, start_time: 2967.0, end_time: 2968.8 
+Word: depósito, start_time: 2968.8, end_time: 2971.1 
+Word: e, start_time: 2971.1, end_time: 2971.5 
+Word: o, start_time: 2971.5, end_time: 2971.6 
+Word: rastreio, start_time: 2971.6, end_time: 2972.2 
+Word: rastreio, start_time: 2972.2, end_time: 2972.9 
+Word: Spectrum, start_time: 2972.9, end_time: 2973.8 
+Word: local, start_time: 2973.8, end_time: 2974.0 
+Word: de, start_time: 2974.0, end_time: 2975.3 
+Word: lavar, start_time: 2975.3, end_time: 2975.5 
+Word: as, start_time: 2975.5, end_time: 2975.7 
+Word: mãos, start_time: 2975.7, end_time: 2975.7 
+Word: por, start_time: 2975.7, end_time: 2977.0 
+Word: meio, start_time: 2977.0, end_time: 2977.5 
+Word: desta, start_time: 2977.5, end_time: 2978.0 
+Word: camada, start_time: 2978.0, end_time: 2978.3 
+Word: de, start_time: 2978.3, end_time: 2978.7 
+Word: sairmos, start_time: 2978.7, end_time: 2979.5 
+Word: Hidden, start_time: 2979.5, end_time: 2980.0 
+Word: like, start_time: 2980.0, end_time: 2980.5 
+Word: Inácio, start_time: 2980.5, end_time: 2982.2 
+Word: Lula, start_time: 2982.2, end_time: 2982.9 
+Word: expectativa, start_time: 2982.9, end_time: 2984.0 
+Word: definiu, start_time: 2984.0, end_time: 2985.3 
+Word: das, start_time: 2985.3, end_time: 2985.6 
+Word: Águas, start_time: 2985.6, end_time: 2985.9 
+Word: do, start_time: 2985.9, end_time: 2985.9 
+Word: São, start_time: 2985.9, end_time: 2986.1 
+Word: Francisco, start_time: 2986.1, end_time: 2986.1 
+Transcript:  eu vou te bater bastante positivos Abrir Play o sinal sobretudo iOS7 convidar uma pessoa que me ligou naquela época os objetivos da saga Collection PS4 americano Os lavrov quiser Quero engordar trânsito na Fernão Dias 
+confidence: 0.8652684092521667 
+
+Word: eu, start_time: 2989.5, end_time: 2990.8 
+Word: vou, start_time: 2990.8, end_time: 2990.9 
+Word: te, start_time: 2990.9, end_time: 2991.1 
+Word: bater, start_time: 2991.1, end_time: 2991.3 
+Word: bastante, start_time: 2991.3, end_time: 2991.7 
+Word: positivos, start_time: 2991.7, end_time: 2992.3 
+Word: Abrir, start_time: 2992.3, end_time: 2992.6 
+Word: Play, start_time: 2992.6, end_time: 2994.0 
+Word: o, start_time: 2994.0, end_time: 2994.1 
+Word: sinal, start_time: 2994.1, end_time: 2994.5 
+Word: sobretudo, start_time: 2994.5, end_time: 2995.1 
+Word: iOS7, start_time: 2995.1, end_time: 2995.6 
+Word: convidar, start_time: 2995.6, end_time: 2998.5 
+Word: uma, start_time: 2998.5, end_time: 2998.7 
+Word: pessoa, start_time: 2998.7, end_time: 2999.1 
+Word: que, start_time: 2999.1, end_time: 2999.2 
+Word: me, start_time: 2999.2, end_time: 2999.4 
+Word: ligou, start_time: 2999.4, end_time: 3000.2 
+Word: naquela, start_time: 3000.2, end_time: 3000.6 
+Word: época, start_time: 3000.6, end_time: 3001.3 
+Word: os, start_time: 3001.3, end_time: 3002.7 
+Word: objetivos, start_time: 3002.7, end_time: 3002.8 
+Word: da, start_time: 3002.8, end_time: 3016.4 
+Word: saga, start_time: 3016.4, end_time: 3017.0 
+Word: Collection, start_time: 3017.0, end_time: 3017.7 
+Word: PS4, start_time: 3017.7, end_time: 3020.6 
+Word: americano, start_time: 3020.6, end_time: 3032.7 
+Word: Os, start_time: 3032.7, end_time: 3033.2 
+Word: lavrov, start_time: 3033.2, end_time: 3033.8 
+Word: quiser, start_time: 3033.8, end_time: 3038.0 
+Word: Quero, start_time: 3038.0, end_time: 3038.3 
+Word: engordar, start_time: 3038.3, end_time: 3038.6 
+Word: trânsito, start_time: 3038.6, end_time: 3041.9 
+Word: na, start_time: 3041.9, end_time: 3042.0 
+Word: Fernão, start_time: 3042.0, end_time: 3043.9 
+Word: Dias, start_time: 3043.9, end_time: 3043.9 
+Transcript:  assobio rs-4210amp disposition ficar musculosa tribunal de justiça por dentro Extra Wikipédia Cristóvão Gaspar então então não vai ter respondido não 
+confidence: 0.7870522141456604 
+
+Word: assobio, start_time: 3046.6, end_time: 3047.8 
+Word: rs-4210amp, start_time: 3047.8, end_time: 3059.9 
+Word: disposition, start_time: 3059.9, end_time: 3060.6 
+Word: ficar, start_time: 3060.6, end_time: 3062.4 
+Word: musculosa, start_time: 3062.4, end_time: 3062.9 
+Word: tribunal, start_time: 3062.9, end_time: 3064.6 
+Word: de, start_time: 3064.6, end_time: 3064.7 
+Word: justiça, start_time: 3064.7, end_time: 3065.1 
+Word: por, start_time: 3065.1, end_time: 3065.3 
+Word: dentro, start_time: 3065.3, end_time: 3066.0 
+Word: Extra, start_time: 3066.0, end_time: 3066.3 
+Word: Wikipédia, start_time: 3066.3, end_time: 3067.5 
+Word: Cristóvão, start_time: 3067.5, end_time: 3071.6 
+Word: Gaspar, start_time: 3071.6, end_time: 3083.0 
+Word: então, start_time: 3083.0, end_time: 3083.4 
+Word: então, start_time: 3083.4, end_time: 3083.9 
+Word: não, start_time: 3083.9, end_time: 3084.2 
+Word: vai, start_time: 3084.2, end_time: 3084.4 
+Word: ter, start_time: 3084.4, end_time: 3084.5 
+Word: respondido, start_time: 3084.5, end_time: 3085.9 
+Word: não, start_time: 3085.9, end_time: 3086.2 
+Transcript:  esquece que me veja telefone da Stronda Claudinho eletronegativo da Tok Stok em Castro juntos novamente sinônimo de substrato PlayStation 
+confidence: 0.8314560651779175 
+
+Word: esquece, start_time: 3087.6, end_time: 3089.5 
+Word: que, start_time: 3089.5, end_time: 3089.6 
+Word: me, start_time: 3089.6, end_time: 3089.7 
+Word: veja, start_time: 3089.7, end_time: 3090.0 
+Word: telefone, start_time: 3090.0, end_time: 3090.1 
+Word: da, start_time: 3090.1, end_time: 3090.7 
+Word: Stronda, start_time: 3090.7, end_time: 3091.1 
+Word: Claudinho, start_time: 3091.1, end_time: 3091.8 
+Word: eletronegativo, start_time: 3091.8, end_time: 3093.5 
+Word: da, start_time: 3093.5, end_time: 3093.6 
+Word: Tok, start_time: 3093.6, end_time: 3113.7 
+Word: Stok, start_time: 3113.7, end_time: 3114.0 
+Word: em, start_time: 3114.0, end_time: 3114.1 
+Word: Castro, start_time: 3114.1, end_time: 3114.5 
+Word: juntos, start_time: 3114.5, end_time: 3114.6 
+Word: novamente, start_time: 3114.6, end_time: 3125.5 
+Word: sinônimo, start_time: 3125.5, end_time: 3128.0 
+Word: de, start_time: 3128.0, end_time: 3129.1 
+Word: substrato, start_time: 3129.1, end_time: 3137.8 
+Word: PlayStation, start_time: 3137.8, end_time: 3139.0 
+Transcript:  como baixar jogos de carros multiplayer História de reflexão de moléculas Nokia 222 pessoas administrativas Legends Twisted treeline entendeu os pauzinhos yu-gi-oh Power 
+confidence: 0.897294819355011 
+
+Word: como, start_time: 3147.5, end_time: 3163.9 
+Word: baixar, start_time: 3163.9, end_time: 3164.5 
+Word: jogos, start_time: 3164.5, end_time: 3164.9 
+Word: de, start_time: 3164.9, end_time: 3172.5 
+Word: carros, start_time: 3172.5, end_time: 3174.0 
+Word: multiplayer, start_time: 3174.0, end_time: 3174.9 
+Word: História, start_time: 3174.9, end_time: 3180.2 
+Word: de, start_time: 3180.2, end_time: 3180.3 
+Word: reflexão, start_time: 3180.3, end_time: 3181.6 
+Word: de, start_time: 3181.6, end_time: 3184.1 
+Word: moléculas, start_time: 3184.1, end_time: 3184.7 
+Word: Nokia, start_time: 3184.7, end_time: 3185.6 
+Word: 222, start_time: 3185.6, end_time: 3188.3 
+Word: pessoas, start_time: 3188.3, end_time: 3191.6 
+Word: administrativas, start_time: 3191.6, end_time: 3196.4 
+Word: Legends, start_time: 3196.4, end_time: 3198.4 
+Word: Twisted, start_time: 3198.4, end_time: 3198.6 
+Word: treeline, start_time: 3198.6, end_time: 3200.5 
+Word: entendeu, start_time: 3200.5, end_time: 3201.5 
+Word: os, start_time: 3201.5, end_time: 3201.8 
+Word: pauzinhos, start_time: 3201.8, end_time: 3203.4 
+Word: yu-gi-oh, start_time: 3203.4, end_time: 3205.8 
+Word: Power, start_time: 3205.8, end_time: 3207.2 
+Transcript:  cabeça muito forte de sair daí pessoa amada 4shared Dia dos Pais da música do Face que Deus abençoe meus planos valorizei novas perspectivas Outback 
+confidence: 0.6379156708717346 
+
+Word: cabeça, start_time: 3207.8, end_time: 3208.5 
+Word: muito, start_time: 3208.5, end_time: 3208.6 
+Word: forte, start_time: 3208.6, end_time: 3209.1 
+Word: de, start_time: 3209.1, end_time: 3209.4 
+Word: sair, start_time: 3209.4, end_time: 3209.6 
+Word: daí, start_time: 3209.6, end_time: 3210.0 
+Word: pessoa, start_time: 3210.0, end_time: 3210.4 
+Word: amada, start_time: 3210.4, end_time: 3210.9 
+Word: 4shared, start_time: 3210.9, end_time: 3211.4 
+Word: Dia, start_time: 3211.4, end_time: 3212.9 
+Word: dos, start_time: 3212.9, end_time: 3213.1 
+Word: Pais, start_time: 3213.1, end_time: 3213.4 
+Word: da, start_time: 3213.4, end_time: 3213.5 
+Word: música, start_time: 3213.5, end_time: 3213.7 
+Word: do, start_time: 3213.7, end_time: 3214.0 
+Word: Face, start_time: 3214.0, end_time: 3221.5 
+Word: que, start_time: 3221.5, end_time: 3221.6 
+Word: Deus, start_time: 3221.6, end_time: 3221.6 
+Word: abençoe, start_time: 3221.6, end_time: 3222.2 
+Word: meus, start_time: 3222.2, end_time: 3240.3 
+Word: planos, start_time: 3240.3, end_time: 3243.2 
+Word: valorizei, start_time: 3243.2, end_time: 3244.8 
+Word: novas, start_time: 3244.8, end_time: 3246.1 
+Word: perspectivas, start_time: 3246.1, end_time: 3248.1 
+Word: Outback, start_time: 3248.1, end_time: 3249.1 
+Transcript:  desejo essa características da atual 
+confidence: 0.4923790395259857 
+
+Word: desejo, start_time: 3255.6, end_time: 3256.8 
+Word: essa, start_time: 3256.8, end_time: 3257.0 
+Word: características, start_time: 3257.0, end_time: 3257.9 
+Word: da, start_time: 3257.9, end_time: 3258.0 
+Word: atual, start_time: 3258.0, end_time: 3259.7 
+Transcript:  l'hospital Rule of Fighter 97 no YouTube de exercícios resolvidos fundamentos sinônimo trouxe rounds medidas último agora eu sei me cuidar of warships WhatsApp e ninguém mexe no setor n710 quantidades de líquidos e fluídos e ninguém sem usar fogão industrial em potencial hidrelétrico prospecto bom 
+confidence: 0.8123104572296143 
+
+Word: l'hospital, start_time: 3261.4, end_time: 3262.2 
+Word: Rule, start_time: 3262.2, end_time: 3262.4 
+Word: of, start_time: 3262.4, end_time: 3263.8 
+Word: Fighter, start_time: 3263.8, end_time: 3264.2 
+Word: 97, start_time: 3264.2, end_time: 3265.2 
+Word: no, start_time: 3265.2, end_time: 3265.4 
+Word: YouTube, start_time: 3265.4, end_time: 3265.7 
+Word: de, start_time: 3265.7, end_time: 3267.1 
+Word: exercícios, start_time: 3267.1, end_time: 3267.9 
+Word: resolvidos, start_time: 3267.9, end_time: 3278.3 
+Word: fundamentos, start_time: 3278.3, end_time: 3278.5 
+Word: sinônimo, start_time: 3278.5, end_time: 3280.9 
+Word: trouxe, start_time: 3280.9, end_time: 3286.1 
+Word: rounds, start_time: 3286.1, end_time: 3288.7 
+Word: medidas, start_time: 3288.7, end_time: 3292.8 
+Word: último, start_time: 3292.8, end_time: 3293.1 
+Word: agora, start_time: 3293.1, end_time: 3293.2 
+Word: eu, start_time: 3293.2, end_time: 3294.5 
+Word: sei, start_time: 3294.5, end_time: 3294.8 
+Word: me, start_time: 3294.8, end_time: 3295.4 
+Word: cuidar, start_time: 3295.4, end_time: 3295.8 
+Word: of, start_time: 3295.8, end_time: 3297.6 
+Word: warships, start_time: 3297.6, end_time: 3298.4 
+Word: WhatsApp, start_time: 3298.4, end_time: 3299.0 
+Word: e, start_time: 3299.0, end_time: 3299.2 
+Word: ninguém, start_time: 3299.2, end_time: 3299.7 
+Word: mexe, start_time: 3299.7, end_time: 3301.0 
+Word: no, start_time: 3301.0, end_time: 3301.1 
+Word: setor, start_time: 3301.1, end_time: 3301.6 
+Word: n710, start_time: 3301.6, end_time: 3302.8 
+Word: quantidades, start_time: 3302.8, end_time: 3304.0 
+Word: de, start_time: 3304.0, end_time: 3304.1 
+Word: líquidos, start_time: 3304.1, end_time: 3304.4 
+Word: e, start_time: 3304.4, end_time: 3304.7 
+Word: fluídos, start_time: 3304.7, end_time: 3304.8 
+Word: e, start_time: 3304.8, end_time: 3305.9 
+Word: ninguém, start_time: 3305.9, end_time: 3306.6 
+Word: sem, start_time: 3306.6, end_time: 3308.7 
+Word: usar, start_time: 3308.7, end_time: 3309.1 
+Word: fogão, start_time: 3309.1, end_time: 3309.4 
+Word: industrial, start_time: 3309.4, end_time: 3312.2 
+Word: em, start_time: 3312.2, end_time: 3313.5 
+Word: potencial, start_time: 3313.5, end_time: 3314.8 
+Word: hidrelétrico, start_time: 3314.8, end_time: 3316.9 
+Word: prospecto, start_time: 3316.9, end_time: 3317.8 
+Word: bom, start_time: 3317.8, end_time: 3318.7 
+Transcript:  Web of Shadows Universe universo dos outros e Olívia Porto Nacional State of Trance fundamental de português na Augusto de Mari 
+confidence: 0.9038581252098083 
+
+Word: Web, start_time: 3321.4, end_time: 3323.5 
+Word: of, start_time: 3323.5, end_time: 3332.1 
+Word: Shadows, start_time: 3332.1, end_time: 3332.3 
+Word: Universe, start_time: 3332.3, end_time: 3335.2 
+Word: universo, start_time: 3335.2, end_time: 3335.9 
+Word: dos, start_time: 3335.9, end_time: 3336.0 
+Word: outros, start_time: 3336.0, end_time: 3336.5 
+Word: e, start_time: 3336.5, end_time: 3336.7 
+Word: Olívia, start_time: 3336.7, end_time: 3337.4 
+Word: Porto, start_time: 3337.4, end_time: 3338.1 
+Word: Nacional, start_time: 3338.1, end_time: 3338.9 
+Word: State, start_time: 3338.9, end_time: 3339.2 
+Word: of, start_time: 3339.2, end_time: 3340.7 
+Word: Trance, start_time: 3340.7, end_time: 3341.3 
+Word: fundamental, start_time: 3341.3, end_time: 3344.4 
+Word: de, start_time: 3344.4, end_time: 3345.3 
+Word: português, start_time: 3345.3, end_time: 3347.4 
+Word: na, start_time: 3347.4, end_time: 3350.8 
+Word: Augusto, start_time: 3350.8, end_time: 3350.9 
+Word: de, start_time: 3350.9, end_time: 3353.1 
+Word: Mari, start_time: 3353.1, end_time: 3356.2 
+Transcript:  me marca de motocross 
+confidence: 0.6036121249198914 
+
+Word: me, start_time: 3359.0, end_time: 3362.2 
+Word: marca, start_time: 3362.2, end_time: 3362.7 
+Word: de, start_time: 3362.7, end_time: 3362.8 
+Word: motocross, start_time: 3362.8, end_time: 3363.2 
+Transcript:  Windows 7 Red Special Edition 320 
+confidence: 0.5448691844940186 
+
+Word: Windows, start_time: 3365.5, end_time: 3367.0 
+Word: 7, start_time: 3367.0, end_time: 3378.8 
+Word: Red, start_time: 3378.8, end_time: 3381.3 
+Word: Special, start_time: 3381.3, end_time: 3381.6 
+Word: Edition, start_time: 3381.6, end_time: 3382.0 
+Word: 320, start_time: 3382.0, end_time: 3387.3 
+
+ Duração de todo processo: 30.17 minutos 
+Duração do processo de transcrição: 28.42 minutos 
