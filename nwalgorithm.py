@@ -1,28 +1,29 @@
-import numpy as np
 import time
+import numpy as np
+from functions import match_using_edit_distance
 
-text_big = 'quero uma frase de teste que funcione para o nosso exemplo'
-text_small = 'Não quero uma frase para o nosso exemplo'
-
-text_big = text_big.split()
-text_small = text_small.split()
-
-def nw_forwords(text_small, text_big, match=1, mismatch=-1, w_insert=-1, w_delete=-1):
+def nw_forwords(text_small, text_big, match=1, mismatch=-1, w_insert=-1, w_delete=-1, distance = False):
 
     len_texts = [len(text_small), len(text_big)]
 
     nw_matrix = np.zeros(shape=(len_texts[0], len_texts[1]))
 
-    nw_matrix[0,:] = nw_matrix[0,:] + [i * w_insert for i in range(0, len_texts[1])]
-    nw_matrix[:,0] = nw_matrix[:, 0] + [i * w_delete for i in range(0, len_texts[0])]
+    nw_matrix[0,:] = nw_matrix[0,:] + [i * w_delete for i in range(0, len_texts[1])]
+    nw_matrix[:,0] = nw_matrix[:, 0] + [i * w_insert for i in range(0, len_texts[0])]
 
     for i in range(1, len_texts[0]):
         for j in range(1, len_texts[1]):
 
-            if text_small[i-1] == text_big[j-1]:
-                S = match
+            if distance == False:
+                if text_small[i-1] == text_big[j-1]:
+                    S = match
+                else:
+                    S = mismatch
             else:
-                S = mismatch
+                if match_using_edit_distance(text_small[i-1], text_big[j-1]) == True:
+                    S = match
+                else:
+                    S = mismatch
 
             diag = nw_matrix[i-1,j-1]
             up = nw_matrix[i-1, j]
@@ -34,9 +35,7 @@ def nw_forwords(text_small, text_big, match=1, mismatch=-1, w_insert=-1, w_delet
 
     return nw_matrix
 
-nw_forwords(text_small, text_big)
-
-def best_align(text_1, text_2, match=1, mismatch=-1, w_insert=-1, w_delete=-1):
+def best_align(text_1, text_2, match=1, mismatch=-1, w_insert=-1, w_delete=-1, distance = False):
 
     duration = time.time()
 
@@ -52,7 +51,8 @@ def best_align(text_1, text_2, match=1, mismatch=-1, w_insert=-1, w_delete=-1):
         text_big = text_2.split()
 
 
-    nw_matrix = nw_forwords(text_small, text_big, match=match, mismatch=mismatch, w_insert=w_insert, w_delete=w_delete)
+    nw_matrix = nw_forwords(text_small, text_big, match=match, mismatch=mismatch, w_insert=w_insert, w_delete=w_delete,
+                            distance=False)
 
     i, j = [len(text_small)-1, len(text_big)-1]
 
@@ -105,14 +105,3 @@ def best_align(text_1, text_2, match=1, mismatch=-1, w_insert=-1, w_delete=-1):
     duration = time.time() - duration
 
     return alignment_small, alignment_big, nw_matrix, caminho, duration
-
-
-#text_1 = 'quero uma frase de teste que funcione para o nosso exemplo'
-#text_2 = 'Não quero uma frase para o nosso exemplo'
-
-#sample_1, sample_2, nw_matrix, caminho, duration = best_align(text_1,text_2,1,-1,-1,-1)
-#print(sample_1)
-#print(sample_2)
-#print(nw_matrix)
-#print(caminho)
-#print(duration)

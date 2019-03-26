@@ -1,0 +1,141 @@
+Transcript: quase morri do coração quando ela me convidou a conhecer o Seu apê Chama de Amor o tempo todo Eu me Levanto de pedreiro de bombeiro encanador não era amor não era amor era não era 
+confidence: 0.8617095351219177 
+
+Word: quase, start_time: 0.0, end_time: 11.5 
+Word: morri, start_time: 11.5, end_time: 12.0 
+Word: do, start_time: 12.0, end_time: 12.2 
+Word: coração, start_time: 12.2, end_time: 12.3 
+Word: quando, start_time: 12.3, end_time: 13.5 
+Word: ela, start_time: 13.5, end_time: 14.2 
+Word: me, start_time: 14.2, end_time: 14.4 
+Word: convidou, start_time: 14.4, end_time: 15.4 
+Word: a, start_time: 15.4, end_time: 15.7 
+Word: conhecer, start_time: 15.7, end_time: 16.8 
+Word: o, start_time: 16.8, end_time: 16.9 
+Word: Seu, start_time: 16.9, end_time: 17.3 
+Word: apê, start_time: 17.3, end_time: 17.8 
+Word: Chama, start_time: 17.8, end_time: 18.6 
+Word: de, start_time: 18.6, end_time: 18.9 
+Word: Amor, start_time: 18.9, end_time: 20.0 
+Word: o, start_time: 20.0, end_time: 20.1 
+Word: tempo, start_time: 20.1, end_time: 22.1 
+Word: todo, start_time: 22.1, end_time: 24.2 
+Word: Eu, start_time: 24.2, end_time: 25.4 
+Word: me, start_time: 25.4, end_time: 25.6 
+Word: Levanto, start_time: 25.6, end_time: 26.2 
+Word: de, start_time: 26.2, end_time: 26.4 
+Word: pedreiro, start_time: 26.4, end_time: 27.4 
+Word: de, start_time: 27.4, end_time: 27.7 
+Word: bombeiro, start_time: 27.7, end_time: 27.9 
+Word: encanador, start_time: 27.9, end_time: 28.6 
+Word: não, start_time: 28.6, end_time: 49.2 
+Word: era, start_time: 49.2, end_time: 50.3 
+Word: amor, start_time: 50.3, end_time: 51.1 
+Word: não, start_time: 51.1, end_time: 53.8 
+Word: era, start_time: 53.8, end_time: 54.4 
+Word: amor, start_time: 54.4, end_time: 55.1 
+Word: era, start_time: 55.1, end_time: 56.6 
+Word: não, start_time: 56.6, end_time: 58.8 
+Word: era, start_time: 58.8, end_time: 59.6 
+Transcript: não era amor tá demorando de dançar quadrilha e me sentindo mal depois eu esqueci celular e fez um brinde aquele clima envolvente acelerou meu coração ficou gigante de repente todo sujo de vegetação não era amor não era amor 
+confidence: 0.8042312264442444 
+
+Word: não, start_time: 59.9, end_time: 63.5 
+Word: era, start_time: 63.5, end_time: 64.1 
+Word: amor, start_time: 64.1, end_time: 64.7 
+Word: tá, start_time: 64.7, end_time: 66.9 
+Word: demorando, start_time: 66.9, end_time: 76.5 
+Word: de, start_time: 76.5, end_time: 77.2 
+Word: dançar, start_time: 77.2, end_time: 77.9 
+Word: quadrilha, start_time: 77.9, end_time: 78.4 
+Word: e, start_time: 78.4, end_time: 78.8 
+Word: me, start_time: 78.8, end_time: 78.9 
+Word: sentindo, start_time: 78.9, end_time: 79.8 
+Word: mal, start_time: 79.8, end_time: 80.2 
+Word: depois, start_time: 80.2, end_time: 80.7 
+Word: eu, start_time: 80.7, end_time: 81.1 
+Word: esqueci, start_time: 81.1, end_time: 81.8 
+Word: celular, start_time: 81.8, end_time: 82.1 
+Word: e, start_time: 82.1, end_time: 82.6 
+Word: fez, start_time: 82.6, end_time: 83.2 
+Word: um, start_time: 83.2, end_time: 83.3 
+Word: brinde, start_time: 83.3, end_time: 83.8 
+Word: aquele, start_time: 83.8, end_time: 85.6 
+Word: clima, start_time: 85.6, end_time: 86.1 
+Word: envolvente, start_time: 86.1, end_time: 86.6 
+Word: acelerou, start_time: 86.6, end_time: 88.1 
+Word: meu, start_time: 88.1, end_time: 88.4 
+Word: coração, start_time: 88.4, end_time: 88.6 
+Word: ficou, start_time: 88.6, end_time: 90.0 
+Word: gigante, start_time: 90.0, end_time: 90.3 
+Word: de, start_time: 90.3, end_time: 90.9 
+Word: repente, start_time: 90.9, end_time: 91.8 
+Word: todo, start_time: 91.8, end_time: 92.4 
+Word: sujo, start_time: 92.4, end_time: 92.7 
+Word: de, start_time: 92.7, end_time: 92.9 
+Word: vegetação, start_time: 92.9, end_time: 94.0 
+Word: não, start_time: 94.0, end_time: 113.4 
+Word: era, start_time: 113.4, end_time: 114.6 
+Word: amor, start_time: 114.6, end_time: 115.3 
+Word: não, start_time: 115.3, end_time: 118.0 
+Word: era, start_time: 118.0, end_time: 118.6 
+Word: amor, start_time: 118.6, end_time: 119.3 
+Transcript: não era amor não era amor era a memória do coração quando ela me convidou para conhecer o seu apelido amarei Amor o tempo inteiro com seu jeitinho sedutor eu fiz serviço de pedreiro de bombeiro encanador você não era amor 
+confidence: 0.8945706486701965 
+
+Word: não, start_time: 119.9, end_time: 123.0 
+Word: era, start_time: 123.0, end_time: 123.7 
+Word: amor, start_time: 123.7, end_time: 124.3 
+Word: não, start_time: 124.3, end_time: 127.1 
+Word: era, start_time: 127.1, end_time: 127.7 
+Word: amor, start_time: 127.7, end_time: 128.4 
+Word: era, start_time: 128.4, end_time: 129.9 
+Word: a, start_time: 129.9, end_time: 131.0 
+Word: memória, start_time: 131.0, end_time: 140.8 
+Word: do, start_time: 140.8, end_time: 140.9 
+Word: coração, start_time: 140.9, end_time: 141.2 
+Word: quando, start_time: 141.2, end_time: 142.5 
+Word: ela, start_time: 142.5, end_time: 142.9 
+Word: me, start_time: 142.9, end_time: 143.2 
+Word: convidou, start_time: 143.2, end_time: 144.1 
+Word: para, start_time: 144.1, end_time: 144.4 
+Word: conhecer, start_time: 144.4, end_time: 145.3 
+Word: o, start_time: 145.3, end_time: 145.5 
+Word: seu, start_time: 145.5, end_time: 145.6 
+Word: apelido, start_time: 145.6, end_time: 146.5 
+Word: amarei, start_time: 146.5, end_time: 147.7 
+Word: Amor, start_time: 147.7, end_time: 148.4 
+Word: o, start_time: 148.4, end_time: 148.7 
+Word: tempo, start_time: 148.7, end_time: 150.6 
+Word: inteiro, start_time: 150.6, end_time: 151.2 
+Word: com, start_time: 151.2, end_time: 151.5 
+Word: seu, start_time: 151.5, end_time: 151.7 
+Word: jeitinho, start_time: 151.7, end_time: 152.0 
+Word: sedutor, start_time: 152.0, end_time: 152.7 
+Word: eu, start_time: 152.7, end_time: 153.8 
+Word: fiz, start_time: 153.8, end_time: 154.0 
+Word: serviço, start_time: 154.0, end_time: 154.3 
+Word: de, start_time: 154.3, end_time: 154.9 
+Word: pedreiro, start_time: 154.9, end_time: 155.0 
+Word: de, start_time: 155.0, end_time: 155.8 
+Word: bombeiro, start_time: 155.8, end_time: 156.2 
+Word: encanador, start_time: 156.2, end_time: 157.0 
+Word: você, start_time: 157.0, end_time: 159.6 
+Word: não, start_time: 159.6, end_time: 177.7 
+Word: era, start_time: 177.7, end_time: 178.4 
+Word: amor, start_time: 178.4, end_time: 178.9 
+Transcript: não é amor não é amor não é amor 
+confidence: 0.9381453394889832 
+
+Word: não, start_time: 179.9, end_time: 182.2 
+Word: é, start_time: 182.2, end_time: 182.4 
+Word: amor, start_time: 182.4, end_time: 183.4 
+Word: não, start_time: 183.4, end_time: 186.3 
+Word: é, start_time: 186.3, end_time: 186.9 
+Word: amor, start_time: 186.9, end_time: 188.0 
+Word: não, start_time: 188.0, end_time: 190.8 
+Word: é, start_time: 190.8, end_time: 191.5 
+Word: amor, start_time: 191.5, end_time: 192.6 
+
+ Duração de todo processo: 1.64 minutos 
+Duração do processo de transcrição: 1.36 minutos 

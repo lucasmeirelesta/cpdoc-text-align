@@ -13,32 +13,16 @@ import numpy as np
 
 duracao_processo_total = time.time()
 
-import wave
-
 #Inserir teste de similaridade quando for fazer o match das palavras,
 #Escolher métrica de acuracidade
 #Otimizar o algoritmo
-
-#Solução funcional, mas não tão boa
-from numpy.random.mtrand import normal
 
 json_path = '/media/fexu/Tree1/FGV/Projetos/Speech-to-text-CPDOC-b6cbea64d516.json'
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = json_path
 
 audio_path = 'Entrevistas'
 
-#result = subprocess.run(['ls', 'Entrevistas'], stdout=subprocess.PIPE)
-#result.stdout.decode('utf-8')
-
-audio_name = "2347_carlos_santos_cruz_2016-10-21_01.wav"
-# audio_name = "pho_165_juscelino_kubitschek_i_1974-03-01_01a.wav"
-# audio_name = "pho_165_juscelino_kubitschek_i_1974-03-01_01b.wav"
-# audio_name = "pho_2303_marcel_biato_2016-06-14_06.wav"
-# audio_name = "pho_2303_marcel_biato_2016-06-15_03.wav"
-# audio_name = "pho_2309_gala_irene_2016-06-06_01.wav"
-# audio_name = "pho_2309_irene_gala_2016-06-07_03.wav"
-# audio_name = "pho_2331_antonio_palocci_2016-08-29_01.wav"
-#audio_name = "pho_2331_antonio_palocci_2016-08-29_02.wav"
+audio_name = "Molejo_-_Cilada-fOQ78QpFsds.flac"
 
 audio_path_name = os.path.join(audio_path, audio_name)
 
@@ -54,9 +38,6 @@ audio_name = audio_name.split(".")[0]+".flac"
 sf.write(audio_path_name, y, samplerate=s)
 
 del y
-
-#subprocess.call(['zip', audio_name+'.zip', audio_path_name])
-#subprocess.call('gsutil cp {} gs://speech-cpdoc/audio_sampe'.format(audio_name+'.zip'), shell=True)
 
 subprocess.call('gsutil cp {} gs://speech-cpdoc/audio-sample/{}'.format(audio_path_name, audio_name), shell=True)
 
