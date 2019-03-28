@@ -2,33 +2,29 @@ import nwalgorithm
 import re
 import time
 import numpy as np
-import functions
+import genfunctions
 
 
 with open("Entrevistas/2347_carlos_santos_cruz_2016-10-21_01.txt", 'r') as f:
     transcricao_humana = f.read()
-    transcricao_humana = functions.parse_transcription_human(transcricao_humana)
+    transcricao_humana = genfunctions.clean_transcription_human(transcricao_humana)
 
 with open("transcription/transcricao-2347_carlos_santos_cruz_2016-10-21_01.txt", 'r') as f:
     transcricao_maquina = f.read()
-    transcricao_maquina = functions.parse_transcription_machine(transcricao_maquina)
+    transcricao_maquina = genfunctions.clean_transcription_machine(transcricao_maquina)
 
 
 # Hyperparameters
-m = 1; mm = -1; wi = -1; wd = -1
+m = 1; mm = 1; wi = -1; wd = -1
+
+#m = 1.467; mm = -9.075; wi = -8.139; wd = -6.544
+
 
 sample_1, sample_2, nw_matrix, path, duration = nwalgorithm.best_align(transcricao_humana, transcricao_maquina,
-                                                                          m,mm,wi,ws, distance = False)
-functions.score_match(sample_1, sample_2)
+                                                                          m,mm,wi,wd, distance = False)
 
-from bayes_opt import BayesianOptimization
+print(genfunctions.score_match(sample_1, sample_2))
 
-optimizer = BayesianOptimization(
-    f=train_model,
-    pbounds=bounds,
-    random_state=1,
-)
-optimizer.maximize(init_points=10, n_iter=50)
 
 with open("transcription/transcricao-2347_carlos_santos_cruz_2016-10-21_01.txt", 'r') as f:
     transcricao_maquina = f.read()
@@ -41,8 +37,8 @@ dic_pos_time = functions.phrase_dic(sample_1,transcricao_maquina)
 transcricao_humana_align = sample_2.split()
 phrase = sample_1.split()
 
-mean_time_word = np.mean([dic_pos_time[i]['end_time']-dic_pos_time[i]['start_time'] for i in dic_pos_time])
-sd_time_word = np.std([dic_pos_time[i]['end_time']-dic_pos_time[i]['start_time'] for i in dic_pos_time])
+#mean_time_word = np.mean([dic_pos_time[i]['end_time']-dic_pos_time[i]['start_time'] for i in dic_pos_time])
+#sd_time_word = np.std([dic_pos_time[i]['end_time']-dic_pos_time[i]['start_time'] for i in dic_pos_time])
 
 
 with open("2347_carlos_santos_cruz_2016-10-21_01_v{}{}{}{}.srt".format(str(m),str(mm),str(wi),str(wd)), "w") as file:
