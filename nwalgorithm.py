@@ -8,6 +8,7 @@ import time
 import numpy as np
 from genfunctions import match_using_edit_distance
 
+
 def nw_words(text_small, text_big, match=1, mismatch=-1, gapsmall=-1, gapbig=-1, distance=False):
     """
     Create a matrix that is part of the Needleman-Wunsch algorithm.
@@ -107,21 +108,23 @@ def best_align(text_1, text_2, match=1, mismatch=-1, gapsmall=-1, gapbig=-1, dis
         text_big = text_2.split()
 
     nw_matrix = nw_words(text_small, text_big, match=match, mismatch=mismatch,
-                         gapsmall=gapsmall, gapbig=gapbig, distance=False)
+                         gapsmall=gapsmall, gapbig=gapbig, distance=distance)
 
-    i, j = [len(text_small)-1, len(text_big)-1]
+    i = len(text_small)-1
+    j = len(text_big)-1
 
     alignment_big = [text_big[j]]
-    alignment_small = [text_small[i]]
+    alignment_small = [text_small[i]]  # Matching the last word in the same position
 
     path = []
 
     while i > 0 or j > 0:
 
-        if nw_matrix[i-1,j-1] >= nw_matrix[i-1,j] and nw_matrix[i-1,j-1] >= nw_matrix[i,j-1] and i > 0 and j > 0:
-            i = i - 1
-            j = j - 1
+        if nw_matrix[i-1, j-1] >= nw_matrix[i-1, j] and nw_matrix[i-1, j-1] >= nw_matrix[i, j-1] and i > 0 and j > 0:
+            i = i-1
+            j = j-1
 
+            # adding spacing for better visual comparison between the two texts
             if len(text_big[j]) > len(text_small[i]):
                 text_small[i] = text_small[i] + ' '*(len(text_big[j])-len(text_small[i]))
 
@@ -137,20 +140,22 @@ def best_align(text_1, text_2, match=1, mismatch=-1, gapsmall=-1, gapbig=-1, dis
             path.append("diag")
 
         elif nw_matrix[i-1,j] >= nw_matrix[i-1,j-1] and nw_matrix[i-1,j] >= nw_matrix[i,j-1] and i > 0:
-            i = i - 1
-            alignment_big.append('#'*len(text_small[i]))
+            i = i-1
+
+            alignment_big.append('#'*len(text_small[i]))  # adding hash for better visual comparison
             alignment_small.append(text_small[i])
 
             path.append("up")
 
         else:
-            j = j - 1
+            j = j-1
+
             alignment_big.append(text_big[j])
-            alignment_small.append('#'*len(text_big[j]))
+            alignment_small.append('#'*len(text_big[j]))  # adding hash for better visual comparison
 
             path.append("left")
 
-    alignment_small.reverse()
+    alignment_small.reverse()  # Correcting the text ordering
     alignment_big.reverse()
     path.reverse()
 

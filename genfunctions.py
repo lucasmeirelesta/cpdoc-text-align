@@ -5,8 +5,9 @@ This project brings some general functions to support the project
 """
 
 import re
-import numpy as np
+import time
 import unidecode
+import numpy as np
 from nltk import edit_distance
 
 
@@ -97,7 +98,7 @@ def match_using_edit_distance(word_1, word_2):
     len_word_2 = len(word_2)
 
     if len_word_1 + len_word_2 > 6:
-        threshold = np.floor((len_word_1 + len_word_2) * 0.2)  # Threshold malleable for larger words
+        threshold = np.floor((len_word_1 + len_word_2) * 0.2)  # Malleable threshold for larger words
 
         if threshold < 2:
             threshold = 2
@@ -134,17 +135,168 @@ def phrase_dic(phrase, list_word_time):
             j = j+1
         else:
             if '#' in phrase[i]:
-                #word = len(phrase[i])+1
-
-                #start_time = dic[i-1]['end_time']
-                #end_time = np.round(dic[i-1]['end_time']+word*0.06, 1)
 
                 dic.update({i: {'start_time': 0, 'end_time': 0, 'word': phrase[i]}})
                 j = j+1  # Counting the gaps
+
             else:
+
                 # Because of j we will able to search the list of words that don't have a gap
                 start_time = re.search('start_time: (\d+\.\d+)', list_word_time[i-j]).group(1)
                 end_time = re.search('end_time: (\d+\.\d+)', list_word_time[i-j]).group(1)
                 dic.update({i: {'start_time': float(start_time), 'end_time': float(end_time), 'word': phrase[i]}})
 
     return dic
+
+
+def subtitle_gen(subtitle_name, human_transcription_align, machine_transcription_align, dic_pos_time):
+    """
+    This function create a subtitle using the human transcription with the time of the machine transcription.
+    Sometimes the transcription of the machine accumulates time in one or more words,
+    when it can't recognize some word or phrase spoken. E.g.: short word with two seconds of duration.
+    We use the metric of characters per second as a measure of quality, if the sentence is below a certain
+    value and above another value, are indications that it is not good.
+    Size of which phrase at the subtitle is variable, starting at 10 words.
+    Keep adding words as long as the number of characters per second is not good.
+    If it gets too large, divide the phrase into N pieces and each piece gets a fraction of the total duration.
+
+    :param subtitle_name: (String, default none) The name of the subtitle
+    :param human_transcription: (List, default none) The aligned human transcription in list format,
+    each word a position of the list
+    :param machine_transcription: (List, default none) The aligned human transcription in list format,
+    each word a position of the list
+    :param dic_position_time: (Dic, default none) The dictionary with the time each position has.
+    :return:
+    A subtitle in srt format
+    """
+
+    with open(subtitle_name, "w") as file:
+
+        i = 0
+        j = 0
+
+        while i <= len(human_transcription_align):
+            file.write(str(i + 1) + '\n')  # Each sentence begins with its position in the subtitle
+
+            # The majority of interview have a bip in the first minute, so I separated the first word
+            if i == 0:
+                start_time_format = "00:00:00,000"
+
+                end_time = dic_pos_time[i]['end_time']
+                end_time_format = time.strftime('%H:%M:%S,', time.gmtime(end_time)) + \
+                                  re.findall('\.\d', str(end_time))[0][1] + '00'
+
+                file.write(start_time_format + ' --> ' + end_time_format + '\n')
+                file.write(human_transcription_align[i] + '\n\n')
+
+                i = i+1
+
+            # Last phrase
+            elif i + j >= len(human_transcription_align):
+                start_time = dic_pos_time[i - 1]['end_time']
+                start_time_format = time.strftime('%H:%M:%S,', time.gmtime(start_time)) + \
+                                    re.findall('\.\d', str(start_time))[0][1] + '00'
+
+                end_time = dic_pos_time[len(human_transcription_align) - 1]['end_time']
+                end_time_format = time.strftime('%H:%M:%S,', time.gmtime(end_time)) + \
+                                  re.findall('\.\d', str(end_time))[0][1] + '00'
+
+                file.write(start_time_format + ' --> ' + end_time_format + '\n')
+                file.write(' '.join(human_transcription_align[i:len(human_transcription_align)]) + '\n\n')
+
+                break
+
+            # All other phrases
+            else:
+                start_time = dic_pos_time[i - 1]['end_time']
+                start_time_format = time.strftime('%H:%M:%S,', time.gmtime(start_time)) + \
+                                    re.findall('\.\d', str(start_time))[0][1] + '00'
+
+                temp_char_per_second = 0
+                aux_pos_best_char_per_second = False  # flag
+
+                # Searching for the best combination of words with the lowest second character
+                # although greater than 5.
+                for j in range(10, 200):
+                    if '#' not in machine_transcription_align[i + j]:
+                        end_time = dic_pos_time[i + j]['end_time']
+                        duration = end_time - start_time
+
+                        if duration == 0:
+                            continue
+                        else:
+                            length_char = len(' '.join(human_transcription_align[i:i + j + 1]))
+
+                            if 5 <= length_char / duration <= 21:
+                                position_best = j
+                                aux_pos_best_char_per_second = True
+                                break
+
+                            elif temp_char_per_second < length_char / duration:
+                                temp_char_per_second = length_char / duration
+                                position_second_best = j
+
+                if aux_pos_best_char_per_second is True:
+                    j = position_best
+                else:
+                    j = position_second_best
+
+                end_time = dic_pos_time[i + j]['end_time']
+                end_time_format = time.strftime('%H:%M:%S,', time.gmtime(end_time)) + \
+                                  re.findall('\.\d', str(end_time))[0][1] + \
+                                  '00'
+
+                temp_phrase = ' '.join(human_transcription_align[i:i + j + 1])  # Saves the actual phrase
+                number_of_word = len(temp_phrase.split())
+
+                # Tests if the phrase is too big.
+                if number_of_word > 30:
+                    total_time = end_time - start_time
+                    time_per_word = total_time / number_of_word
+
+                    number_partition = int(np.ceil(number_of_word / 30))  # Maximum of 30 words per slice
+                    size_partition = int(np.ceil(number_of_word / number_partition))
+
+                    # Create the new partitions, the number is defined by how many times it exceeds 30, rounded up
+                    for part in range(0, number_partition):
+
+                        if part == number_partition - 1:
+
+                            new_start_time_format = new_end_time_format
+                            new_phrase = ' '.join(temp_phrase.split()[part * size_partition:number_of_word])
+
+                            file.write(new_start_time_format + ' --> ' + end_time_format + '\n')
+                            file.write(new_phrase + '\n\n')
+
+                        elif part == 0:
+
+                            new_end_time = np.round(start_time + size_partition * time_per_word, 1)
+                            new_end_time_format = time.strftime('%H:%M:%S,', time.gmtime(new_end_time)) + \
+                                                  re.findall('\.\d', str(new_end_time))[0][1] + '00'
+
+                            new_phrase = ' '.join(temp_phrase.split()[0:size_partition])
+
+                            file.write(start_time_format + ' --> ' + new_end_time_format + '\n')
+                            file.write(new_phrase + '\n\n')
+
+                        else:
+                            # Saving the ending time of the previous partition
+                            new_start_time_format = new_end_time_format
+
+                            # Calculate the new ending time adding seconds per words within the partition
+                            new_end_time = np.round(new_end_time + size_partition * time_per_word, 1)
+                            new_end_time_format = time.strftime('%H:%M:%S,', time.gmtime(new_end_time)) + \
+                                                  re.findall('\.\d', str(new_end_time))[0][1] + \
+                                                  '00'
+
+                            new_phrase = ' '.join(temp_phrase.split()
+                                                  [(part * size_partition):(part * size_partition + size_partition)])
+
+                            file.write(new_start_time_format + ' --> ' + new_end_time_format + '\n')
+                            file.write(new_phrase + '\n\n')
+
+                else:
+                    file.write(start_time_format + ' --> ' + end_time_format + '\n')
+                    file.write(temp_phrase + '\n\n')
+
+                i = i+j+1
