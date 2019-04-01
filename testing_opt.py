@@ -6,18 +6,18 @@ This project test the Bayesian Optimization method
 
 
 import time
-import genfunctions
+import utils
 from nwalgorithm import best_align
 from bayes_opt import BayesianOptimization
 
 
 with open("Entrevistas/pho_165_juscelino_kubitschek_i_1974-03-01_01a.txt", 'r') as f:
     human_transcription = f.read()
-    human_transcription = genfunctions.clean_transcription_human(human_transcription)
+    human_transcription = utils.clean_transcription_human(human_transcription)
 
 with open("transcription/transcricao-pho_165_juscelino_kubitschek_i_1974-03-01_01a.txt", 'r') as f:
     machine_transcription = f.read()
-    machine_transcription = genfunctions.clean_transcription_machine(machine_transcription)
+    machine_transcription = utils.clean_transcription_machine(machine_transcription)
 
 
 def opt_hyperparameters(match, mismatch, gapsmall, gapbig):
@@ -41,7 +41,7 @@ def opt_hyperparameters(match, mismatch, gapsmall, gapbig):
     sample_1, sample_2, _, _, _ = best_align(human_transcription, machine_transcription,
                                              match, mismatch, gapsmall, gapbig, distance=False)
 
-    score = genfunctions.score_match(sample_1, sample_2)[0]  # Only the first information is important in this case.
+    score = utils.score_match(sample_1, sample_2)[0]  # Only the first information is important in this case.
 
     return score
 

@@ -1,16 +1,16 @@
 import nwalgorithm
 import numpy as np
-import genfunctions
+import utils
 
 name_interview = "2347_carlos_santos_cruz_2016-10-21_01"
 
 with open("Entrevistas/" + name_interview + ".txt", 'r') as f:
     human_transcription = f.read()
-    human_transcription = genfunctions.clean_transcription_human(human_transcription)
+    human_transcription = utils.clean_transcription_human(human_transcription)
 
 with open("transcription/transcricao-" + name_interview + ".txt", 'r') as f:
     machine_transcription = f.read()
-    machine_transcription = genfunctions.clean_transcription_machine(machine_transcription)
+    machine_transcription = utils.clean_transcription_machine(machine_transcription)
 
 with open("transcription/transcricao-" + name_interview + ".txt", 'r') as f:
     machine_transcription_word = f.read()
@@ -29,14 +29,14 @@ sample_1, sample_2, nw_matrix, path, duration = nwalgorithm.best_align(human_tra
                                                                        distance=False)
 
 # Saving each position with the time that word appear, if not a gap.
-dic_pos_time = genfunctions.phrase_dic(sample_1, machine_transcription_word)
+dic_pos_time = utils.phrase_dic(sample_1, machine_transcription_word)
 
 human_transcription_align = sample_2.split()  # in our case, human transcription is a way bigger than the machine
 machine_transcription_align = sample_1.split()
 
 subtitle_name = name_interview + "_HP_{}{}{}{}.srt".format(str(match), str(mismatch), str(gapsmall), str(gapbig))
 
-genfunctions.subtitle_gen('subtitle/'+subtitle_name, human_transcription_align, machine_transcription_align, dic_pos_time)
+utils.subtitle_gen('subtitle/'+subtitle_name, human_transcription_align, machine_transcription_align, dic_pos_time)
 
 
 #Graphs

@@ -6,7 +6,7 @@ This project brings the implementation of the Needleman-Wunsch to align words be
 
 import time
 import numpy as np
-from genfunctions import match_using_edit_distance
+from utils import match_using_edit_distance
 
 
 def nw_words(text_small, text_big, match=1, mismatch=-1, gapsmall=-1, gapbig=-1, distance=False):
