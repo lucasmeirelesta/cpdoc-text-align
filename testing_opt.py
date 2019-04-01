@@ -66,4 +66,5 @@ optimizer.maximize(init_points=20, n_iter=50)
 
 duration = time.time() - duration
 
+
 print(duration)
