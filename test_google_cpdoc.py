@@ -1,5 +1,4 @@
 import nwalgorithm
-import re
 import numpy as np
 import genfunctions
 
@@ -15,9 +14,8 @@ with open("transcription/transcricao-" + name_interview + ".txt", 'r') as f:
 
 with open("transcription/transcricao-" + name_interview + ".txt", 'r') as f:
     machine_transcription_word = f.read()
-    machine_transcription_word = re.findall(r'Word:(.*?)\nTranscript:', machine_transcription_word)
-    machine_transcription_word = [i.strip() for i in machine_transcription_word]
-
+    machine_transcription_word = machine_transcription_word.split('Word:')[1:]
+    machine_transcription_word = [i.split('\n')[0].strip() for i in machine_transcription_word]
 
 # Hyperparameters
 match = 1
@@ -28,7 +26,7 @@ gapbig = -1
 # Align the two texts
 sample_1, sample_2, nw_matrix, path, duration = nwalgorithm.best_align(human_transcription, machine_transcription,
                                                                        match, mismatch, gapsmall, gapbig,
-                                                                       distance = False)
+                                                                       distance=False)
 
 # Saving each position with the time that word appear, if not a gap.
 dic_pos_time = genfunctions.phrase_dic(sample_1, machine_transcription_word)
@@ -36,16 +34,12 @@ dic_pos_time = genfunctions.phrase_dic(sample_1, machine_transcription_word)
 human_transcription_align = sample_2.split()  # in our case, human transcription is a way bigger than the machine
 machine_transcription_align = sample_1.split()
 
-subtitle_name = name_interview + "{}{}{}{}.srt".format(str(match), str(mismatch), str(gapsmall), str(gapbig))
+subtitle_name = name_interview + "_HP_{}{}{}{}.srt".format(str(match), str(mismatch), str(gapsmall), str(gapbig))
 
-genfunctions.subtitle_gen(subtitle_name, human_transcription_align, machine_transcription_align, dic_pos_time)
-
-
-print(sample_1)
-print(sample_2)
-print(dic_pos_time)
+genfunctions.subtitle_gen('subtitle/'+subtitle_name, human_transcription_align, machine_transcription_align, dic_pos_time)
 
 
+#Graphs
 import seaborn as sns
 import matplotlib.pyplot as plt
 
