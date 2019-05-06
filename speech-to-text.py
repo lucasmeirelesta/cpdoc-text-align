@@ -12,7 +12,7 @@ json_path = '/media/fexu/Tree1/FGV/Projetos/Speech-to-text-CPDOC-b6cbea64d516.js
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = json_path
 
 audio_path = 'Entrevistas'
-audio_name = "Molejo_-_Cilada-fOQ78QpFsds.flac"
+audio_name = "pho_2309_gala_irene_2016-06-06_01.wav"
 audio_path_name = os.path.join(audio_path, audio_name)
 
 

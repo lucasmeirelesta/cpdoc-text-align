@@ -250,11 +250,11 @@ def subtitle_gen(subtitle_name, human_transcription_align, machine_transcription
                 number_of_word = len(temp_phrase.split())
 
                 # Tests if the phrase is too big.
-                if number_of_word > 30:
+                if number_of_word > 20:
                     total_time = end_time - start_time
                     time_per_word = total_time / number_of_word
 
-                    number_partition = int(np.ceil(number_of_word / 30))  # Maximum of 30 words per slice
+                    number_partition = int(np.ceil(number_of_word / 20))  # Maximum of 30 words per slice
                     size_partition = int(np.ceil(number_of_word / number_partition))
 
                     # Create the new partitions, the number is defined by how many times it exceeds 30, rounded up

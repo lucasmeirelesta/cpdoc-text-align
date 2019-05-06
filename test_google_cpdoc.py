@@ -2,7 +2,7 @@ import nwalgorithm
 import numpy as np
 import utils
 
-name_interview = "2347_carlos_santos_cruz_2016-10-21_01"
+name_interview = "pho_2309_gala_irene_2016-06-06_01"
 
 with open("Entrevistas/" + name_interview + ".txt", 'r') as f:
     human_transcription = f.read()
@@ -16,6 +16,7 @@ with open("transcription/transcricao-" + name_interview + ".txt", 'r') as f:
     machine_transcription_word = f.read()
     machine_transcription_word = machine_transcription_word.split('Word:')[1:]
     machine_transcription_word = [i.split('\n')[0].strip() for i in machine_transcription_word]
+
 
 # Hyperparameters
 match = 1
